@@ -1,0 +1,11 @@
+K 13
+svn:mergeinfo
+V 393
+/branches/api-layer-refactor/snpmine/dbmodel:19585-20338
+/branches/keyword-search/snpmine/dbmodel:21818-22331
+/branches/metamine_remodel/experimental-mines/snpmine/dbmodel:23423-23640
+/branches/mnw21/pathquery_refactor/snpmine/dbmodel:20597-22838
+/branches/model_update/snpmine/dbmodel:21277-22538
+/model_update/snpmine/dbmodel:21275-21276
+/trunk/experimental-mines/snpmine/dbmodel:25159,25167
+END

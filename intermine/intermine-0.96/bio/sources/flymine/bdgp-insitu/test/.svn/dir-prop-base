@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 26
+build
+
+bdgp_tgt.xml
+
+dist
+
+END

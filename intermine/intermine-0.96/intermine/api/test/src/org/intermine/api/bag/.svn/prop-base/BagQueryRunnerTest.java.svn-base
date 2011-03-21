@@ -1,0 +1,11 @@
+K 13
+svn:mergeinfo
+V 726
+/branches/api-layer-refactor/intermine/api/test/src/org/intermine/api/bag/BagQueryRunnerTest.java:19585-19595
+/branches/keyword-search/intermine/api/test/src/org/intermine/api/bag/BagQueryRunnerTest.java:21818-22331
+/branches/metamine_remodel/intermine/api/test/src/org/intermine/api/bag/BagQueryRunnerTest.java:23423-23640
+/branches/mnw21/pathquery_refactor/intermine/api/test/src/org/intermine/api/bag/BagQueryRunnerTest.java:20597-22838
+/branches/model_update/intermine/api/test/src/org/intermine/api/bag/BagQueryRunnerTest.java:21277-22538
+/model_update/intermine/api/test/src/org/intermine/api/bag/BagQueryRunnerTest.java:21275-21276
+/trunk/intermine/api/test/src/org/intermine/api/bag/BagQueryRunnerTest.java:25159,25167
+END

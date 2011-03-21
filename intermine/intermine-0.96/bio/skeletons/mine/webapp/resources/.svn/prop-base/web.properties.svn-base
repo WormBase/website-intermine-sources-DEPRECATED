@@ -1,0 +1,19 @@
+K 13
+svn:mergeinfo
+V 1291
+/branches/api-layer-refactor/bio/skeletons/mine/webapp/resources/web.properties:19585-20338
+/branches/flymine_release_14_0_branch/malariamine/webapp/resources/web.properties:16842-16843,16848-16849,16851-16855
+/branches/keyword-search/bio/skeletons/mine/webapp/resources/web.properties:21818-22331
+/branches/metamine_remodel/bio/skeletons/mine/webapp/resources/web.properties:23423-23640
+/branches/mnw21/pathquery_refactor/bio/skeletons/mine/webapp/resources/web.properties:20597-22838
+/branches/model_update/bio/skeletons/mine/webapp/resources/web.properties:21277-22538
+/model_update/bio/skeletons/mine/webapp/resources/web.properties:21275-21276
+/tickets/ticket-1676/malariamine/webapp/resources/web.properties:16929
+/tickets/ticket-1691/bio/tutorial/malariamine/webapp/resources/web.properties:17571-17579
+/tickets/ticket-1712/bio/tutorial/malariamine/webapp/resources/web.properties:17622-17662
+/tickets/ticket-1712/malariamine/webapp/resources/web.properties:16914-16943
+/tickets/ticket-1752/malariamine/webapp/resources/web.properties:16872-16886
+/tickets/ticket-1893/bio/tutorial/malariamine/webapp/resources/web.properties:17283
+/tickets/ticket-1925/bio/tutorial/malariamine/webapp/resources/web.properties:17364
+/trunk/bio/skeletons/mine/webapp/resources/web.properties:25159,25167
+END

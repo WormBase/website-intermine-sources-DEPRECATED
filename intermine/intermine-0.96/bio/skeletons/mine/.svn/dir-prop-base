@@ -1,0 +1,26 @@
+K 10
+svn:ignore
+V 11
+pbuild.log
+
+K 13
+svn:mergeinfo
+V 1123
+/branches/api-layer-refactor/bio/skeletons/mine:19585-20338
+/branches/flymine_release_14_0_branch/flymine:16842-16843,16848-16849,16851-16855
+/branches/keyword-search/bio/skeletons/mine:21818-22331
+/branches/metamine_remodel/bio/skeletons/mine:23423-23640
+/branches/mnw21/outerjoins_in_the_webapp_16418/bio/skeletons/mine:16419-17559
+/branches/mnw21/pathquery_refactor/bio/skeletons/mine:20597-22838
+/branches/model_update/bio/skeletons/mine:21277-22538
+/model_update/bio/skeletons/mine:21275-21276
+/tickets/ticket-1676/flymine:16929
+/tickets/ticket-1691/bio/skeletons/mine:17571-17579
+/tickets/ticket-1712/bio/skeletons/mine:17622-17662
+/tickets/ticket-1712/flymine:16914-16943
+/tickets/ticket-1752/flymine:16872-16886
+/tickets/ticket-1863/bio/skeletons/mine:17648,17667,17670-17671,17690,17699-17701,17703-17704,17706-17708,17710-17711,17713,17735,17761-17763,17779-17782,17804,17809,17858-17860,17862-17863,17871,17900-17901,17903-17904,17907,17917-17918,18005-18006,18019,18023,18026,18028
+/tickets/ticket-1893/bio/skeletons/mine:17283
+/tickets/ticket-1925/bio/skeletons/mine:17364
+/trunk/bio/skeletons/mine:25159,25167
+END

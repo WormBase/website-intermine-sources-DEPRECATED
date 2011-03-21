@@ -1,0 +1,43 @@
+10
+
+dir
+25464
+svn://subversion.flymine.org/branches/intermine_0_96/intermine/webservice/client/main/src/org/intermine/webservice/client
+svn://subversion.flymine.org
+
+
+
+2011-02-17T16:19:23.988898Z
+25098
+alex
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+37e1b716-f2f3-0310-95ce-c813c9c44928
+
+exceptions
+dir
+
+services
+dir
+
+core
+dir
+
+template
+dir
+
+util
+dir
+

@@ -1,0 +1,11 @@
+K 13
+svn:mergeinfo
+V 439
+/branches/api-layer-refactor/bio/sources/example-sources:19585-20338
+/branches/keyword-search/bio/sources/example-sources:21818-22331
+/branches/metamine_remodel/bio/sources/example-sources:23423-23640
+/branches/mnw21/pathquery_refactor/bio/sources/example-sources:20597-22838
+/branches/model_update/bio/sources/example-sources:21277-22538
+/model_update/bio/sources/example-sources:21275-21276
+/trunk/bio/sources/example-sources:25159,25167
+END

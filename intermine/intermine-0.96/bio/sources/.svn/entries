@@ -1,0 +1,163 @@
+10
+
+dir
+25464
+svn://subversion.flymine.org/branches/intermine_0_96/bio/sources
+svn://subversion.flymine.org
+
+
+
+2011-02-23T17:50:51.486660Z
+25168
+rns
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+37e1b716-f2f3-0310-95ce-c813c9c44928
+
+mgi-identifiers
+dir
+
+biogrid
+dir
+
+so
+dir
+
+biopax
+dir
+
+wormbase-identifiers
+dir
+
+entrez-organism
+dir
+
+ensembl
+dir
+
+orthologue
+dir
+
+ncbi-gene
+dir
+
+tab-separated-file
+dir
+
+snp
+dir
+
+chado-db
+dir
+
+interpro
+dir
+
+ensembl-hgnc
+dir
+
+flymine
+dir
+
+interpro-go
+dir
+
+adineta-gff
+dir
+
+uniprot-keywords
+dir
+
+ensembl-snp-db
+dir
+
+psi-mi-ontology
+dir
+
+miranda
+dir
+
+example-sources
+dir
+
+update-publications
+dir
+
+worm-development-ontology
+dir
+
+go-annotation
+dir
+
+hgnc
+dir
+
+protein-atlas
+dir
+
+treefam
+dir
+
+intermine-items-xml-file
+dir
+
+kegg-orthologues
+dir
+
+kegg-pathway
+dir
+
+modmine
+dir
+
+pubmed-gene
+dir
+
+uberon
+dir
+
+psi
+dir
+
+tf-mrna-network
+dir
+
+fasta
+dir
+
+fly-expression-score
+dir
+
+uniprot
+dir
+
+omim
+dir
+
+pdb
+dir
+
+go
+dir
+
+ensembl-gwas-db
+dir
+
+intermine-items-large-xml-file
+dir
+
+experimental-sources
+dir
+

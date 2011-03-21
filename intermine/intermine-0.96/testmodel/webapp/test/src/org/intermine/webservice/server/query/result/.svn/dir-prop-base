@@ -1,0 +1,19 @@
+K 13
+svn:mergeinfo
+V 1592
+/branches/api-layer-refactor/testmodel/webapp/test/src/org/intermine/webservice/server/query/result:19585-20338
+/branches/flymine_release_14_0_branch/testmodel/webapp/test/src/org/intermine/webservice/query/result:16842-16843,16848-16849,16851-16855
+/branches/keyword-search/testmodel/webapp/test/src/org/intermine/webservice/server/query/result:21818-22331
+/branches/metamine_remodel/testmodel/webapp/test/src/org/intermine/webservice/server/query/result:23423-23640
+/branches/mnw21/outerjoins_in_the_webapp_16418/testmodel/webapp/test/src/org/intermine/webservice/server/query/result:16419-17559
+/branches/mnw21/pathquery_refactor/testmodel/webapp/test/src/org/intermine/webservice/server/query/result:20597-22838
+/branches/model_update/testmodel/webapp/test/src/org/intermine/webservice/server/query/result:21277-22538
+/model_update/testmodel/webapp/test/src/org/intermine/webservice/server/query/result:21275-21276
+/tickets/ticket-1676/testmodel/webapp/test/src/org/intermine/webservice/query/result:16929
+/tickets/ticket-1691/testmodel/webapp/test/src/org/intermine/webservice/server/query/result:17571-17579
+/tickets/ticket-1712/testmodel/webapp/test/src/org/intermine/webservice/query/result:16914-16943
+/tickets/ticket-1712/testmodel/webapp/test/src/org/intermine/webservice/server/query/result:17622-17662
+/tickets/ticket-1752/testmodel/webapp/test/src/org/intermine/webservice/query/result:16872-16886
+/tickets/ticket-1893/testmodel/webapp/test/src/org/intermine/webservice/query/result:17283
+/trunk/testmodel/webapp/test/src/org/intermine/webservice/server/query/result:25159,25167
+END

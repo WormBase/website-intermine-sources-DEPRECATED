@@ -1,0 +1,89 @@
+10
+
+dir
+25464
+svn://subversion.flymine.org/branches/intermine_0_96/intermine/objectstore/main/src/org/intermine
+svn://subversion.flymine.org
+
+
+
+2011-02-15T11:53:16.894481Z
+25064
+julie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+37e1b716-f2f3-0310-95ce-c813c9c44928
+
+sql
+dir
+
+metadata
+dir
+
+model
+dir
+
+xml
+dir
+
+task
+dir
+
+objectstore
+dir
+
+codegen
+dir
+
+modelproduction
+dir
+
+InterMineException.java
+file
+
+
+
+
+2011-03-21T20:46:00.000000Z
+2619a759fc92beb6130d7556f8b18397
+2011-01-07T17:29:42.557404Z
+24567
+julie
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1298
+
+util
+dir
+

@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 69
+build
+dist
+intermine.log*
+velocity.log*
+flymine.log*
+productionLog
+
+
+END

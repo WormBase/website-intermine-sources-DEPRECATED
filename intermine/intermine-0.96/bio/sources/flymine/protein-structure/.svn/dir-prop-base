@@ -1,0 +1,25 @@
+K 10
+svn:ignore
+V 6
+build
+
+K 13
+svn:mergeinfo
+V 1378
+/branches/api-layer-refactor/bio/sources/flymine/protein_structure:19585-20338
+/branches/flymine_release_14_0_branch/bio/sources/protein_structure:16842-16843,16848-16849,16851-16855
+/branches/metamine_remodel/bio/sources/flymine/protein-structure:23423-23640
+/branches/mnw21/outerjoins_in_the_webapp_16418/bio/sources/protein_structure:16419-17559
+/branches/mnw21/outerjoins_in_the_webapp_16583/bio/sources/protein_structure:16593-16623
+/branches/mnw21/pathquery_refactor/bio/sources/flymine/protein-structure:20597-22838
+/branches/model_update/bio/sources/flymine/protein-structure:21277-21353
+/tickets/ticket-1676/bio/sources/protein_structure:16929
+/tickets/ticket-1691/bio/sources/protein_structure:17571-17579
+/tickets/ticket-1712/bio/sources/protein_structure:16914-16943,17622-17662
+/tickets/ticket-1752/bio/sources/protein_structure:16872-16886
+/tickets/ticket-1863/bio/sources/protein_structure:17648,17667,17670-17671,17690,17699-17701,17703-17704,17706-17708,17710-17711,17713,17735,17761-17763,17779-17782,17804,17809,17858-17860,17862-17863,17871,17900-17901,17903-17904,17907,17917-17918,18005-18006,18019,18023,18026,18028
+/tickets/ticket-1893/bio/sources/protein_structure:17283
+/tickets/ticket-1925/bio/sources/protein_structure:17364
+/trunk/bio/sources/flymine/protein-structure:25159,25167
+/trunk/bio/sources/flymine/protein_structure:21276-21309,21311-21314
+END

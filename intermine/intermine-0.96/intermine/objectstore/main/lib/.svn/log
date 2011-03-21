@@ -1,0 +1,328 @@
+<modify-entry
+   name="xercesImpl-2.6.1.jar"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/xercesImpl-2.6.1.jar.svn-base"
+   name=".svn/prop-base/tempfile.tmp"/>
+<readonly
+   name=".svn/prop-base/xercesImpl-2.6.1.jar.svn-base"/>
+<modify-entry
+   committed-rev="11469"
+   committed-date="2007-04-20T13:53:20.983815Z"
+   name="xercesImpl-2.6.1.jar"
+   last-author="mnw21"
+   uuid="37e1b716-f2f3-0310-95ce-c813c9c44928"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="xercesImpl-2.6.1.jar"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="25464"/>
+<cp-and-translate
+   dest="xercesImpl-2.6.1.jar"
+   name=".svn/tmp/text-base/xercesImpl-2.6.1.jar.svn-base"/>
+<mv
+   dest=".svn/text-base/xercesImpl-2.6.1.jar.svn-base"
+   name=".svn/tmp/text-base/xercesImpl-2.6.1.jar.svn-base"/>
+<readonly
+   name=".svn/text-base/xercesImpl-2.6.1.jar.svn-base"/>
+<modify-entry
+   name="xercesImpl-2.6.1.jar"
+   checksum="9dc4ebeaac98dde8bebfdf76630366c7"/>
+<modify-entry
+   name="xercesImpl-2.6.1.jar"
+   text-time="working"/>
+<modify-entry
+   name="xercesImpl-2.6.1.jar"
+   working-size="working"/>
+<modify-entry
+   name="commons-io-1.2.jar"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/commons-io-1.2.jar.svn-base"
+   name=".svn/prop-base/tempfile.2.tmp"/>
+<readonly
+   name=".svn/prop-base/commons-io-1.2.jar.svn-base"/>
+<modify-entry
+   committed-rev="11329"
+   committed-date="2007-04-02T14:29:11.369486Z"
+   name="commons-io-1.2.jar"
+   last-author="mnw21"
+   uuid="37e1b716-f2f3-0310-95ce-c813c9c44928"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="commons-io-1.2.jar"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="25464"/>
+<cp-and-translate
+   dest="commons-io-1.2.jar"
+   name=".svn/tmp/text-base/commons-io-1.2.jar.svn-base"/>
+<mv
+   dest=".svn/text-base/commons-io-1.2.jar.svn-base"
+   name=".svn/tmp/text-base/commons-io-1.2.jar.svn-base"/>
+<readonly
+   name=".svn/text-base/commons-io-1.2.jar.svn-base"/>
+<modify-entry
+   name="commons-io-1.2.jar"
+   checksum="b0bf5f906af5a936992514ed087f1fa2"/>
+<modify-entry
+   name="commons-io-1.2.jar"
+   text-time="working"/>
+<modify-entry
+   name="commons-io-1.2.jar"
+   working-size="working"/>
+<modify-entry
+   name="saaj.jar"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/saaj.jar.svn-base"
+   name=".svn/prop-base/tempfile.3.tmp"/>
+<readonly
+   name=".svn/prop-base/saaj.jar.svn-base"/>
+<modify-entry
+   committed-rev="6906"
+   committed-date="2005-05-31T15:05:42.885964Z"
+   name="saaj.jar"
+   last-author="tom"
+   uuid="37e1b716-f2f3-0310-95ce-c813c9c44928"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="saaj.jar"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="25464"/>
+<cp-and-translate
+   dest="saaj.jar"
+   name=".svn/tmp/text-base/saaj.jar.svn-base"/>
+<mv
+   dest=".svn/text-base/saaj.jar.svn-base"
+   name=".svn/tmp/text-base/saaj.jar.svn-base"/>
+<readonly
+   name=".svn/text-base/saaj.jar.svn-base"/>
+<modify-entry
+   name="saaj.jar"
+   checksum="6feffd79bccd82deb5334b8dbfaa3dc4"/>
+<modify-entry
+   name="saaj.jar"
+   text-time="working"/>
+<modify-entry
+   name="saaj.jar"
+   working-size="working"/>
+<modify-entry
+   name="commons-digester.jar"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/commons-digester.jar.svn-base"
+   name=".svn/prop-base/tempfile.4.tmp"/>
+<readonly
+   name=".svn/prop-base/commons-digester.jar.svn-base"/>
+<modify-entry
+   committed-rev="6893"
+   committed-date="2005-05-31T10:37:56.463300Z"
+   name="commons-digester.jar"
+   last-author="tom"
+   uuid="37e1b716-f2f3-0310-95ce-c813c9c44928"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="commons-digester.jar"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="25464"/>
+<cp-and-translate
+   dest="commons-digester.jar"
+   name=".svn/tmp/text-base/commons-digester.jar.svn-base"/>
+<mv
+   dest=".svn/text-base/commons-digester.jar.svn-base"
+   name=".svn/tmp/text-base/commons-digester.jar.svn-base"/>
+<readonly
+   name=".svn/text-base/commons-digester.jar.svn-base"/>
+<modify-entry
+   name="commons-digester.jar"
+   checksum="a57dc98ab4e7dde7a531ad24b750289a"/>
+<modify-entry
+   name="commons-digester.jar"
+   text-time="working"/>
+<modify-entry
+   name="commons-digester.jar"
+   working-size="working"/>
+<modify-entry
+   name="log4j.jar"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/log4j.jar.svn-base"
+   name=".svn/prop-base/tempfile.5.tmp"/>
+<readonly
+   name=".svn/prop-base/log4j.jar.svn-base"/>
+<modify-entry
+   committed-rev="6893"
+   committed-date="2005-05-31T10:37:56.463300Z"
+   name="log4j.jar"
+   last-author="tom"
+   uuid="37e1b716-f2f3-0310-95ce-c813c9c44928"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="log4j.jar"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="25464"/>
+<cp-and-translate
+   dest="log4j.jar"
+   name=".svn/tmp/text-base/log4j.jar.svn-base"/>
+<mv
+   dest=".svn/text-base/log4j.jar.svn-base"
+   name=".svn/tmp/text-base/log4j.jar.svn-base"/>
+<readonly
+   name=".svn/text-base/log4j.jar.svn-base"/>
+<modify-entry
+   name="log4j.jar"
+   checksum="8631619c6becebaac70862ac9c36af44"/>
+<modify-entry
+   name="log4j.jar"
+   text-time="working"/>
+<modify-entry
+   name="log4j.jar"
+   working-size="working"/>
+<modify-entry
+   name="antlr-2.7.6-caching.jar"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/antlr-2.7.6-caching.jar.svn-base"
+   name=".svn/prop-base/tempfile.6.tmp"/>
+<readonly
+   name=".svn/prop-base/antlr-2.7.6-caching.jar.svn-base"/>
+<modify-entry
+   committed-rev="8818"
+   committed-date="2006-03-29T09:48:13.625424Z"
+   name="antlr-2.7.6-caching.jar"
+   last-author="mnw21"
+   uuid="37e1b716-f2f3-0310-95ce-c813c9c44928"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="antlr-2.7.6-caching.jar"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="25464"/>
+<cp-and-translate
+   dest="antlr-2.7.6-caching.jar"
+   name=".svn/tmp/text-base/antlr-2.7.6-caching.jar.svn-base"/>
+<mv
+   dest=".svn/text-base/antlr-2.7.6-caching.jar.svn-base"
+   name=".svn/tmp/text-base/antlr-2.7.6-caching.jar.svn-base"/>
+<readonly
+   name=".svn/text-base/antlr-2.7.6-caching.jar.svn-base"/>
+<modify-entry
+   name="antlr-2.7.6-caching.jar"
+   checksum="1cadaf30a85dc384948d36a8fdc9c400"/>
+<modify-entry
+   name="antlr-2.7.6-caching.jar"
+   text-time="working"/>
+<modify-entry
+   name="antlr-2.7.6-caching.jar"
+   working-size="working"/>
+<modify-entry
+   name="cglib-full-2.0.1-patched.jar"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/cglib-full-2.0.1-patched.jar.svn-base"
+   name=".svn/prop-base/tempfile.7.tmp"/>
+<readonly
+   name=".svn/prop-base/cglib-full-2.0.1-patched.jar.svn-base"/>
+<modify-entry
+   committed-rev="6893"
+   committed-date="2005-05-31T10:37:56.463300Z"
+   name="cglib-full-2.0.1-patched.jar"
+   last-author="tom"
+   uuid="37e1b716-f2f3-0310-95ce-c813c9c44928"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="cglib-full-2.0.1-patched.jar"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="25464"/>
+<cp-and-translate
+   dest="cglib-full-2.0.1-patched.jar"
+   name=".svn/tmp/text-base/cglib-full-2.0.1-patched.jar.svn-base"/>
+<mv
+   dest=".svn/text-base/cglib-full-2.0.1-patched.jar.svn-base"
+   name=".svn/tmp/text-base/cglib-full-2.0.1-patched.jar.svn-base"/>
+<readonly
+   name=".svn/text-base/cglib-full-2.0.1-patched.jar.svn-base"/>
+<modify-entry
+   name="cglib-full-2.0.1-patched.jar"
+   checksum="f539df0f412fe028a32f650e43f4010f"/>
+<modify-entry
+   name="cglib-full-2.0.1-patched.jar"
+   text-time="working"/>
+<modify-entry
+   name="cglib-full-2.0.1-patched.jar"
+   working-size="working"/>
+<modify-entry
+   name="base64.jar"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/base64.jar.svn-base"
+   name=".svn/prop-base/tempfile.8.tmp"/>
+<readonly
+   name=".svn/prop-base/base64.jar.svn-base"/>
+<modify-entry
+   committed-rev="19379"
+   committed-date="2009-07-09T12:22:40.277243Z"
+   name="base64.jar"
+   last-author="mnw21"
+   uuid="37e1b716-f2f3-0310-95ce-c813c9c44928"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="base64.jar"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="25464"/>
+<cp-and-translate
+   dest="base64.jar"
+   name=".svn/tmp/text-base/base64.jar.svn-base"/>
+<mv
+   dest=".svn/text-base/base64.jar.svn-base"
+   name=".svn/tmp/text-base/base64.jar.svn-base"/>
+<readonly
+   name=".svn/text-base/base64.jar.svn-base"/>
+<modify-entry
+   name="base64.jar"
+   checksum="a284a7f4c3265bc3510c7982891603cf"/>
+<modify-entry
+   name="base64.jar"
+   text-time="working"/>
+<modify-entry
+   name="base64.jar"
+   working-size="working"/>

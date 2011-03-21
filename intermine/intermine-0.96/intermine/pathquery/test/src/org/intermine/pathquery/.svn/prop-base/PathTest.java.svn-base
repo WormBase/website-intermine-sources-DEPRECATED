@@ -1,0 +1,11 @@
+K 13
+svn:mergeinfo
+V 712
+/branches/api-layer-refactor/intermine/pathquery/test/src/org/intermine/pathquery/PathTest.java:19585-20338
+/branches/keyword-search/intermine/pathquery/test/src/org/intermine/pathquery/PathTest.java:21818-22331
+/branches/metamine_remodel/intermine/pathquery/test/src/org/intermine/pathquery/PathTest.java:23423-23640
+/branches/mnw21/pathquery_refactor/intermine/pathquery/test/src/org/intermine/pathquery/PathTest.java:20597-22838
+/branches/model_update/intermine/pathquery/test/src/org/intermine/pathquery/PathTest.java:21277-22538
+/model_update/intermine/pathquery/test/src/org/intermine/pathquery/PathTest.java:21275-21276
+/trunk/intermine/pathquery/test/src/org/intermine/pathquery/PathTest.java:25159,25167
+END

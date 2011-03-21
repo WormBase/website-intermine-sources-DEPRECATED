@@ -1,0 +1,21 @@
+K 13
+svn:mergeinfo
+V 1292
+/branches/api-layer-refactor/flymine-private/scripts/bruisecontrol:19585-20338
+/branches/flymine_release_14_0_branch/flymine-private/scripts/bruisecontrol:16842-16843,16848-16849,16851-16855
+/branches/keyword-search/flymine-private/scripts/bruisecontrol:21818-22331
+/branches/metamine_remodel/bio/scripts/flymine/bruisecontrol:23423-23640
+/branches/mnw21/outerjoins_in_the_webapp_16418/flymine-private/scripts/bruisecontrol:16419-17559
+/branches/mnw21/outerjoins_in_the_webapp_16583/flymine-private/scripts/bruisecontrol:16593-16623
+/branches/mnw21/pathquery_refactor/flymine-private/scripts/bruisecontrol:20597-22838
+/branches/model_update/flymine-private/scripts/bruisecontrol:21277-22538
+/model_update/flymine-private/scripts/bruisecontrol:21275-21276
+/tickets/ticket-1676/flymine-private/scripts/bruisecontrol:16929
+/tickets/ticket-1691/flymine-private/scripts/bruisecontrol:17571-17579
+/tickets/ticket-1712/flymine-private/scripts/bruisecontrol:16914-16943,17622-17662
+/tickets/ticket-1752/flymine-private/scripts/bruisecontrol:16872-16886
+/tickets/ticket-1863/flymine-private/scripts/bruisecontrol:17905
+/tickets/ticket-1893/flymine-private/scripts/bruisecontrol:17283
+/tickets/ticket-1925/flymine-private/scripts/bruisecontrol:17364
+/trunk/bio/scripts/flymine/bruisecontrol:25159,25167
+END

@@ -1,0 +1,17 @@
+K 10
+svn:ignore
+V 6
+build
+
+K 13
+svn:mergeinfo
+V 456
+/branches/api-layer-refactor/bio/sources/chado-db:19585-20338
+/branches/keyword-search/bio/sources/chado-db:21818-22331
+/branches/metamine_remodel/bio/sources/chado-db:23423-23640
+/branches/mnw21/pathquery_refactor/bio/sources/chado-db:20597-22838
+/branches/model_update/bio/sources/chado-db:21277-22538
+/model_update/bio/sources/chado-db:21275-21276
+/tickets/ticket-1863/bio/sources/chado-db:18019,18023,18026,18028
+/trunk/bio/sources/chado-db:25159,25167
+END

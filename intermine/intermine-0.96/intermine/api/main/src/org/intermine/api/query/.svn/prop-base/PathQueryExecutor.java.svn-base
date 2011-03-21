@@ -1,0 +1,18 @@
+K 13
+svn:mergeinfo
+V 1107
+/branches/api-layer-refactor/intermine/api/main/src/org/intermine/api/query/PathQueryExecutor.java:19585-19587
+/branches/keyword-search/intermine/api/main/src/org/intermine/api/query/PathQueryExecutor.java:21818-22331
+/branches/metamine_remodel/intermine/api/main/src/org/intermine/api/query/PathQueryExecutor.java:23423-23640
+/branches/mnw21/outerjoins_in_the_webapp_16418/intermine/web/main/src/org/intermine/webservice/server/core/PathQueryExecutor.java:16419-17559
+/branches/mnw21/pathquery_refactor/intermine/api/main/src/org/intermine/api/query/PathQueryExecutor.java:20597-22838
+/branches/model_update/intermine/api/main/src/org/intermine/api/query/PathQueryExecutor.java:21277-22538
+/model_update/intermine/api/main/src/org/intermine/api/query/PathQueryExecutor.java:21275-21276
+/tickets/ticket-1691/intermine/web/main/src/org/intermine/webservice/server/core/PathQueryExecutor.java:17571-17579
+/tickets/ticket-1712/intermine/web/main/src/org/intermine/webservice/server/core/PathQueryExecutor.java:17622-17662
+/trunk/intermine/api/main/src/org/intermine/api/query/PathQueryExecutor.java:25159,25167
+K 13
+svn:mime-type
+V 10
+text/plain
+END

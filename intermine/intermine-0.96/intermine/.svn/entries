@@ -1,0 +1,104 @@
+10
+
+dir
+25464
+svn://subversion.flymine.org/branches/intermine_0_96/intermine
+svn://subversion.flymine.org
+
+
+
+2011-03-08T14:35:29.173875Z
+25276
+julie
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+37e1b716-f2f3-0310-95ce-c813c9c44928
+
+pathquery
+dir
+
+integrate
+dir
+
+webtasks
+dir
+
+objectstore
+dir
+
+MineManager
+dir
+
+scripts
+dir
+
+webservice
+dir
+
+performancetest
+dir
+
+perl
+dir
+
+doc
+dir
+
+default.intermine.properties
+file
+
+
+
+
+2011-03-21T20:49:11.000000Z
+32e76f3c5f125370e0b49d126b4c6ac3
+2010-10-21T15:25:50.952322Z
+23582
+dbutano
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6524
+
+all
+dir
+
+api
+dir
+
+web
+dir
+
+webapp
+dir
+
