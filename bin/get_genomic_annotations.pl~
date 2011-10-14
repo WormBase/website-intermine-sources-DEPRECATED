@@ -1,0 +1,6 @@
+#!/bin/bash
+
+WSVERSION=$2
+DATAROOT=/usr/local/wormbase/intermine/data/${WSVERSION}/
+
+curl -O

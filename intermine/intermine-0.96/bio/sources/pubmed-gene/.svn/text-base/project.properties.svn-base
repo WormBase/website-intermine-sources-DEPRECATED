@@ -1,5 +1,0 @@
-compile.dependencies = intermine/integrate/main, bio/sources/pubmed-gene/main
-
-have.file.custom.tgt = true
-converter.class = org.intermine.bio.dataconversion.PubMedGeneConverter
-

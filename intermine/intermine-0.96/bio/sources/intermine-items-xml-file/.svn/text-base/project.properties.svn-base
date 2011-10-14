@@ -1,4 +1,0 @@
-compile.dependencies = intermine/integrate/main
-
-have.file.xml.tgt = true
-
