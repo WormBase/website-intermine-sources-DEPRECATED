@@ -1,9 +1,0 @@
-K 10
-svn:ignore
-V 40
-build
-dist
-intermine.log*
-velocity.log*
-
-END

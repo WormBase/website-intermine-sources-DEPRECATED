@@ -1,5 +1,0 @@
-.templateTitleBold {
-  padding: 4px;
-  font-weight: bold;}
-
-li.tb_button.inactive a { color:#BBB; }

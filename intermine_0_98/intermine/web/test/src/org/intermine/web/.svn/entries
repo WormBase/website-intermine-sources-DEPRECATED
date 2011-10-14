@@ -1,40 +1,0 @@
-9
-
-dir
-28127
-http://subversion.flymine.org/branches/intermine_0_98/intermine/web/test/src/org/intermine/web
-http://subversion.flymine.org
-
-
-
-2011-08-17T11:55:35.888128Z
-27581
-dbutano
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-37e1b716-f2f3-0310-95ce-c813c9c44928
-
-aspects
-dir
-
-struts
-dir
-
-logic
-dir
-
-util
-dir
-

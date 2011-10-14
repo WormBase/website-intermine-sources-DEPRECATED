@@ -1,2 +1,0 @@
-<query name="This Query" model="testmodel" title="Query Title" longDescription="Query Description"
- view="Employee.name Employee.age" />

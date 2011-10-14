@@ -1,34 +1,0 @@
-9
-
-dir
-28127
-http://subversion.flymine.org/branches/intermine_0_98/bio/core/main/src/org/intermine/bio/io
-http://subversion.flymine.org
-
-
-
-2011-06-24T09:51:18.929432Z
-26675
-fhu
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-37e1b716-f2f3-0310-95ce-c813c9c44928
-
-gff3
-dir
-
-bed
-dir
-

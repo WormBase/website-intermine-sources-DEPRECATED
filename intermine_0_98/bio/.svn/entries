@@ -1,92 +1,0 @@
-9
-
-dir
-28127
-http://subversion.flymine.org/branches/intermine_0_98/bio
-http://subversion.flymine.org
-
-
-
-2011-10-07T13:47:48.378460Z
-28043
-julie
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-37e1b716-f2f3-0310-95ce-c813c9c44928
-
-tools
-dir
-
-perl
-dir
-
-sources
-dir
-
-tutorial
-dir
-
-postprocess
-dir
-
-test-all
-dir
-
-default.intermine.test.properties
-file
-
-
-
-
-2011-10-14T13:48:33.000000Z
-6555f67fc6e9f8d2ab9a983d97e30b14
-2010-07-20T16:45:43.752286Z
-22006
-mnw21
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2126
-
-scripts
-dir
-
-skeletons
-dir
-
-core
-dir
-
-webapp
-dir
-

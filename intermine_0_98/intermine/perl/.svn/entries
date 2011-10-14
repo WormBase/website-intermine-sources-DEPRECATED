@@ -1,95 +1,0 @@
-9
-
-dir
-28127
-http://subversion.flymine.org/branches/intermine_0_98/intermine/perl
-http://subversion.flymine.org
-
-
-
-2011-10-05T18:18:16.459259Z
-28014
-alex
-has-props
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-37e1b716-f2f3-0310-95ce-c813c9c44928
-
-samples
-dir
-
-InterMine-Util
-dir
-
-InterMine-Item
-dir
-
-Webservice-InterMine
-dir
-
-lib
-dir
-
-old_versions
-dir
-
-InterMine-Model
-dir
-
-registry
-dir
-
-MineViewer
-dir
-
-Webservice-InterMine-Bio
-dir
-
-README
-file
-
-
-
-
-2011-10-14T13:51:58.000000Z
-318fbaca01b2999bfe7ce37a5e3d9f4a
-2011-07-28T12:59:11.454693Z
-27304
-alex
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-696
-
-InterMine-TypeLibrary
-dir
-

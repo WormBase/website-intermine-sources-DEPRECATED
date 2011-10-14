@@ -1,9 +1,0 @@
-K 10
-svn:ignore
-V 29
-build
-dist
-bin
-intermine.log
-
-END

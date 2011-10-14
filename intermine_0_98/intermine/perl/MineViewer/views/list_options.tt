@@ -1,5 +1,0 @@
-[% FOREACH list IN lists %]
-    <option value="[% list.name %]">
-        [% list.name %] ([% list.size %] [% pluraliser(list.type) %]) 
-    </option>
-[% END %]
