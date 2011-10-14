@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/javascript/resultstables/test/lib/DataTables-1.8.1/examples/server_side/scripts
+END
+jsonp.php
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/javascript/resultstables/test/lib/DataTables-1.8.1/examples/server_side/scripts/jsonp.php
+END
+objects.php
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/javascript/resultstables/test/lib/DataTables-1.8.1/examples/server_side/scripts/objects.php
+END
+ordering.php
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/javascript/resultstables/test/lib/DataTables-1.8.1/examples/server_side/scripts/ordering.php
+END
+id.php
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/javascript/resultstables/test/lib/DataTables-1.8.1/examples/server_side/scripts/id.php
+END
+details_col.php
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/javascript/resultstables/test/lib/DataTables-1.8.1/examples/server_side/scripts/details_col.php
+END
+filter_col.php
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/javascript/resultstables/test/lib/DataTables-1.8.1/examples/server_side/scripts/filter_col.php
+END
+server_processing.php
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/javascript/resultstables/test/lib/DataTables-1.8.1/examples/server_side/scripts/server_processing.php
+END
+post.php
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/javascript/resultstables/test/lib/DataTables-1.8.1/examples/server_side/scripts/post.php
+END
+custom_data_property.php
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/javascript/resultstables/test/lib/DataTables-1.8.1/examples/server_side/scripts/custom_data_property.php
+END

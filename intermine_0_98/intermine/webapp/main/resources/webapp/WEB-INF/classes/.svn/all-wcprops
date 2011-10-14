@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/WEB-INF/classes
+END
+InterMineWebApp.properties
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/WEB-INF/classes/InterMineWebApp.properties
+END
+openid-providers.properties
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/WEB-INF/classes/openid-providers.properties
+END

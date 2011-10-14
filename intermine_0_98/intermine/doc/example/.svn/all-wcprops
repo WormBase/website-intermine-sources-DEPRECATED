@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/28046/branches/intermine_0_98/intermine/doc/example
+END
+intermine-test.properties
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/28046/branches/intermine_0_98/intermine/doc/example/intermine-test.properties
+END
+intermine-bio-test.properties
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/28046/branches/intermine_0_98/intermine/doc/example/intermine-bio-test.properties
+END
+testmodel.properties
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/28046/branches/intermine_0_98/intermine/doc/example/testmodel.properties
+END
+flymine.properties
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/28046/branches/intermine_0_98/intermine/doc/example/flymine.properties
+END

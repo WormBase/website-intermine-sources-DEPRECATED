@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/unimine/dbmodel/resources
+END
+genomic_precompute.properties
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/unimine/dbmodel/resources/genomic_precompute.properties
+END
+objectstoresummary.config.properties
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/unimine/dbmodel/resources/objectstoresummary.config.properties
+END
+genomic_priorities.properties
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/unimine/dbmodel/resources/genomic_priorities.properties
+END
+genomic_keyDefs.properties
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/unimine/dbmodel/resources/genomic_keyDefs.properties
+END
+class_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/unimine/dbmodel/resources/class_keys.properties
+END

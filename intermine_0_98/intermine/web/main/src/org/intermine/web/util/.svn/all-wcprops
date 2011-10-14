@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/util
+END
+InterMineLinkGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/util/InterMineLinkGenerator.java
+END
+URLUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/util/URLUtil.java
+END
+AttributeLinkURL.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/util/AttributeLinkURL.java
+END
+URLGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/util/URLGenerator.java
+END
+HttpClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/util/HttpClient.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/28046/branches/intermine_0_98/intermine/performancetest/test1/dbmodel
+END
+performancetest1_model.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/intermine/performancetest/test1/dbmodel/performancetest1_model.xml
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/28046/branches/intermine_0_98/intermine/performancetest/test1/dbmodel/project.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/28046/branches/intermine_0_98/intermine/performancetest/test1/dbmodel/build.xml
+END

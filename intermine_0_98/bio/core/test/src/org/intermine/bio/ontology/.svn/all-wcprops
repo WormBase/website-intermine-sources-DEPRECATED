@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/28046/branches/intermine_0_98/bio/core/test/src/org/intermine/bio/ontology
+END
+OboTermTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/28046/branches/intermine_0_98/bio/core/test/src/org/intermine/bio/ontology/OboTermTest.java
+END
+OboParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/28046/branches/intermine_0_98/bio/core/test/src/org/intermine/bio/ontology/OboParserTest.java
+END

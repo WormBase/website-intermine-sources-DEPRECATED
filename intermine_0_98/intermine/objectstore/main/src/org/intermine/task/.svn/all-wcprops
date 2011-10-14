@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/task
+END
+StoreMetadataTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/task/StoreMetadataTask.java
+END
+ModelOutputTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/task/ModelOutputTask.java
+END
+AnalyseDbTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/task/AnalyseDbTask.java
+END
+ModelMergerTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/task/ModelMergerTask.java
+END
+PrecomputeTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/task/PrecomputeTask.java
+END
+antlib-os.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/task/antlib-os.xml
+END
+BuildDbTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/task/BuildDbTask.java
+END
+AcceptanceTestTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/task/AcceptanceTestTask.java
+END
+RetrieveMetadataTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/task/RetrieveMetadataTask.java
+END
+DynamicAttributeTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/task/DynamicAttributeTask.java
+END
+GrantTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/task/GrantTask.java
+END

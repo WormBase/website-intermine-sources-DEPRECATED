@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/test/src/org/intermine/api/profile
+END
+TagManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/test/src/org/intermine/api/profile/TagManagerTest.java
+END
+DeletingProfileManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/test/src/org/intermine/api/profile/DeletingProfileManager.java
+END
+SavedQueryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/test/src/org/intermine/api/profile/SavedQueryTest.java
+END
+ProfileManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/test/src/org/intermine/api/profile/ProfileManagerTest.java
+END

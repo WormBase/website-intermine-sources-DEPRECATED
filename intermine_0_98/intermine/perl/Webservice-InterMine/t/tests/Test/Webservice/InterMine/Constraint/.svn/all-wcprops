@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/t/tests/Test/Webservice/InterMine/Constraint
+END
+Binary.pm
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/t/tests/Test/Webservice/InterMine/Constraint/Binary.pm
+END
+Ternary.pm
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/t/tests/Test/Webservice/InterMine/Constraint/Ternary.pm
+END
+Multi.pm
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/t/tests/Test/Webservice/InterMine/Constraint/Multi.pm
+END
+Unary.pm
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/t/tests/Test/Webservice/InterMine/Constraint/Unary.pm
+END
+SubClass.pm
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/t/tests/Test/Webservice/InterMine/Constraint/SubClass.pm
+END

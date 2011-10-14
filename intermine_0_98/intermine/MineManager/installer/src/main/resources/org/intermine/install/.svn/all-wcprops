@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager/installer/src/main/resources/org/intermine/install
+END
+messages_en.properties
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager/installer/src/main/resources/org/intermine/install/messages_en.properties
+END
+postgres_messages_en.properties
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager/installer/src/main/resources/org/intermine/install/postgres_messages_en.properties
+END
+preferences.properties
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager/installer/src/main/resources/org/intermine/install/preferences.properties
+END

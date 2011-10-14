@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp
+END
+begin.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/begin.jsp
+END
+headMenu.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/headMenu.jsp
+END
+spanUploadResults.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/spanUploadResults.jsp
+END
+keywordSearch.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/keywordSearch.jsp
+END
+keywordSearchResults.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/keywordSearchResults.jsp
+END
+wormRegulatoryNetwork.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/wormRegulatoryNetwork.jsp
+END
+layout.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/layout.jsp
+END
+modMineSearch.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/modMineSearch.jsp
+END
+dataCategories.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/dataCategories.jsp
+END
+modMineSearchResults.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/modMineSearchResults.jsp
+END
+spanUploadOptions.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/spanUploadOptions.jsp
+END
+flyRegulatoryNetwork.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/flyRegulatoryNetwork.jsp
+END
+beginOld.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/beginOld.jsp
+END

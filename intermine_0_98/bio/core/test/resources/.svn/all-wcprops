@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/28046/branches/intermine_0_98/bio/core/test/resources
+END
+test.gff
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/28046/branches/intermine_0_98/bio/core/test/resources/test.gff
+END
+modmine_acceptance_test.conf
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28046/branches/intermine_0_98/bio/core/test/resources/modmine_acceptance_test.conf
+END
+modmine_acceptance_test_metadata.conf
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/28046/branches/intermine_0_98/bio/core/test/resources/modmine_acceptance_test_metadata.conf
+END
+OboConverterTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/28046/branches/intermine_0_98/bio/core/test/resources/OboConverterTest.xml
+END
+OboParserTest.obo
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/28046/branches/intermine_0_98/bio/core/test/resources/OboParserTest.obo
+END
+GFF3ConverterTestUnLocated.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28046/branches/intermine_0_98/bio/core/test/resources/GFF3ConverterTestUnLocated.xml
+END
+GFF3ConverterTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/28046/branches/intermine_0_98/bio/core/test/resources/GFF3ConverterTest.xml
+END
+flymine_acceptance_test.conf
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28046/branches/intermine_0_98/bio/core/test/resources/flymine_acceptance_test.conf
+END
+gff_test_data.gff3
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/28046/branches/intermine_0_98/bio/core/test/resources/gff_test_data.gff3
+END

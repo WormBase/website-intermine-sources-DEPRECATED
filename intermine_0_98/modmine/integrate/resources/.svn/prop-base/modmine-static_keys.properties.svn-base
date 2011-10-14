@@ -1,0 +1,36 @@
+K 13
+svn:eol-style
+V 6
+native
+K 12
+svn:keywords
+V 23
+Author Date Id Revision
+K 13
+svn:mergeinfo
+V 2576
+/branches/aliases/modmine/integrate/resources/modmine-static_keys.properties:26640-26821
+/branches/api-layer-refactor/modmine/integrate/resources/modmine-static_keys.properties:19585-20338
+/branches/flymine_release_14_0_branch/bio/sources/intermine-items-xml-file/resources/modmine-static_keys.properties:16842-16843,16848-16849,16851-16855
+/branches/generic_css_rewrite/modmine/integrate/resources/modmine-static_keys.properties:26399-26871
+/branches/keyword-search/modmine/integrate/resources/modmine-static_keys.properties:21818-22331
+/branches/list-upgrade/modmine/integrate/resources/modmine-static_keys.properties:24148
+/branches/list_upgrade/modmine/integrate/resources/modmine-static_keys.properties:24149-26763
+/branches/metamine_remodel/modmine/integrate/resources/modmine-static_keys.properties:23423-23640
+/branches/mnw21/outerjoins_in_the_webapp_16418/modmine/integrate/resources/modmine-static_keys.properties:16419-17559
+/branches/mnw21/pathquery_refactor/modmine/integrate/resources/modmine-static_keys.properties:20597-22838
+/branches/model_update/modmine/integrate/resources/modmine-static_keys.properties:21277-22538
+/branches/new_report_page/modmine/integrate/resources/modmine-static_keys.properties:24499-26112
+/branches/openid/modmine/integrate/resources/modmine-static_keys.properties:27167-27493
+/branches/tokens/modmine/integrate/resources/modmine-static_keys.properties:26823-26904
+/model_update/modmine/integrate/resources/modmine-static_keys.properties:21275-21276
+/tickets/ticket-1676/bio/sources/intermine-items-xml-file/resources/modmine-static_keys.properties:16929
+/tickets/ticket-1691/modmine/integrate/resources/modmine-static_keys.properties:17571-17579
+/tickets/ticket-1712/bio/sources/intermine-items-xml-file/resources/modmine-static_keys.properties:16914-16943
+/tickets/ticket-1712/modmine/integrate/resources/modmine-static_keys.properties:17622-17662
+/tickets/ticket-1752/bio/sources/intermine-items-xml-file/resources/modmine-static_keys.properties:16872-16886
+/tickets/ticket-1863/modmine/integrate/resources/modmine-static_keys.properties:17648,17667,17670-17671,17690,17699-17701,17703-17704,17706-17708,17710-17711,17713,17735,17761-17763,17779-17782,17804,17809,17858-17860,17862-17863,17871,17900-17901,17903-17904,17907,17917-17918,18005-18006,18019,18023,18026,18028
+/tickets/ticket-1893/modmine/integrate/resources/modmine-static_keys.properties:17283
+/tickets/ticket-1920/modmine/integrate/resources/modmine-static_keys.properties:17561
+/tickets/ticket-1925/modmine/integrate/resources/modmine-static_keys.properties:17364
+END

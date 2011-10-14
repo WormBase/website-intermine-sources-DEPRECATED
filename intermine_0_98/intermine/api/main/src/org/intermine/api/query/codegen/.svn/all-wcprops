@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/query/codegen
+END
+WebserviceCodeGenInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/query/codegen/WebserviceCodeGenInfo.java
+END
+WebserviceCodeGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/query/codegen/WebserviceCodeGenerator.java
+END
+WebserviceJavaCodeGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/query/codegen/WebserviceJavaCodeGenerator.java
+END
+WebservicePythonCodeGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/query/codegen/WebservicePythonCodeGenerator.java
+END
+WebserviceRubyCodeGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/query/codegen/WebserviceRubyCodeGenerator.java
+END
+WebservicePerlCodeGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/query/codegen/WebservicePerlCodeGenerator.java
+END
+WebserviceJavaScriptCodeGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/query/codegen/WebserviceJavaScriptCodeGenerator.java
+END
+InvalidQueryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/query/codegen/InvalidQueryException.java
+END

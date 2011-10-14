@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/widget
+END
+WidgetsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/widget/WidgetsService.java
+END
+WidgetsServiceInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/widget/WidgetsServiceInput.java
+END
+WidgetsServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/widget/WidgetsServlet.java
+END
+WidgetsRequestParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/widget/WidgetsRequestParser.java
+END

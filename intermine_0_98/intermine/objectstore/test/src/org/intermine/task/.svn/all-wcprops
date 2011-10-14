@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/src/org/intermine/task
+END
+ModelMergerTaskTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/src/org/intermine/task/ModelMergerTaskTest.java
+END
+PrecomputeTaskTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/src/org/intermine/task/PrecomputeTaskTest.java
+END
+TestPrecomputeTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/src/org/intermine/task/TestPrecomputeTask.java
+END
+DelimitedFileConfigurationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/src/org/intermine/task/DelimitedFileConfigurationTest.java
+END
+AcceptanceTestTaskTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/src/org/intermine/task/AcceptanceTestTaskTest.java
+END

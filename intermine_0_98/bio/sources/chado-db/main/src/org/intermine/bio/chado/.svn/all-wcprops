@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/chado-db/main/src/org/intermine/bio/chado
+END
+ChadoCVFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/chado-db/main/src/org/intermine/bio/chado/ChadoCVFactory.java
+END
+ChadoCVTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/chado-db/main/src/org/intermine/bio/chado/ChadoCVTerm.java
+END
+ChadoCV.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/chado-db/main/src/org/intermine/bio/chado/ChadoCV.java
+END

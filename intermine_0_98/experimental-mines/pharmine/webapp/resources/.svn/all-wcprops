@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/pharmine/webapp/resources
+END
+struts-config-model.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/pharmine/webapp/resources/struts-config-model.xml
+END
+struts-config-form-model.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/pharmine/webapp/resources/struts-config-form-model.xml
+END
+default-template-queries.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/pharmine/webapp/resources/default-template-queries.xml
+END
+web.properties
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/pharmine/webapp/resources/web.properties
+END
+model.properties
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/pharmine/webapp/resources/model.properties
+END
+tiles-defs-model.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/pharmine/webapp/resources/tiles-defs-model.xml
+END

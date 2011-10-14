@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/registry/views
+END
+mines.tt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/registry/views/mines.tt
+END
+mines_admin.tt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/registry/views/mines_admin.tt
+END
+mines
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/registry/views/mines
+END
+index.tt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/registry/views/index.tt
+END
+login.tt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/registry/views/login.tt
+END

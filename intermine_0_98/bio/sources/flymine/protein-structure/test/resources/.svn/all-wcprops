@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/protein-structure/test/resources
+END
+ProteinStructureConverterTest_src.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/protein-structure/test/resources/ProteinStructureConverterTest_src.xml
+END
+10102.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/protein-structure/test/resources/10102.xml
+END
+10102.atm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/protein-structure/test/resources/10102.atm
+END
+10102.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/protein-structure/test/resources/10102.html
+END
+ProteinStructureConverterTest_tgt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/protein-structure/test/resources/ProteinStructureConverterTest_tgt.xml
+END

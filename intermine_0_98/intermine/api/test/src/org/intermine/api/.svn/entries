@@ -1,0 +1,92 @@
+9
+
+dir
+28127
+http://subversion.flymine.org/branches/intermine_0_98/intermine/api/test/src/org/intermine/api
+http://subversion.flymine.org
+
+
+
+2011-09-28T10:41:18.403867Z
+27931
+dbutano
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+37e1b716-f2f3-0310-95ce-c813c9c44928
+
+profile
+dir
+
+xml
+dir
+
+InterMineAPITestCase.java
+file
+
+
+
+
+2011-10-14T13:52:00.000000Z
+5621479cbf98cd6bd6d496a8114ef8ee
+2011-08-11T15:47:49.182647Z
+27539
+dbutano
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5769
+
+results
+dir
+
+config
+dir
+
+query
+dir
+
+bag
+dir
+
+mines
+dir
+
+template
+dir
+
+tracker
+dir
+
+util
+dir
+

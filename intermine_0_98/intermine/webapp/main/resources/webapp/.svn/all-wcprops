@@ -1,0 +1,857 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp
+END
+tablePageLinks.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/tablePageLinks.jsp
+END
+table.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/table.jsp
+END
+standalone.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/standalone.jsp
+END
+reportDisplayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/reportDisplayer.jsp
+END
+bagDisplayers.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/bagDisplayers.jsp
+END
+importTags.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/importTags.jsp
+END
+sessionTimeout.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/sessionTimeout.jsp
+END
+queryBuilderSummary.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/queryBuilderSummary.jsp
+END
+templateSettings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/templateSettings.jsp
+END
+templates.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/templates.jsp
+END
+wsTemplateHeader.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/wsTemplateHeader.jsp
+END
+objectView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/objectView.jsp
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/index.jsp
+END
+queryBuilderPage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/queryBuilderPage.jsp
+END
+api.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/api.jsp
+END
+reportAspect.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/reportAspect.jsp
+END
+reportDisplayers.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/reportDisplayers.jsp
+END
+wsBagHeader.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/wsBagHeader.jsp
+END
+wsTemplateRow.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/wsTemplateRow.jsp
+END
+dataCategories.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/dataCategories.jsp
+END
+contactForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/contactForm.jsp
+END
+reportTemplateTable.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/reportTemplateTable.jsp
+END
+templateProblems.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/templateProblems.jsp
+END
+createAccount.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/createAccount.jsp
+END
+inlineTagEditor.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/inlineTagEditor.jsp
+END
+queryBuilderConstraint.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/queryBuilderConstraint.jsp
+END
+precompute.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/precompute.jsp
+END
+hints.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/hints.jsp
+END
+tracks.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/tracks.jsp
+END
+tableCountEstimate.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/tableCountEstimate.jsp
+END
+exportOptions.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/exportOptions.jsp
+END
+mymine.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/mymine.jsp
+END
+aspectTemplates.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/aspectTemplates.jsp
+END
+empty.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/empty.jsp
+END
+footer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/footer.jsp
+END
+bagDetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/bagDetails.jsp
+END
+hiddenField.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/hiddenField.jsp
+END
+aspectPopup.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/aspectPopup.jsp
+END
+paging.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/paging.jsp
+END
+queryBuilderView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/queryBuilderView.jsp
+END
+changePassword.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/changePassword.jsp
+END
+bagBuild.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/bagBuild.jsp
+END
+news.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/news.jsp
+END
+queryBuilderViewLine.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/queryBuilderViewLine.jsp
+END
+bagUploadConfirmIssue.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/bagUploadConfirmIssue.jsp
+END
+contact.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/contact.jsp
+END
+wsTemplateLine.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/wsTemplateLine.jsp
+END
+wsTemplateTable.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/wsTemplateTable.jsp
+END
+reportDisplayerError.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/reportDisplayerError.jsp
+END
+resultsTitle.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/resultsTitle.jsp
+END
+reportUnplacedInlineLists.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/reportUnplacedInlineLists.jsp
+END
+templateList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/templateList.jsp
+END
+importQueries.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/importQueries.jsp
+END
+keywordSearch.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/keywordSearch.jsp
+END
+apiJava.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/apiJava.jsp
+END
+jspRedirector.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/jspRedirector.jsp
+END
+export.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/export.jsp
+END
+webSearchableList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/webSearchableList.jsp
+END
+showStatic.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/showStatic.jsp
+END
+historyTemplateView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/historyTemplateView.jsp
+END
+pagenotfound.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/pagenotfound.jsp
+END
+bag.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/bag.jsp
+END
+error.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/error.jsp
+END
+wsFilterList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/wsFilterList.jsp
+END
+manageApiKey.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/manageApiKey.jsp
+END
+keywordSearchResults.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/keywordSearchResults.jsp
+END
+reportCollectionTable.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/reportCollectionTable.jsp
+END
+currentTags.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/currentTags.jsp
+END
+blockingError.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/blockingError.jsp
+END
+attributeLinks.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/attributeLinks.jsp
+END
+queryBuilder.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/queryBuilder.jsp
+END
+availableColumns.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/availableColumns.jsp
+END
+headMenu.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/headMenu.jsp
+END
+static.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/static.jsp
+END
+help.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/help.jsp
+END
+queryBuilderBrowserLine.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/queryBuilderBrowserLine.jsp
+END
+renamableElement.jsp.new
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/renamableElement.jsp.new
+END
+importTemplates.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/importTemplates.jsp
+END
+convertBag.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/convertBag.jsp
+END
+tip.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/tip.jsp
+END
+viewLabels.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/viewLabels.jsp
+END
+noResults.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/noResults.jsp
+END
+reportInList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/reportInList.jsp
+END
+track.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/track.jsp
+END
+constraintSettings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/constraintSettings.jsp
+END
+summarise.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/summarise.jsp
+END
+wsBagTable.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/wsBagTable.jsp
+END
+queryBuilderBrowserLines.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/queryBuilderBrowserLines.jsp
+END
+template.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/template.jsp
+END
+bagUploadConfirm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/bagUploadConfirm.jsp
+END
+invalidate.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/invalidate.jsp
+END
+htmlDisplayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/htmlDisplayer.jsp
+END
+queryBuilderSaveQuery.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/queryBuilderSaveQuery.jsp
+END
+queryBuilderViewElement.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/queryBuilderViewElement.jsp
+END
+bagView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/bagView.jsp
+END
+otherMinesLink.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/otherMinesLink.jsp
+END
+apiPerl.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/apiPerl.jsp
+END
+queryBuilderActions.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/queryBuilderActions.jsp
+END
+renamableElement.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/renamableElement.jsp
+END
+reportHeaderInlineLists.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/reportHeaderInlineLists.jsp
+END
+reportNormalInlineLists.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/reportNormalInlineLists.jsp
+END
+login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/login.jsp
+END
+tipDisplayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/tipDisplayer.jsp
+END
+resultsTable.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/resultsTable.jsp
+END
+queryBuilderViewDescription.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/queryBuilderViewDescription.jsp
+END
+reportRefsCols.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/reportRefsCols.jsp
+END
+aspectSelect.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/aspectSelect.jsp
+END
+setFavourite.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/setFavourite.jsp
+END
+historyQueryView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/historyQueryView.jsp
+END
+session.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/session.jsp
+END
+htmlHead.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/htmlHead.jsp
+END
+contextHelp.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/contextHelp.jsp
+END
+linkPreview.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/linkPreview.jsp
+END
+queryBuilderConstraintLogic.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/queryBuilderConstraintLogic.jsp
+END
+objectTrail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/objectTrail.jsp
+END
+reportTemplate.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/reportTemplate.jsp
+END
+wsBagLine.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/wsBagLine.jsp
+END
+tagSelect.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/tagSelect.jsp
+END
+serviceLink.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/serviceLink.jsp
+END
+aspect.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/aspect.jsp
+END
+errorMessages.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/errorMessages.jsp
+END
+widget.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/widget.jsp
+END
+begin.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/begin.jsp
+END
+wsBagRow.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/wsBagRow.jsp
+END
+queryClassSelect.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/queryClassSelect.jsp
+END
+string.tld
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/string.tld
+END
+tree.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/tree.jsp
+END
+reportMenu.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/reportMenu.jsp
+END
+customQuery.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/customQuery.jsp
+END
+quickSearch.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/quickSearch.jsp
+END
+waiting.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/waiting.jsp
+END
+passwordReset.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/passwordReset.jsp
+END
+addColumn.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/addColumn.jsp
+END
+historyBagView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/historyBagView.jsp
+END
+errorMessagesContainers.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/errorMessagesContainers.jsp
+END
+queryBuilderTemplatePreview.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/queryBuilderTemplatePreview.jsp
+END
+report.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/report.jsp
+END
+apiPython.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/apiPython.jsp
+END
+apiRuby.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/apiRuby.jsp
+END
+aspectIcons.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/aspectIcons.jsp
+END
+layout.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/layout.jsp
+END
+queryBuilderBrowser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/queryBuilderBrowser.jsp
+END

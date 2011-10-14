@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/28046/branches/intermine_0_98/imbuild
+END
+integrate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/28046/branches/intermine_0_98/imbuild/integrate.xml
+END
+objectstore.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/28046/branches/intermine_0_98/imbuild/objectstore.xml
+END
+postprocess.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/28046/branches/intermine_0_98/imbuild/postprocess.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/28046/branches/intermine_0_98/imbuild/.project
+END
+core-model.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/28046/branches/intermine_0_98/imbuild/core-model.xml
+END
+test.log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/28046/branches/intermine_0_98/imbuild/test.log4j.properties
+END
+proj-ignore
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/28046/branches/intermine_0_98/imbuild/proj-ignore
+END
+source.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/28046/branches/intermine_0_98/imbuild/source.xml
+END
+model.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/28046/branches/intermine_0_98/imbuild/model.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/28046/branches/intermine_0_98/imbuild/.classpath
+END
+tests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/28046/branches/intermine_0_98/imbuild/tests.xml
+END
+task.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/28046/branches/intermine_0_98/imbuild/task.xml
+END
+application.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/28046/branches/intermine_0_98/imbuild/application.xml
+END
+library.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/28046/branches/intermine_0_98/imbuild/library.xml
+END
+gbrowse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/28046/branches/intermine_0_98/imbuild/gbrowse.xml
+END
+task.log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/28046/branches/intermine_0_98/imbuild/task.log4j.properties
+END
+webapp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/28046/branches/intermine_0_98/imbuild/webapp.xml
+END

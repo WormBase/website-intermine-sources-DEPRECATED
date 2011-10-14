@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/28046/branches/intermine_0_98/intermine/performancetest/test1/sources/random/resources
+END
+ManyAttributes1_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/28046/branches/intermine_0_98/intermine/performancetest/test1/sources/random/resources/ManyAttributes1_keys.properties
+END
+DeepHeirarchy1_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/28046/branches/intermine_0_98/intermine/performancetest/test1/sources/random/resources/DeepHeirarchy1_keys.properties
+END
+ManyAttributes2_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/28046/branches/intermine_0_98/intermine/performancetest/test1/sources/random/resources/ManyAttributes2_keys.properties
+END
+DeepHeirarchy2_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/28046/branches/intermine_0_98/intermine/performancetest/test1/sources/random/resources/DeepHeirarchy2_keys.properties
+END
+NotInterface1_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/28046/branches/intermine_0_98/intermine/performancetest/test1/sources/random/resources/NotInterface1_keys.properties
+END
+NotInterface2_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/28046/branches/intermine_0_98/intermine/performancetest/test1/sources/random/resources/NotInterface2_keys.properties
+END
+AttributeLong1_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/28046/branches/intermine_0_98/intermine/performancetest/test1/sources/random/resources/AttributeLong1_keys.properties
+END
+AttributeLong2_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/28046/branches/intermine_0_98/intermine/performancetest/test1/sources/random/resources/AttributeLong2_keys.properties
+END
+AttributeString1_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/28046/branches/intermine_0_98/intermine/performancetest/test1/sources/random/resources/AttributeString1_keys.properties
+END
+AttributeString2_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/28046/branches/intermine_0_98/intermine/performancetest/test1/sources/random/resources/AttributeString2_keys.properties
+END
+OneCollection1_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/28046/branches/intermine_0_98/intermine/performancetest/test1/sources/random/resources/OneCollection1_keys.properties
+END
+OneCollection2_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/28046/branches/intermine_0_98/intermine/performancetest/test1/sources/random/resources/OneCollection2_keys.properties
+END
+OneReference1_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/28046/branches/intermine_0_98/intermine/performancetest/test1/sources/random/resources/OneReference1_keys.properties
+END
+LargeString_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/28046/branches/intermine_0_98/intermine/performancetest/test1/sources/random/resources/LargeString_keys.properties
+END
+OneReference2_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/28046/branches/intermine_0_98/intermine/performancetest/test1/sources/random/resources/OneReference2_keys.properties
+END
+AttributeDate1_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/28046/branches/intermine_0_98/intermine/performancetest/test1/sources/random/resources/AttributeDate1_keys.properties
+END
+AttributeDate2_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/28046/branches/intermine_0_98/intermine/performancetest/test1/sources/random/resources/AttributeDate2_keys.properties
+END
+AttributeBigDecimal1_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/28046/branches/intermine_0_98/intermine/performancetest/test1/sources/random/resources/AttributeBigDecimal1_keys.properties
+END
+OneAttribute1_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/28046/branches/intermine_0_98/intermine/performancetest/test1/sources/random/resources/OneAttribute1_keys.properties
+END
+AttributeBigDecimal2_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/28046/branches/intermine_0_98/intermine/performancetest/test1/sources/random/resources/AttributeBigDecimal2_keys.properties
+END
+OneAttribute2_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/28046/branches/intermine_0_98/intermine/performancetest/test1/sources/random/resources/OneAttribute2_keys.properties
+END

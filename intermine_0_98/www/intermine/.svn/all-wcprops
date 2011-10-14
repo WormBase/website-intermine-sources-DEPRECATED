@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/28046/branches/intermine_0_98/www/intermine
+END
+branding.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/28046/branches/intermine_0_98/www/intermine/branding.xml
+END
+menu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/28046/branches/intermine_0_98/www/intermine/menu.xml
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/28046/branches/intermine_0_98/www/intermine/.cvsignore
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/28046/branches/intermine_0_98/www/intermine/build.xml
+END

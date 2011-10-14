@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/config
+END
+TableExportConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/config/TableExportConfig.java
+END
+HeaderConfigTitle.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/config/HeaderConfigTitle.java
+END
+InlineListObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/config/InlineListObject.java
+END
+Type.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/config/Type.java
+END
+WebConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/config/WebConfig.java
+END
+FieldConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/config/FieldConfig.java
+END
+FieldConfigHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/config/FieldConfigHelper.java
+END
+InlineList.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/config/InlineList.java
+END
+Displayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/config/Displayer.java
+END
+HeaderConfigLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/config/HeaderConfigLink.java
+END
+ReportDisplayerConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/config/ReportDisplayerConfig.java
+END

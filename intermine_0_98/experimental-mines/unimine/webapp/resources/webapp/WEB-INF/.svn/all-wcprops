@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/unimine/webapp/resources/webapp/WEB-INF
+END
+webconfig-model.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/unimine/webapp/resources/webapp/WEB-INF/webconfig-model.xml
+END
+aspects.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/unimine/webapp/resources/webapp/WEB-INF/aspects.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/unimine/webapp/resources/webapp/WEB-INF/log4j.properties
+END
+class_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/unimine/webapp/resources/webapp/WEB-INF/class_keys.properties
+END

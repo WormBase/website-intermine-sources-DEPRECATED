@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/homophila
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/homophila/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/homophila/project.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/homophila/.project
+END
+.checkstyle
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/homophila/.checkstyle
+END
+homophila_additions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/homophila/homophila_additions.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/homophila/build.xml
+END

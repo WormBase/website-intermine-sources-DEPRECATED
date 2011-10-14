@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/project.properties
+END
+compile-run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/compile-run.sh
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/.project
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/README.txt
+END
+.checkstyle
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/.checkstyle
+END
+develop.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/develop.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/build.xml
+END
+make_docs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/make_docs.sh
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/28046/branches/intermine_0_98/testmodel/webapp/main/resources/webapp/WEB-INF
+END
+webconfig-model.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/testmodel/webapp/main/resources/webapp/WEB-INF/webconfig-model.xml
+END
+aspects.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/28046/branches/intermine_0_98/testmodel/webapp/main/resources/webapp/WEB-INF/aspects.xml
+END
+bag-queries.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/28046/branches/intermine_0_98/testmodel/webapp/main/resources/webapp/WEB-INF/bag-queries.xml
+END
+classDescriptions.properties
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/28046/branches/intermine_0_98/testmodel/webapp/main/resources/webapp/WEB-INF/classDescriptions.properties
+END
+tiles-defs-model.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/28046/branches/intermine_0_98/testmodel/webapp/main/resources/webapp/WEB-INF/tiles-defs-model.xml
+END

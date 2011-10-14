@@ -1,0 +1,23 @@
+K 13
+svn:mergeinfo
+V 1903
+/branches/aliases/intermine/api/test/resources/ProfileManagerBindingTestNewIDs.xml:26640-26821
+/branches/api-layer-refactor/intermine/api/test/resources/ProfileManagerBindingTestNewIDs.xml:19585-19595
+/branches/generic_css_rewrite/intermine/api/test/resources/ProfileManagerBindingTestNewIDs.xml:26399-26871
+/branches/keyword-search/intermine/api/test/resources/ProfileManagerBindingTestNewIDs.xml:21818-22331
+/branches/list-upgrade/intermine/api/test/resources/ProfileManagerBindingTestNewIDs.xml:24148
+/branches/list_upgrade/intermine/api/test/resources/ProfileManagerBindingTestNewIDs.xml:24149-26763
+/branches/metamine_remodel/intermine/api/test/resources/ProfileManagerBindingTestNewIDs.xml:23423-23640
+/branches/mnw21/outerjoins_in_the_webapp_16418/intermine/web/test/resources/ProfileManagerBindingTestNewIDs.xml:16419-17559
+/branches/mnw21/pathquery_refactor/intermine/api/test/resources/ProfileManagerBindingTestNewIDs.xml:20597-22838
+/branches/model_update/intermine/api/test/resources/ProfileManagerBindingTestNewIDs.xml:21277-22538
+/branches/new_report_page/intermine/api/test/resources/ProfileManagerBindingTestNewIDs.xml:24499-26112
+/branches/openid/intermine/api/test/resources/ProfileManagerBindingTestNewIDs.xml:27167-27493
+/branches/tokens/intermine/api/test/resources/ProfileManagerBindingTestNewIDs.xml:26823-26904
+/model_update/intermine/api/test/resources/ProfileManagerBindingTestNewIDs.xml:21275-21276
+/tickets/ticket-1691/intermine/web/test/resources/ProfileManagerBindingTestNewIDs.xml:17571-17579
+/tickets/ticket-1712/intermine/web/test/resources/ProfileManagerBindingTestNewIDs.xml:17622-17662
+/tickets/ticket-1893/intermine/web/test/resources/ProfileManagerBindingTestNewIDs.xml:17283
+/tickets/ticket-1925/intermine/web/test/resources/ProfileManagerBindingTestNewIDs.xml:17364
+/tickets/ticket-1939/intermine/web/test/resources/ProfileManagerBindingTestNewIDs.xml:17472-17726
+END

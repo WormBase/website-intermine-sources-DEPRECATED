@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/widget
+END
+EnrichmentWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/widget/EnrichmentWidget.java
+END
+ErrorCorrection.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/widget/ErrorCorrection.java
+END
+ToolTipGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/widget/ToolTipGenerator.java
+END
+WidgetUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/widget/WidgetUtil.java
+END
+EnrichmentWidgetLdr.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/widget/EnrichmentWidgetLdr.java
+END
+Widget.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/widget/Widget.java
+END
+WidgetHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/widget/WidgetHelper.java
+END
+GraphWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/widget/GraphWidget.java
+END
+DataSetLdr.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/widget/DataSetLdr.java
+END
+HTMLWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/widget/HTMLWidget.java
+END
+GraphCategoryURLGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/widget/GraphCategoryURLGenerator.java
+END
+TableWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/widget/TableWidget.java
+END
+WidgetURLQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/widget/WidgetURLQuery.java
+END
+TableWidgetLdr.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/widget/TableWidgetLdr.java
+END

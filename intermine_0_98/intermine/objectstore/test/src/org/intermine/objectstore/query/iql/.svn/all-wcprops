@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/src/org/intermine/objectstore/query/iql
+END
+IqlQueryTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/src/org/intermine/objectstore/query/iql/IqlQueryTestCase.java
+END
+IqlQueryParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/src/org/intermine/objectstore/query/iql/IqlQueryParserTest.java
+END
+IqlQueryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/src/org/intermine/objectstore/query/iql/IqlQueryTest.java
+END
+IqlShell.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/src/org/intermine/objectstore/query/iql/IqlShell.java
+END

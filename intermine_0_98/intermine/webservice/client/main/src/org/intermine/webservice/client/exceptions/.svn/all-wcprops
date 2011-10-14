@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/src/org/intermine/webservice/client/exceptions
+END
+ServiceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/src/org/intermine/webservice/client/exceptions/ServiceException.java
+END
+NotConnectedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/src/org/intermine/webservice/client/exceptions/NotConnectedException.java
+END
+NotImplementedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/src/org/intermine/webservice/client/exceptions/NotImplementedException.java
+END
+ResourceNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/src/org/intermine/webservice/client/exceptions/ResourceNotFoundException.java
+END
+ServiceUnavailableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/src/org/intermine/webservice/client/exceptions/ServiceUnavailableException.java
+END
+InternalErrorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/src/org/intermine/webservice/client/exceptions/InternalErrorException.java
+END
+TransferInterruptedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/src/org/intermine/webservice/client/exceptions/TransferInterruptedException.java
+END
+ServiceForbiddenException.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/src/org/intermine/webservice/client/exceptions/ServiceForbiddenException.java
+END
+ResultException.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/src/org/intermine/webservice/client/exceptions/ResultException.java
+END
+BadRequestException.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/src/org/intermine/webservice/client/exceptions/BadRequestException.java
+END

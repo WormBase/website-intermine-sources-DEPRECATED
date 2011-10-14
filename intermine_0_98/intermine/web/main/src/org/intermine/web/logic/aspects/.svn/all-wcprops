@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/aspects
+END
+Aspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/aspects/Aspect.java
+END
+AspectSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/aspects/AspectSource.java
+END
+AspectBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/aspects/AspectBinding.java
+END

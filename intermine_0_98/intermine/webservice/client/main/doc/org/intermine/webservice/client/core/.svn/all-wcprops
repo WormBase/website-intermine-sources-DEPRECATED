@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/doc/org/intermine/webservice/client/core
+END
+ContentType.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/doc/org/intermine/webservice/client/core/ContentType.html
+END
+TabTableResult.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/doc/org/intermine/webservice/client/core/TabTableResult.html
+END
+Request.RequestType.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/doc/org/intermine/webservice/client/core/Request.RequestType.html
+END
+RowResultSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/doc/org/intermine/webservice/client/core/RowResultSet.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/doc/org/intermine/webservice/client/core/package-frame.html
+END
+Version.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/doc/org/intermine/webservice/client/core/Version.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/doc/org/intermine/webservice/client/core/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/doc/org/intermine/webservice/client/core/package-tree.html
+END
+Request.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/doc/org/intermine/webservice/client/core/Request.html
+END
+ServiceFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/doc/org/intermine/webservice/client/core/ServiceFactory.html
+END
+ResultSet.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/doc/org/intermine/webservice/client/core/ResultSet.html
+END
+Service.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/doc/org/intermine/webservice/client/core/Service.html
+END
+ResultRowList.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/doc/org/intermine/webservice/client/core/ResultRowList.html
+END
+ResultRowMap.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/doc/org/intermine/webservice/client/core/ResultRowMap.html
+END
+XMLTableResult.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/doc/org/intermine/webservice/client/core/XMLTableResult.html
+END
+JSONResult.html
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/doc/org/intermine/webservice/client/core/JSONResult.html
+END
+RequestImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/doc/org/intermine/webservice/client/core/RequestImpl.html
+END

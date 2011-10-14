@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/sql/query
+END
+ExplainResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/sql/query/ExplainResult.java
+END
+OrderDescending.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/sql/query/OrderDescending.java
+END
+AbstractValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/sql/query/AbstractValue.java
+END
+ConstraintSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/sql/query/ConstraintSet.java
+END
+NotConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/sql/query/NotConstraint.java
+END
+Query.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/sql/query/Query.java
+END
+InListConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/sql/query/InListConstraint.java
+END
+AbstractConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/sql/query/AbstractConstraint.java
+END
+SQLStringable.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/sql/query/SQLStringable.java
+END
+AbstractTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/sql/query/AbstractTable.java
+END
+DummyExplainResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/sql/query/DummyExplainResult.java
+END
+SelectValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/sql/query/SelectValue.java
+END
+intermine_sql.g
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/sql/query/intermine_sql.g
+END
+SubQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/sql/query/SubQuery.java
+END
+Field.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/sql/query/Field.java
+END
+Constraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/sql/query/Constraint.java
+END
+SubQueryConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/sql/query/SubQueryConstraint.java
+END
+Function.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/sql/query/Function.java
+END
+PostgresExplainResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/sql/query/PostgresExplainResult.java
+END
+Table.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/sql/query/Table.java
+END
+Constant.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/sql/query/Constant.java
+END

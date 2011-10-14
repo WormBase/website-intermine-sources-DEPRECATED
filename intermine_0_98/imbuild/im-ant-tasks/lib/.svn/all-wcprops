@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/28046/branches/intermine_0_98/imbuild/im-ant-tasks/lib
+END
+ant-1.6.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/28046/branches/intermine_0_98/imbuild/im-ant-tasks/lib/ant-1.6.5.jar
+END
+serializer.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/28046/branches/intermine_0_98/imbuild/im-ant-tasks/lib/serializer.jar
+END
+xml-apis.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/28046/branches/intermine_0_98/imbuild/im-ant-tasks/lib/xml-apis.jar
+END
+xercesImpl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/28046/branches/intermine_0_98/imbuild/im-ant-tasks/lib/xercesImpl.jar
+END
+xalan.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/28046/branches/intermine_0_98/imbuild/im-ant-tasks/lib/xalan.jar
+END

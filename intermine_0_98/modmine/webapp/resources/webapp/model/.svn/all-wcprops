@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model
+END
+inparanoid.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model/inparanoid.jsp
+END
+projects.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model/projects.jsp
+END
+projectDetailsDisplayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model/projectDetailsDisplayer.jsp
+END
+latestSubs.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model/latestSubs.jsp
+END
+RNAi.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model/RNAi.jsp
+END
+pathways.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model/pathways.jsp
+END
+proteinStructure.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model/proteinStructure.jsp
+END
+interactions.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model/interactions.jsp
+END
+proteins.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model/proteins.jsp
+END
+genomics.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model/genomics.jsp
+END
+GO.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model/GO.jsp
+END
+microarray.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model/microarray.jsp
+END
+chromatinStates.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model/chromatinStates.jsp
+END
+resources.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model/resources.jsp
+END
+orthologues.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model/orthologues.jsp
+END
+vectorBaseLink.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model/vectorBaseLink.jsp
+END
+submissionExternalLinksDisplayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model/submissionExternalLinksDisplayer.jsp
+END
+submissions.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model/submissions.jsp
+END
+heatMap.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model/heatMap.jsp
+END
+experiment.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model/experiment.jsp
+END
+literature.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model/literature.jsp
+END
+wikiLink.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model/wikiLink.jsp
+END
+modmineGBrowse.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model/modmineGBrowse.jsp
+END
+flyExpressLink.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model/flyExpressLink.jsp
+END
+submissionPropertiesDisplayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model/submissionPropertiesDisplayer.jsp
+END
+submissionGeneratedFeaturesDisplayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model/submissionGeneratedFeaturesDisplayer.jsp
+END
+categorySummary.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model/categorySummary.jsp
+END
+submissionFileDownloadDisplayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model/submissionFileDownloadDisplayer.jsp
+END
+projectList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model/projectList.jsp
+END
+tracksDisplayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model/tracksDisplayer.jsp
+END
+projectsSummary.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model/projectsSummary.jsp
+END
+submissionDisplayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model/submissionDisplayer.jsp
+END
+submissionGBrowseTracksDisplayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model/submissionGBrowseTracksDisplayer.jsp
+END
+diseaseAspect.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model/diseaseAspect.jsp
+END
+submissionProtocolsDisplayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model/submissionProtocolsDisplayer.jsp
+END
+indac.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model/indac.jsp
+END
+submissionDetailsDisplayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model/submissionDetailsDisplayer.jsp
+END
+proteinInteraction.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model/proteinInteraction.jsp
+END
+subListGBrowseTrackDisplayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model/subListGBrowseTrackDisplayer.jsp
+END
+labs.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model/labs.jsp
+END
+bindingSites.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/model/bindingSites.jsp
+END

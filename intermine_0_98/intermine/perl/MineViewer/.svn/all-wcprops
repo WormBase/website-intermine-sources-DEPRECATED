@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer
+END
+Build
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/Build
+END
+config.yml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/config.yml
+END
+Build.PL
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/Build.PL
+END
+start_mine_viewers
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/start_mine_viewers
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/README
+END

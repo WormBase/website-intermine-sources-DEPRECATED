@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager
+END
+build
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager/build
+END
+run
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager/run
+END
+install_launcher
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager/install_launcher
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager/pom.xml
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager/README
+END

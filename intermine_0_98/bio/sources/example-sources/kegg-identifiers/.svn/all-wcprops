@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/example-sources/kegg-identifiers
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/example-sources/kegg-identifiers/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/example-sources/kegg-identifiers/project.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/example-sources/kegg-identifiers/.project
+END
+kegg-identifiers_additions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/example-sources/kegg-identifiers/kegg-identifiers_additions.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/example-sources/kegg-identifiers/build.xml
+END

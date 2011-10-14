@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/src/org/intermine/sql
+END
+DatabaseTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/src/org/intermine/sql/DatabaseTestCase.java
+END
+DatabaseTestCaseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/src/org/intermine/sql/DatabaseTestCaseTest.java
+END
+DatabaseUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/src/org/intermine/sql/DatabaseUtilTest.java
+END
+DatabaseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/src/org/intermine/sql/DatabaseTest.java
+END
+DatabaseFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/src/org/intermine/sql/DatabaseFactoryTest.java
+END

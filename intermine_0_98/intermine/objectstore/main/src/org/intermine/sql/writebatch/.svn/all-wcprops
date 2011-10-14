@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/sql/writebatch
+END
+Row.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/sql/writebatch/Row.java
+END
+BatchWriterPreparedStatementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/sql/writebatch/BatchWriterPreparedStatementImpl.java
+END
+BatchWriterSimpleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/sql/writebatch/BatchWriterSimpleImpl.java
+END
+FlushJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/sql/writebatch/FlushJob.java
+END
+BatchWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/sql/writebatch/BatchWriter.java
+END
+FlushJobPostgresCopyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/sql/writebatch/FlushJobPostgresCopyImpl.java
+END
+Batch.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/sql/writebatch/Batch.java
+END
+IndirectionTableBatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/sql/writebatch/IndirectionTableBatch.java
+END
+BatchWriterPostgresCopyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/sql/writebatch/BatchWriterPostgresCopyImpl.java
+END
+FlushJobStatementBatchImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/sql/writebatch/FlushJobStatementBatchImpl.java
+END
+PostgresByteArrayOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/sql/writebatch/PostgresByteArrayOutputStream.java
+END
+FlushJobBatchCommit.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/sql/writebatch/FlushJobBatchCommit.java
+END
+Table.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/sql/writebatch/Table.java
+END
+TableBatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/sql/writebatch/TableBatch.java
+END
+FlushJobUpdateStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/sql/writebatch/FlushJobUpdateStatistics.java
+END
+PostgresDataOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/sql/writebatch/PostgresDataOutputStream.java
+END

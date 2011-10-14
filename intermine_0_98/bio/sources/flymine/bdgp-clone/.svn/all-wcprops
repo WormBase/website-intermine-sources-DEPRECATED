@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/bdgp-clone
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/bdgp-clone/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/bdgp-clone/project.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/bdgp-clone/.project
+END
+bdgp-clone_additions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/bdgp-clone/bdgp-clone_additions.xml
+END
+.checkstyle
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/bdgp-clone/.checkstyle
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/bdgp-clone/build.xml
+END

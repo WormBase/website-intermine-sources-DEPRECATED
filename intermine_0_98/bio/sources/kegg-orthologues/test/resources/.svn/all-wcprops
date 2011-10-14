@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/kegg-orthologues/test/resources
+END
+KeggOrthologuesConverterTest_src.txt
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/kegg-orthologues/test/resources/KeggOrthologuesConverterTest_src.txt
+END
+KeggOrthologuesConverterTest_tgt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/kegg-orthologues/test/resources/KeggOrthologuesConverterTest_tgt.xml
+END

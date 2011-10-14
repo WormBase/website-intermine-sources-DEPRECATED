@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/bdellomine/dbmodel/resources
+END
+genomic_precompute.properties
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/bdellomine/dbmodel/resources/genomic_precompute.properties
+END
+objectstoresummary.config.properties
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/bdellomine/dbmodel/resources/objectstoresummary.config.properties
+END
+genomic_priorities.properties
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/bdellomine/dbmodel/resources/genomic_priorities.properties
+END
+genomic_keyDefs.properties
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/bdellomine/dbmodel/resources/genomic_keyDefs.properties
+END
+class_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/bdellomine/dbmodel/resources/class_keys.properties
+END

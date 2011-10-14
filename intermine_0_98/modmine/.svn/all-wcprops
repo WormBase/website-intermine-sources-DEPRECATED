@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/28046/branches/intermine_0_98/modmine
+END
+default.intermine.webapp.properties
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/28046/branches/intermine_0_98/modmine/default.intermine.webapp.properties
+END
+project.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/28046/branches/intermine_0_98/modmine/project.xml
+END
+default.intermine.integrate.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/28046/branches/intermine_0_98/modmine/default.intermine.integrate.properties
+END
+antout
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/28046/branches/intermine_0_98/modmine/antout
+END
+automine.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/28046/branches/intermine_0_98/modmine/automine.sh
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/28046/branches/intermine_0_98/bio/tools/main/src/org/intermine/bio/web/export
+END
+GFF3Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/28046/branches/intermine_0_98/bio/tools/main/src/org/intermine/bio/web/export/GFF3Util.java
+END
+BEDUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/28046/branches/intermine_0_98/bio/tools/main/src/org/intermine/bio/web/export/BEDUtil.java
+END

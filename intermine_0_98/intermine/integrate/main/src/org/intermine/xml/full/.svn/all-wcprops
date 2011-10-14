@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/28046/branches/intermine_0_98/intermine/integrate/main/src/org/intermine/xml/full
+END
+FullParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/28046/branches/intermine_0_98/intermine/integrate/main/src/org/intermine/xml/full/FullParser.java
+END
+FullHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/28046/branches/intermine_0_98/intermine/integrate/main/src/org/intermine/xml/full/FullHandler.java
+END
+Attribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/intermine/integrate/main/src/org/intermine/xml/full/Attribute.java
+END
+ItemFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/28046/branches/intermine_0_98/intermine/integrate/main/src/org/intermine/xml/full/ItemFactory.java
+END
+FullRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/28046/branches/intermine_0_98/intermine/integrate/main/src/org/intermine/xml/full/FullRenderer.java
+END
+ReferenceList.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28046/branches/intermine_0_98/intermine/integrate/main/src/org/intermine/xml/full/ReferenceList.java
+END
+Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/28046/branches/intermine_0_98/intermine/integrate/main/src/org/intermine/xml/full/Item.java
+END
+ItemHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/28046/branches/intermine_0_98/intermine/integrate/main/src/org/intermine/xml/full/ItemHelper.java
+END
+Reference.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/intermine/integrate/main/src/org/intermine/xml/full/Reference.java
+END
+RendererComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/28046/branches/intermine_0_98/intermine/integrate/main/src/org/intermine/xml/full/RendererComparator.java
+END

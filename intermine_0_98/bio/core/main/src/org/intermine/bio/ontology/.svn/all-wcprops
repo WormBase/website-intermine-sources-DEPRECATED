@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/28046/branches/intermine_0_98/bio/core/main/src/org/intermine/bio/ontology
+END
+OboToModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/28046/branches/intermine_0_98/bio/core/main/src/org/intermine/bio/ontology/OboToModel.java
+END
+OboToModelProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/28046/branches/intermine_0_98/bio/core/main/src/org/intermine/bio/ontology/OboToModelProcessor.java
+END
+OboTermSynonym.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/28046/branches/intermine_0_98/bio/core/main/src/org/intermine/bio/ontology/OboTermSynonym.java
+END
+OboTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/28046/branches/intermine_0_98/bio/core/main/src/org/intermine/bio/ontology/OboTerm.java
+END
+OboTypeDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/28046/branches/intermine_0_98/bio/core/main/src/org/intermine/bio/ontology/OboTypeDefinition.java
+END
+OboParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/28046/branches/intermine_0_98/bio/core/main/src/org/intermine/bio/ontology/OboParser.java
+END
+OboRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/28046/branches/intermine_0_98/bio/core/main/src/org/intermine/bio/ontology/OboRelation.java
+END

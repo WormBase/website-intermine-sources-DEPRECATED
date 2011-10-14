@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28046/branches/intermine_0_98/intermine/pathquery/test/src/org/intermine/pathquery
+END
+PathQueryUnitTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/28046/branches/intermine_0_98/intermine/pathquery/test/src/org/intermine/pathquery/PathQueryUnitTest.java
+END
+PathTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/intermine/pathquery/test/src/org/intermine/pathquery/PathTest.java
+END
+LogicExpressionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/28046/branches/intermine_0_98/intermine/pathquery/test/src/org/intermine/pathquery/LogicExpressionTest.java
+END
+PathQueryBindingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/28046/branches/intermine_0_98/intermine/pathquery/test/src/org/intermine/pathquery/PathQueryBindingTest.java
+END
+PathQueryUnmarshalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/28046/branches/intermine_0_98/intermine/pathquery/test/src/org/intermine/pathquery/PathQueryUnmarshalTest.java
+END

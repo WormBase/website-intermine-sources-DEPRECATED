@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/28067/branches/intermine_0_98/intermine/scripts
+END
+UPDATER_README
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/28046/branches/intermine_0_98/intermine/scripts/UPDATER_README
+END
+update_to_0.97
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/28046/branches/intermine_0_98/intermine/scripts/update_to_0.97
+END
+xml_query_handler
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/28046/branches/intermine_0_98/intermine/scripts/xml_query_handler
+END
+replace_bad_equals.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/28046/branches/intermine_0_98/intermine/scripts/replace_bad_equals.sh
+END
+benchmark_clients.pl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/28046/branches/intermine_0_98/intermine/scripts/benchmark_clients.pl
+END
+json_validator.pl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/28046/branches/intermine_0_98/intermine/scripts/json_validator.pl
+END
+path_updater.pl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/28046/branches/intermine_0_98/intermine/scripts/path_updater.pl
+END
+update_templates.pl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/28046/branches/intermine_0_98/intermine/scripts/update_templates.pl
+END
+update_userprofile.pl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/28046/branches/intermine_0_98/intermine/scripts/update_userprofile.pl
+END
+iql_shell
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/28046/branches/intermine_0_98/intermine/scripts/iql_shell
+END
+compare_templates_for_releases
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/28046/branches/intermine_0_98/intermine/scripts/compare_templates_for_releases
+END
+update_build_properties
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/28046/branches/intermine_0_98/intermine/scripts/update_build_properties
+END
+update_to_0.94
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/28046/branches/intermine_0_98/intermine/scripts/update_to_0.94
+END
+UPDATE_USERPROFILE_README
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/28046/branches/intermine_0_98/intermine/scripts/UPDATE_USERPROFILE_README
+END

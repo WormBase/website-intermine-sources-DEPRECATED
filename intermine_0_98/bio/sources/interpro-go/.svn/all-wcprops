@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/interpro-go
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/interpro-go/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/interpro-go/project.properties
+END
+interpro-go_additions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/interpro-go/interpro-go_additions.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/interpro-go/.project
+END
+.checkstyle
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/interpro-go/.checkstyle
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/interpro-go/build.xml
+END

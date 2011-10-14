@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/rgd-identifiers
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/rgd-identifiers/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/rgd-identifiers/project.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/rgd-identifiers/.project
+END
+rgd-identifiers_additions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/rgd-identifiers/rgd-identifiers_additions.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/rgd-identifiers/build.xml
+END

@@ -1,0 +1,46 @@
+9
+
+dir
+28127
+http://subversion.flymine.org/branches/intermine_0_98/experimental-mines
+http://subversion.flymine.org
+
+
+
+2011-09-12T09:22:34.427299Z
+27723
+rns
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+37e1b716-f2f3-0310-95ce-c813c9c44928
+
+heightmine
+dir
+
+pharmine
+dir
+
+unimine
+dir
+
+plantmine
+dir
+
+snpmine
+dir
+
+bdellomine
+dir
+

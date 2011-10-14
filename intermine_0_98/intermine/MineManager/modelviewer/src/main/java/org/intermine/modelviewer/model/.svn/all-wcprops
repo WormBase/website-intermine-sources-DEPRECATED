@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager/modelviewer/src/main/java/org/intermine/modelviewer/model
+END
+Model.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager/modelviewer/src/main/java/org/intermine/modelviewer/model/Model.java
+END
+ForeignKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager/modelviewer/src/main/java/org/intermine/modelviewer/model/ForeignKey.java
+END
+Attribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager/modelviewer/src/main/java/org/intermine/modelviewer/model/Attribute.java
+END
+ModelClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager/modelviewer/src/main/java/org/intermine/modelviewer/model/ModelClass.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager/modelviewer/src/main/java/org/intermine/modelviewer/model/package.html
+END

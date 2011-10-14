@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 51
+*.tar.gz
+*.yml
+_build
+Build
+blib
+Makefile.PL
+*bak
+
+
+END

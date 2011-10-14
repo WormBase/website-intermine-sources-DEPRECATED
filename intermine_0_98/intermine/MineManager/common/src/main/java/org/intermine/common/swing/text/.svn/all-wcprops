@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager/common/src/main/java/org/intermine/common/swing/text
+END
+LimitedSizeDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager/common/src/main/java/org/intermine/common/swing/text/LimitedSizeDocument.java
+END
+RestrictedInputDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager/common/src/main/java/org/intermine/common/swing/text/RestrictedInputDocument.java
+END
+IntegerDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager/common/src/main/java/org/intermine/common/swing/text/IntegerDocument.java
+END
+DecimalDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager/common/src/main/java/org/intermine/common/swing/text/DecimalDocument.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager/common/src/main/java/org/intermine/common/swing/text/package.html
+END

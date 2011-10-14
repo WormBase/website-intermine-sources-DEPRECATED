@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/lib
+END
+mockobjects-0.07-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/lib/mockobjects-0.07-core.jar
+END
+mockobjects-0.07-jdk1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/lib/mockobjects-0.07-jdk1.4.jar
+END
+junit-4.8.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/lib/junit-4.8.2.jar
+END

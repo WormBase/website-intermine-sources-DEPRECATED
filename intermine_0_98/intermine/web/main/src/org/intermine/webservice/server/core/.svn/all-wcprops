@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/core
+END
+ResultRowParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/core/ResultRowParser.java
+END
+ListManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/core/ListManager.java
+END
+CountProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/core/CountProcessor.java
+END
+ResultProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/core/ResultProcessor.java
+END

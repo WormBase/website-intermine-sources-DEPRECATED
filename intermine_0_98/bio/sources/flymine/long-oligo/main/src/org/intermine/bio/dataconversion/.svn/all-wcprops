@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/long-oligo/main/src/org/intermine/bio/dataconversion
+END
+LongOligoGFF3SeqHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/long-oligo/main/src/org/intermine/bio/dataconversion/LongOligoGFF3SeqHandler.java
+END
+LongOligoGFF3RecordHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/long-oligo/main/src/org/intermine/bio/dataconversion/LongOligoGFF3RecordHandler.java
+END

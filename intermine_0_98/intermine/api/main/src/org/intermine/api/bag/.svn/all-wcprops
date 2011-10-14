@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/bag
+END
+BagQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/bag/BagQuery.java
+END
+BagQueryHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/bag/BagQueryHelper.java
+END
+BagManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/bag/BagManager.java
+END
+BagQueryConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/bag/BagQueryConfig.java
+END
+IdUpgrader.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/bag/IdUpgrader.java
+END
+BagQueryRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/bag/BagQueryRunner.java
+END
+TypeConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/bag/TypeConverter.java
+END
+IncompatibleTypesException.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/bag/IncompatibleTypesException.java
+END
+UnknownBagTypeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/bag/UnknownBagTypeException.java
+END
+ConvertedObjectPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/bag/ConvertedObjectPair.java
+END
+BagOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/bag/BagOperations.java
+END
+BagQueryHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/bag/BagQueryHandler.java
+END
+BagQueryResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/bag/BagQueryResult.java
+END

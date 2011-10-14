@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/kegg-pathway
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/kegg-pathway/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/kegg-pathway/project.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/kegg-pathway/.project
+END
+kegg-pathway_additions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/kegg-pathway/kegg-pathway_additions.xml
+END
+.checkstyle
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/kegg-pathway/.checkstyle
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/kegg-pathway/build.xml
+END

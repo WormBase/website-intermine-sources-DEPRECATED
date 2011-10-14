@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/28046/branches/intermine_0_98/imbuild/checkstyle
+END
+checkstyle-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/28046/branches/intermine_0_98/imbuild/checkstyle/checkstyle-config.xml
+END
+eclipse-formatter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/28046/branches/intermine_0_98/imbuild/checkstyle/eclipse-formatter.xml
+END
+checkstyle-frames.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/28046/branches/intermine_0_98/imbuild/checkstyle/checkstyle-frames.xsl
+END
+copyright_header.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/28046/branches/intermine_0_98/imbuild/checkstyle/copyright_header.txt
+END

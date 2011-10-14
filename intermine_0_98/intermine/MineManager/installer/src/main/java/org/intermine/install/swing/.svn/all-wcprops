@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager/installer/src/main/java/org/intermine/install/swing
+END
+CreatePropertiesDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager/installer/src/main/java/org/intermine/install/swing/CreatePropertiesDialog.java
+END
+PreferencesDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager/installer/src/main/java/org/intermine/install/swing/PreferencesDialog.java
+END
+CreateDatabaseWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager/installer/src/main/java/org/intermine/install/swing/CreateDatabaseWorker.java
+END
+NewMineDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager/installer/src/main/java/org/intermine/install/swing/NewMineDialog.java
+END
+PostProcessorDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager/installer/src/main/java/org/intermine/install/swing/PostProcessorDialog.java
+END
+BuildProjectDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager/installer/src/main/java/org/intermine/install/swing/BuildProjectDialog.java
+END
+CreateMineWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager/installer/src/main/java/org/intermine/install/swing/CreateMineWorker.java
+END
+MakeMineDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager/installer/src/main/java/org/intermine/install/swing/MakeMineDialog.java
+END
+CreateDatabaseDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager/installer/src/main/java/org/intermine/install/swing/CreateDatabaseDialog.java
+END
+AddSourceDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager/installer/src/main/java/org/intermine/install/swing/AddSourceDialog.java
+END
+ProjectEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager/installer/src/main/java/org/intermine/install/swing/ProjectEditor.java
+END
+NewDerivedTypeDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager/installer/src/main/java/org/intermine/install/swing/NewDerivedTypeDialog.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager/installer/src/main/java/org/intermine/install/swing/package.html
+END

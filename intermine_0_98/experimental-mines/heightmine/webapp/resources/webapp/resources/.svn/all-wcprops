@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/heightmine/webapp/resources/webapp/resources
+END
+struts-config-model.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/heightmine/webapp/resources/webapp/resources/struts-config-model.xml
+END
+web.properties
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/heightmine/webapp/resources/webapp/resources/web.properties
+END
+tiles-defs-model.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/heightmine/webapp/resources/webapp/resources/tiles-defs-model.xml
+END

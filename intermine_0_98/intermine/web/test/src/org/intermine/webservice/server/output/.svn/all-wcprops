@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/test/src/org/intermine/webservice/server/output
+END
+CSVFormatterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/test/src/org/intermine/webservice/server/output/CSVFormatterTest.java
+END
+JSONRowResultProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/test/src/org/intermine/webservice/server/output/JSONRowResultProcessorTest.java
+END
+JSONFormattingExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/test/src/org/intermine/webservice/server/output/JSONFormattingExceptionTest.java
+END
+JSONObjResultProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/test/src/org/intermine/webservice/server/output/JSONObjResultProcessorTest.java
+END
+DummyAPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/test/src/org/intermine/webservice/server/output/DummyAPI.java
+END
+JSONResultsIteratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/test/src/org/intermine/webservice/server/output/JSONResultsIteratorTest.java
+END
+JSONRowFormatterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/test/src/org/intermine/webservice/server/output/JSONRowFormatterTest.java
+END
+JSONObjFormatterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/test/src/org/intermine/webservice/server/output/JSONObjFormatterTest.java
+END
+TabFormatterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/test/src/org/intermine/webservice/server/output/TabFormatterTest.java
+END
+JSONObjTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/test/src/org/intermine/webservice/server/output/JSONObjTester.java
+END
+JSONRowIteratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/test/src/org/intermine/webservice/server/output/JSONRowIteratorTest.java
+END

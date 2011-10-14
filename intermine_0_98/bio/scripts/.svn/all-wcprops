@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts
+END
+fix_pseudoobscura_gff.pl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/fix_pseudoobscura_gff.pl
+END
+get_all.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/get_all.sh
+END
+intermine_items_example.pl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/intermine_items_example.pl
+END
+get_intact
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/get_intact
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/.project
+END
+get_psi_ontology
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/get_psi_ontology
+END
+get_redfly
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/get_redfly
+END
+make_mine
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/make_mine
+END
+project_build
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/project_build
+END
+get_flybase_version
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/get_flybase_version
+END
+get_affy_probes
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/get_affy_probes
+END
+get_reactome
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/get_reactome
+END
+get_uniprot
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/get_uniprot
+END
+get_ensembl_fasta
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/get_ensembl_fasta
+END
+get_arrayexpress_atlas.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/get_arrayexpress_atlas.py
+END
+release-mine
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/release-mine
+END
+get_ensembl_mysql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/get_ensembl_mysql
+END
+get_fly_anatomy_ontology
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/get_fly_anatomy_ontology
+END
+get_kegg
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/get_kegg
+END
+get_flyatlas
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/get_flyatlas
+END
+kegg_to_items
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/kegg_to_items
+END
+get_ensembl_anopheles
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/get_ensembl_anopheles
+END
+get_interproXML
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/get_interproXML
+END
+webservice_query
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/webservice_query
+END
+get_inparanoid
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/get_inparanoid
+END
+userprofile_backup
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/userprofile_backup
+END
+get_flybase
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/get_flybase
+END
+get_human_affy_probes
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/get_human_affy_probes
+END
+get_wormbase_rnai
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/get_wormbase_rnai
+END
+new_build_production.pl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/new_build_production.pl
+END
+get_all_modmine.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/get_all_modmine.sh
+END
+check_gff3_parents.pl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/check_gff3_parents.pl
+END
+make-new-mine-props
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/make-new-mine-props
+END
+get-latest-version
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/get-latest-version
+END
+make_source
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/make_source
+END
+get_refseq_summaries.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/get_refseq_summaries.py
+END
+get_HuGE.pl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/get_HuGE.pl
+END
+get_wormbase_identifiers
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/get_wormbase_identifiers
+END
+anopheles_id_mapping
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/anopheles_id_mapping
+END
+build_production
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/build_production
+END
+get_ncbi_pubmed
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/get_ncbi_pubmed
+END
+get_and_split_uniprot.pl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/get_and_split_uniprot.pl
+END
+get_ensemblgeneID2peptideID
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/get_ensemblgeneID2peptideID
+END
+get_go-annotation
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/get_go-annotation
+END
+iql_shell
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/iql_shell
+END

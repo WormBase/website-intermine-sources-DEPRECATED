@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/ncbi-summaries
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/ncbi-summaries/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/ncbi-summaries/project.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/ncbi-summaries/.project
+END
+ncbi-summaries_additions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/ncbi-summaries/ncbi-summaries_additions.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/ncbi-summaries/build.xml
+END

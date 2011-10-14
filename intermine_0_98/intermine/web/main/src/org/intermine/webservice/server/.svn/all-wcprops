@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server
+END
+LinkGeneratorBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/LinkGeneratorBase.java
+END
+SummaryServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/SummaryServlet.java
+END
+SchemaServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/SchemaServlet.java
+END
+ServicesListingsServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/ServicesListingsServlet.java
+END
+StatusDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/StatusDictionary.java
+END
+SchemaListService.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/SchemaListService.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/package.html
+END
+SummaryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/SummaryService.java
+END
+WebServiceInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/WebServiceInput.java
+END
+CodeTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/CodeTranslator.java
+END
+WebServiceRequestParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/WebServiceRequestParser.java
+END
+ColumnHeaderStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/ColumnHeaderStyle.java
+END
+AvailableServicesServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/AvailableServicesServlet.java
+END
+VersionServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/VersionServlet.java
+END
+WebServiceConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/WebServiceConstants.java
+END
+WebService.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/WebService.java
+END

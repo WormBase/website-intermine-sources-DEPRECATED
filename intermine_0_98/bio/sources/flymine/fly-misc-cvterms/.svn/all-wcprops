@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/fly-misc-cvterms
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/fly-misc-cvterms/.classpath
+END
+fly-misc-cvterms_additions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/fly-misc-cvterms/fly-misc-cvterms_additions.xml
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/fly-misc-cvterms/project.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/fly-misc-cvterms/.project
+END
+.checkstyle
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/fly-misc-cvterms/.checkstyle
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/fly-misc-cvterms/build.xml
+END

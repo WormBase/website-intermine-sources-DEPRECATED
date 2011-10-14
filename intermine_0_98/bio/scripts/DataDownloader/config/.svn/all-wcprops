@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/DataDownloader/config
+END
+flymine.yml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/DataDownloader/config/flymine.yml
+END
+metabolicmine.yml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/DataDownloader/config/metabolicmine.yml
+END
+modmine.yml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/DataDownloader/config/modmine.yml
+END
+testing.yml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/DataDownloader/config/testing.yml
+END

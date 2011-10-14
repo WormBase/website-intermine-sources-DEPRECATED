@@ -1,0 +1,25 @@
+K 13
+svn:mergeinfo
+V 1882
+/branches/aliases/bio/tutorial/malariamine/webapp/resources/model.properties:26640-26821
+/branches/api-layer-refactor/bio/tutorial/malariamine/webapp/resources/model.properties:19585-20338
+/branches/flymine_release_14_0_branch/malariamine/webapp/src/model.properties:16842-16843,16848-16849,16851-16855
+/branches/generic_css_rewrite/bio/tutorial/malariamine/webapp/resources/model.properties:26399-26871
+/branches/keyword-search/bio/tutorial/malariamine/webapp/resources/model.properties:21818-22331
+/branches/list-upgrade/bio/tutorial/malariamine/webapp/resources/model.properties:24148
+/branches/list_upgrade/bio/tutorial/malariamine/webapp/resources/model.properties:24149-26763
+/branches/metamine_remodel/bio/tutorial/malariamine/webapp/resources/model.properties:23423-23640
+/branches/mnw21/pathquery_refactor/bio/tutorial/malariamine/webapp/resources/model.properties:20597-22838
+/branches/model_update/bio/tutorial/malariamine/webapp/resources/model.properties:21277-22538
+/branches/new_report_page/bio/tutorial/malariamine/webapp/resources/model.properties:24499-26112
+/branches/openid/bio/tutorial/malariamine/webapp/resources/model.properties:27167-27493
+/branches/tokens/bio/tutorial/malariamine/webapp/resources/model.properties:26823-26904
+/model_update/bio/tutorial/malariamine/webapp/resources/model.properties:21275-21276
+/tickets/ticket-1676/malariamine/webapp/src/model.properties:16929
+/tickets/ticket-1691/bio/tutorial/malariamine/webapp/src/model.properties:17571-17579
+/tickets/ticket-1712/bio/tutorial/malariamine/webapp/src/model.properties:17622-17662
+/tickets/ticket-1712/malariamine/webapp/src/model.properties:16914-16943
+/tickets/ticket-1752/malariamine/webapp/src/model.properties:16872-16886
+/tickets/ticket-1893/bio/tutorial/malariamine/webapp/src/model.properties:17283
+/tickets/ticket-1925/bio/tutorial/malariamine/webapp/src/model.properties:17364
+END

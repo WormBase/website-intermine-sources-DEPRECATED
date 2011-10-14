@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/InterMine-Model/t/01_model
+END
+03_model.t
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/InterMine-Model/t/01_model/03_model.t
+END
+04_paths.t
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/InterMine-Model/t/01_model/04_paths.t
+END
+01_field.t
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/InterMine-Model/t/01_model/01_field.t
+END
+02_class.t
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/InterMine-Model/t/01_model/02_class.t
+END
+02_class_instantiate.t
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/InterMine-Model/t/01_model/02_class_instantiate.t
+END

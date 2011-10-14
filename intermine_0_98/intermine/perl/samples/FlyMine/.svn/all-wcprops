@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/samples/FlyMine
+END
+query_service.pl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/samples/FlyMine/query_service.pl
+END
+query_service_extraValue.pl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/samples/FlyMine/query_service_extraValue.pl
+END
+query_service_xml.pl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/samples/FlyMine/query_service_xml.pl
+END
+GO_annotations_for_gene.pl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/samples/FlyMine/GO_annotations_for_gene.pl
+END
+domain_proteins.pl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/samples/FlyMine/domain_proteins.pl
+END
+gene_to_adjacent_genes.pl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/samples/FlyMine/gene_to_adjacent_genes.pl
+END
+chromosome_location_to_all_genes.pl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/samples/FlyMine/chromosome_location_to_all_genes.pl
+END
+query_service_logic.pl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/samples/FlyMine/query_service_logic.pl
+END
+d_melanogaster_gene_to_flyatlas.pl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/samples/FlyMine/d_melanogaster_gene_to_flyatlas.pl
+END

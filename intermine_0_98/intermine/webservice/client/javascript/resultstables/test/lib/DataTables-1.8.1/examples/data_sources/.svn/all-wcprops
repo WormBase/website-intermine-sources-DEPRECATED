@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/javascript/resultstables/test/lib/DataTables-1.8.1/examples/data_sources
+END
+dom.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/javascript/resultstables/test/lib/DataTables-1.8.1/examples/data_sources/dom.html
+END
+ajax.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/javascript/resultstables/test/lib/DataTables-1.8.1/examples/data_sources/ajax.html
+END
+js_array.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/javascript/resultstables/test/lib/DataTables-1.8.1/examples/data_sources/js_array.html
+END
+server_side.html
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/javascript/resultstables/test/lib/DataTables-1.8.1/examples/data_sources/server_side.html
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/flymine/fileserver_and_backups/number1
+END
+id_dsa_backup_gen_rsync
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/flymine/fileserver_and_backups/number1/id_dsa_backup_gen_rsync
+END
+sync2mirror
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/flymine/fileserver_and_backups/number1/sync2mirror
+END

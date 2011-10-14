@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/lib/Webservice/InterMine/Simple
+END
+Query.pm
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/lib/Webservice/InterMine/Simple/Query.pm
+END
+Template.pm
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/lib/Webservice/InterMine/Simple/Template.pm
+END
+Service.pm
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/lib/Webservice/InterMine/Simple/Service.pm
+END

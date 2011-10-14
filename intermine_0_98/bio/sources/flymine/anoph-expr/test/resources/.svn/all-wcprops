@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/anoph-expr/test/resources
+END
+AnophExprConverterTest_src.txt
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/anoph-expr/test/resources/AnophExprConverterTest_src.txt
+END
+AnophExprConverterTest_tgt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/anoph-expr/test/resources/AnophExprConverterTest_tgt.xml
+END
+reporter_gene_mappingFile.txt
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/anoph-expr/test/resources/reporter_gene_mappingFile.txt
+END

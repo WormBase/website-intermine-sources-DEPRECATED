@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/28046/branches/intermine_0_98/intermine/python/intermine-bio
+END
+create_docs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/28046/branches/intermine_0_98/intermine/python/intermine-bio/create_docs.sh
+END
+COPYING.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/28046/branches/intermine_0_98/intermine/python/intermine-bio/COPYING.txt
+END
+MANIFEST
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/28046/branches/intermine_0_98/intermine/python/intermine-bio/MANIFEST
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/28046/branches/intermine_0_98/intermine/python/intermine-bio/setup.py
+END
+Changes
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/28046/branches/intermine_0_98/intermine/python/intermine-bio/Changes
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/28046/branches/intermine_0_98/intermine/python/intermine-bio/MANIFEST.in
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/28046/branches/intermine_0_98/intermine/python/intermine-bio/README
+END

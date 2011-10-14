@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/views
+END
+employee_templates.tt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/views/employee_templates.tt
+END
+lists.tt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/views/lists.tt
+END
+item_error.tt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/views/item_error.tt
+END
+index.tt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/views/index.tt
+END
+current_lists_box.tt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/views/current_lists_box.tt
+END
+jbrowse.tt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/views/jbrowse.tt
+END
+list_items.tt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/views/list_items.tt
+END
+list_items_pagers.tt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/views/list_items_pagers.tt
+END
+department_templates.tt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/views/department_templates.tt
+END
+export.tt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/views/export.tt
+END
+gene_templates_placeholders.tt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/views/gene_templates_placeholders.tt
+END
+list_creation_popup.tt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/views/list_creation_popup.tt
+END
+lists_display.tt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/views/lists_display.tt
+END
+user_comments.tt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/views/user_comments.tt
+END
+CEO_templates.tt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/views/CEO_templates.tt
+END
+template_options.tt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/views/template_options.tt
+END
+gene_error.tt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/views/gene_error.tt
+END
+error.tt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/views/error.tt
+END
+no_lists.tt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/views/no_lists.tt
+END
+Pathway_templates.tt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/views/Pathway_templates.tt
+END
+gene_templates.tt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/views/gene_templates.tt
+END
+templates.tt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/views/templates.tt
+END
+item.tt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/views/item.tt
+END
+list_addition_box.tt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/views/list_addition_box.tt
+END
+Address_templates.tt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/views/Address_templates.tt
+END
+banner.tt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/views/banner.tt
+END
+lists_manage.tt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/views/lists_manage.tt
+END
+gbrowse.tt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/views/gbrowse.tt
+END
+item_details_table.tt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/views/item_details_table.tt
+END
+gene.tt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/views/gene.tt
+END
+homologues.tt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/views/homologues.tt
+END
+company_templates.tt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/views/company_templates.tt
+END
+list_options.tt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/views/list_options.tt
+END

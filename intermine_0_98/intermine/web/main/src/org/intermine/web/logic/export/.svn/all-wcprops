@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/export
+END
+ExportException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/export/ExportException.java
+END
+ResultElementConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/export/ResultElementConverter.java
+END
+ExportHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/export/ExportHelper.java
+END
+CustomPrintWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/export/CustomPrintWriter.java
+END
+Exporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/export/Exporter.java
+END
+ExporterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/export/ExporterImpl.java
+END
+RowFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/export/RowFormatter.java
+END
+FieldExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/export/FieldExporter.java
+END
+ResponseUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/export/ResponseUtil.java
+END
+RowFormatterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/export/RowFormatterImpl.java
+END

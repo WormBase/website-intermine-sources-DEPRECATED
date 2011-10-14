@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/redfly
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/redfly/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/redfly/project.properties
+END
+redfly_additions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/redfly/redfly_additions.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/redfly/.project
+END
+.checkstyle
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/redfly/.checkstyle
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/redfly/build.xml
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/t/04_query
+END
+04_template.t
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/t/04_query/04_template.t
+END
+03_scripted.t
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/t/04_query/03_scripted.t
+END
+05_good_and_bad_templates.t
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/t/04_query/05_good_and_bad_templates.t
+END
+02_pathquery.t
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/t/04_query/02_pathquery.t
+END
+03_saved.t
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/t/04_query/03_saved.t
+END
+01_core.t
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/t/04_query/01_core.t
+END

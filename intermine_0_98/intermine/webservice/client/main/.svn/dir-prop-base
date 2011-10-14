@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 40
+build
+client-build
+client-dist
+dist
+bin
+
+END

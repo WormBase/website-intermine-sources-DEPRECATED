@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/widget
+END
+UniProtKeywordsURLQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/widget/UniProtKeywordsURLQuery.java
+END
+UniProtFeaturesLdr.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/widget/UniProtFeaturesLdr.java
+END
+GoStatLdr.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/widget/GoStatLdr.java
+END
+OverlapsDataSetLdr.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/widget/OverlapsDataSetLdr.java
+END
+FeatureLengthDataSetLdr.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/widget/FeatureLengthDataSetLdr.java
+END
+HomologueURLQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/widget/HomologueURLQuery.java
+END
+UniProtFeaturesURLQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/widget/UniProtFeaturesURLQuery.java
+END
+OMIMDiseaseURLQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/widget/OMIMDiseaseURLQuery.java
+END
+GoStatURLQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/widget/GoStatURLQuery.java
+END
+ProteinDomainLdr.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/widget/ProteinDomainLdr.java
+END
+PublicationLdr.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/widget/PublicationLdr.java
+END
+BioWidgetUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/widget/BioWidgetUtil.java
+END
+PrideExperimentURLQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/widget/PrideExperimentURLQuery.java
+END
+PathwayLdr.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/widget/PathwayLdr.java
+END
+GWASEnrichmentLdr.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/widget/GWASEnrichmentLdr.java
+END
+ProteinDomainURLQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/widget/ProteinDomainURLQuery.java
+END
+PublicationURLQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/widget/PublicationURLQuery.java
+END
+ChromosomeDistributionDataSetLdr.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/widget/ChromosomeDistributionDataSetLdr.java
+END
+PathwayURLQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/widget/PathwayURLQuery.java
+END
+GWASEnrichmentURLQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/widget/GWASEnrichmentURLQuery.java
+END
+ChromosomeDistributionGraphURLGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/widget/ChromosomeDistributionGraphURLGenerator.java
+END
+InteractionURLQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/widget/InteractionURLQuery.java
+END
+ProteinInteractionURLQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/widget/ProteinInteractionURLQuery.java
+END
+UniProtKeywordsLdr.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/widget/UniProtKeywordsLdr.java
+END

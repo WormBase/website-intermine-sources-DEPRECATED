@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/28046/branches/intermine_0_98/intermine/integrate/model/fulldata
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/28046/branches/intermine_0_98/intermine/integrate/model/fulldata/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28046/branches/intermine_0_98/intermine/integrate/model/fulldata/project.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/28046/branches/intermine_0_98/intermine/integrate/model/fulldata/.project
+END
+fulldata_model.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28046/branches/intermine_0_98/intermine/integrate/model/fulldata/fulldata_model.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/28046/branches/intermine_0_98/intermine/integrate/model/fulldata/build.xml
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/flymine/init/bash
+END
+java.bashrc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/flymine/init/bash/java.bashrc
+END
+perl.bashrc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/flymine/init/bash/perl.bashrc
+END
+flymine.bashrc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/flymine/init/bash/flymine.bashrc
+END
+svn.bashrc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/flymine/init/bash/svn.bashrc
+END
+common.bashrc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/flymine/init/bash/common.bashrc
+END
+cvs.bashrc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/flymine/init/bash/cvs.bashrc
+END

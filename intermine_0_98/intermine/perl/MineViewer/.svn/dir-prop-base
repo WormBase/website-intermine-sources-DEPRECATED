@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 53
+blib
+*META*
+logs
+Build
+build
+_build
+.git
+.git-ignore
+
+END

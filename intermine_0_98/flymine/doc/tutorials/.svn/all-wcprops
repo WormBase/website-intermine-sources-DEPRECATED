@@ -1,0 +1,497 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials
+END
+odp-gene-top.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/odp-gene-top.png
+END
+buildtemp-nolabel.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/buildtemp-nolabel.png
+END
+odp-gene-bottom.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/odp-gene-bottom.png
+END
+resultsQuery4temp.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/resultsQuery4temp.png
+END
+buildtemp-label.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/buildtemp-label.png
+END
+templatesBuilder.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/templatesBuilder.png
+END
+export-bag.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/export-bag.png
+END
+GO-template-QB.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/GO-template-QB.png
+END
+GO-homepage.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/GO-homepage.png
+END
+templatesList.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/templatesList.png
+END
+showFields3.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/showFields3.png
+END
+buildtemp-template.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/buildtemp-template.png
+END
+tutorial7-buildtemplate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/tutorial7-buildtemplate.xml
+END
+tutorial1-QuickSearch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/tutorial1-QuickSearch.xml
+END
+bag-template.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/bag-template.png
+END
+tutorial8-MyMine.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/tutorial8-MyMine.xml
+END
+buildtemp-export.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/buildtemp-export.png
+END
+buildtemp-preview.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/buildtemp-preview.png
+END
+query1_1.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/query1_1.png
+END
+query1_2.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/query1_2.png
+END
+confirmBag.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/confirmBag.png
+END
+query3_1.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/query3_1.png
+END
+query1_3.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/query1_3.png
+END
+query3_2.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/query3_2.png
+END
+query3_3.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/query3_3.png
+END
+query3_4.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/query3_4.png
+END
+objectDetailsProtein.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/objectDetailsProtein.png
+END
+export-fasta.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/export-fasta.png
+END
+quickSearch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/quickSearch.xml
+END
+buildtemp-start.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/buildtemp-start.png
+END
+bag-template-results1.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/bag-template-results1.png
+END
+templatesForm.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/templatesForm.png
+END
+bag-template-results2.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/bag-template-results2.png
+END
+bag-MyMine.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/bag-MyMine.png
+END
+homepage.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/homepage.png
+END
+objectDetails.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/objectDetails.xml
+END
+tutorial3-Templates.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/tutorial3-Templates.xml
+END
+templatesAspect.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/templatesAspect.png
+END
+tutorial4-BagsHistory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/tutorial4-BagsHistory.xml
+END
+objectDetailsAspects.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/objectDetailsAspects.png
+END
+objectDetailsTop.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/objectDetailsTop.png
+END
+bag-template-results.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/bag-template-results.png
+END
+tutorial6-QB.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/tutorial6-QB.xml
+END
+buildtemp-edit.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/buildtemp-edit.png
+END
+templates.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/templates.xml
+END
+GO-template.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/GO-template.png
+END
+MyMine1.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/MyMine1.png
+END
+QB_template2.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/QB_template2.png
+END
+MyMine2.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/MyMine2.png
+END
+export-results.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/export-results.png
+END
+MyMine3.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/MyMine3.png
+END
+GO-aspect.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/GO-aspect.png
+END
+MyMine4.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/MyMine4.png
+END
+tutorial5-Export.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/tutorial5-Export.xml
+END
+MyMine5.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/MyMine5.png
+END
+index.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/index.xml
+END
+history-homepage.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/history-homepage.png
+END
+quickSearchResults.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/quickSearchResults.png
+END
+bag-create.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/bag-create.png
+END
+QB-template1.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/QB-template1.png
+END
+classSelection2.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/classSelection2.png
+END
+QB-template2.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/QB-template2.png
+END
+QB-template3.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/QB-template3.png
+END
+odp-protein-top.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/odp-protein-top.png
+END
+query1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/query1.xml
+END
+query2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/query2.xml
+END
+buildtemp-name.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/buildtemp-name.png
+END
+query3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/query3.xml
+END
+query2_2.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/query2_2.png
+END
+query2_3.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/query2_3.png
+END
+query2_4.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/query2_4.png
+END
+quickSearchBox.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/quickSearchBox.png
+END
+bag-homepage.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/bag-homepage.png
+END
+wildcards.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/wildcards.png
+END
+GO-template-results.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/GO-template-results.png
+END
+tutorial4-Bags.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/tutorial4-Bags.xml
+END
+templatesResults.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/templatesResults.png
+END
+constrainEvidence1.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/constrainEvidence1.png
+END
+buildtemp-history.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/buildtemp-history.png
+END
+constrainEvidence2.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/constrainEvidence2.png
+END
+tutorial2-ObjectDetailPage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/tutorial2-ObjectDetailPage.xml
+END
+bag-history.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/28046/branches/intermine_0_98/flymine/doc/tutorials/bag-history.png
+END

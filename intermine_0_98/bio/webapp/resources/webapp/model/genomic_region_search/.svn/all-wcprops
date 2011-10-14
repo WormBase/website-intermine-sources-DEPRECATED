@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/genomic_region_search
+END
+genomic_region_search_results_base.js
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/genomic_region_search/genomic_region_search_results_base.js
+END
+genomic_region_search_options_default.js
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/genomic_region_search/genomic_region_search_options_default.js
+END
+genomic_region_search_options_base.js
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/genomic_region_search/genomic_region_search_options_base.js
+END
+genomic_region_search_results_default.js
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/genomic_region_search/genomic_region_search_results_default.js
+END

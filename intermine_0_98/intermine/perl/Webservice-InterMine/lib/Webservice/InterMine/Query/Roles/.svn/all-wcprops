@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/lib/Webservice/InterMine/Query/Roles
+END
+WriteOutYaml.pm
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/lib/Webservice/InterMine/Query/Roles/WriteOutYaml.pm
+END
+Runnable.pm
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/lib/Webservice/InterMine/Query/Roles/Runnable.pm
+END
+WriteOutAble.pm
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/lib/Webservice/InterMine/Query/Roles/WriteOutAble.pm
+END
+WriteOutLegacy.pm
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/lib/Webservice/InterMine/Query/Roles/WriteOutLegacy.pm
+END
+Uploadable.pm
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/lib/Webservice/InterMine/Query/Roles/Uploadable.pm
+END
+WriteExcel.pm
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/lib/Webservice/InterMine/Query/Roles/WriteExcel.pm
+END
+HTMLTable.pm
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/lib/Webservice/InterMine/Query/Roles/HTMLTable.pm
+END
+Templated.pm
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/lib/Webservice/InterMine/Query/Roles/Templated.pm
+END
+ExtendedQuery.pm
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/lib/Webservice/InterMine/Query/Roles/ExtendedQuery.pm
+END
+ReadInAble.pm
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/lib/Webservice/InterMine/Query/Roles/ReadInAble.pm
+END
+QueryUrl.pm
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/lib/Webservice/InterMine/Query/Roles/QueryUrl.pm
+END
+ScriptAble.pm
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/lib/Webservice/InterMine/Query/Roles/ScriptAble.pm
+END
+QueryParameters.pm
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/lib/Webservice/InterMine/Query/Roles/QueryParameters.pm
+END
+Listable.pm
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/lib/Webservice/InterMine/Query/Roles/Listable.pm
+END
+TemplateParameters.pm
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/lib/Webservice/InterMine/Query/Roles/TemplateParameters.pm
+END
+Templateable.pm
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/lib/Webservice/InterMine/Query/Roles/Templateable.pm
+END
+Saved.pm
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/lib/Webservice/InterMine/Query/Roles/Saved.pm
+END

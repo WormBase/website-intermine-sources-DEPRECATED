@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/28046/branches/intermine_0_98/intermine/integrate/test/src/org/intermine/dataconversion
+END
+ObjectStoreItemWriterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/28046/branches/intermine_0_98/intermine/integrate/test/src/org/intermine/dataconversion/ObjectStoreItemWriterTest.java
+END
+ItemToObjectTranslatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/28046/branches/intermine_0_98/intermine/integrate/test/src/org/intermine/dataconversion/ItemToObjectTranslatorTest.java
+END
+ItemToObjectTranslatorFunctionalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/28046/branches/intermine_0_98/intermine/integrate/test/src/org/intermine/dataconversion/ItemToObjectTranslatorFunctionalTest.java
+END
+ItemWriterTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/28046/branches/intermine_0_98/intermine/integrate/test/src/org/intermine/dataconversion/ItemWriterTestCase.java
+END
+MockItemsTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/28046/branches/intermine_0_98/intermine/integrate/test/src/org/intermine/dataconversion/MockItemsTestCase.java
+END
+MockItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/28046/branches/intermine_0_98/intermine/integrate/test/src/org/intermine/dataconversion/MockItem.java
+END
+ItemsTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/28046/branches/intermine_0_98/intermine/integrate/test/src/org/intermine/dataconversion/ItemsTestCase.java
+END

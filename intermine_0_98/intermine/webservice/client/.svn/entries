@@ -1,0 +1,43 @@
+9
+
+dir
+28127
+http://subversion.flymine.org/branches/intermine_0_98/intermine/webservice/client
+http://subversion.flymine.org
+
+
+
+2011-09-21T10:38:08.209931Z
+27851
+julie
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+37e1b716-f2f3-0310-95ce-c813c9c44928
+
+test
+dir
+
+main
+dir
+
+samples
+dir
+
+javascript
+dir
+
+download
+dir
+

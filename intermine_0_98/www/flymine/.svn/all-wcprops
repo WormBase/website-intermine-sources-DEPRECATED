@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/28046/branches/intermine_0_98/www/flymine
+END
+branding.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/28046/branches/intermine_0_98/www/flymine/branding.xml
+END
+menu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/28046/branches/intermine_0_98/www/flymine/menu.xml
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/28046/branches/intermine_0_98/www/flymine/.cvsignore
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/28046/branches/intermine_0_98/www/flymine/build.xml
+END

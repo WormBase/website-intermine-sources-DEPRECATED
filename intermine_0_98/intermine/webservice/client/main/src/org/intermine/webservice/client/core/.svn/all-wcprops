@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/src/org/intermine/webservice/client/core
+END
+Service.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/src/org/intermine/webservice/client/core/Service.java
+END
+ResultRowList.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/src/org/intermine/webservice/client/core/ResultRowList.java
+END
+RowResultSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/src/org/intermine/webservice/client/core/RowResultSet.java
+END
+ResultRowMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/src/org/intermine/webservice/client/core/ResultRowMap.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/src/org/intermine/webservice/client/core/Version.java
+END
+XMLTableResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/src/org/intermine/webservice/client/core/XMLTableResult.java
+END
+JSONResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/src/org/intermine/webservice/client/core/JSONResult.java
+END
+Request.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/src/org/intermine/webservice/client/core/Request.java
+END
+ServiceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/src/org/intermine/webservice/client/core/ServiceFactory.java
+END
+RequestImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/src/org/intermine/webservice/client/core/RequestImpl.java
+END
+ResultSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/src/org/intermine/webservice/client/core/ResultSet.java
+END
+ContentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/src/org/intermine/webservice/client/core/ContentType.java
+END
+TabTableResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/src/org/intermine/webservice/client/core/TabTableResult.java
+END

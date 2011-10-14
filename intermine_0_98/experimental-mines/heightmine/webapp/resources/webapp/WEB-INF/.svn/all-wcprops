@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/heightmine/webapp/resources/webapp/WEB-INF
+END
+webconfig-model.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/heightmine/webapp/resources/webapp/WEB-INF/webconfig-model.xml
+END
+aspects.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/heightmine/webapp/resources/webapp/WEB-INF/aspects.xml
+END
+webconfig-model.xml.backup
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/heightmine/webapp/resources/webapp/WEB-INF/webconfig-model.xml.backup
+END
+class_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/heightmine/webapp/resources/webapp/WEB-INF/class_keys.properties
+END

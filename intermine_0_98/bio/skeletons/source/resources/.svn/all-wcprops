@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/28046/branches/intermine_0_98/bio/skeletons/source/resources
+END
+${source-name}_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/28046/branches/intermine_0_98/bio/skeletons/source/resources/$%7Bsource-name%7D_keys.properties
+END

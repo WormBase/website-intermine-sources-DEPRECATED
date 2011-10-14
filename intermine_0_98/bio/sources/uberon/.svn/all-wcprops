@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/uberon
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/uberon/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/uberon/project.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/uberon/.project
+END
+uberon_additions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/uberon/uberon_additions.xml
+END
+.checkstyle
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/uberon/.checkstyle
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/uberon/build.xml
+END

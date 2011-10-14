@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model
+END
+gbrowseDisplayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/gbrowseDisplayer.jsp
+END
+geneOntologyDisplayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/geneOntologyDisplayer.jsp
+END
+minePathwaysDisplayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/minePathwaysDisplayer.jsp
+END
+sequenceExportOptions.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/sequenceExportOptions.jsp
+END
+genomicRegionSearchResultsBase.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/genomicRegionSearchResultsBase.jsp
+END
+dateDisplayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/dateDisplayer.jsp
+END
+geneExpressionAtlasDisplayerLinearSlider.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/geneExpressionAtlasDisplayerLinearSlider.jsp
+END
+imageDisplayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/imageDisplayer.jsp
+END
+geneExpressionAtlasDisplayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/geneExpressionAtlasDisplayer.jsp
+END
+locatedSequenceFeatureShort.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/locatedSequenceFeatureShort.jsp
+END
+regulatoryRegionsDisplayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/regulatoryRegionsDisplayer.jsp
+END
+overlappingFeaturesDisplayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/overlappingFeaturesDisplayer.jsp
+END
+gff3ExportOptions.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/gff3ExportOptions.jsp
+END
+publicationAnnotationsDisplayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/publicationAnnotationsDisplayer.jsp
+END
+sequenceShortDisplayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/sequenceShortDisplayer.jsp
+END
+sequenceShortDisplayerWithField.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/sequenceShortDisplayerWithField.jsp
+END
+displaySequenceFeature.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/displaySequenceFeature.jsp
+END
+dataSourceLong.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/dataSourceLong.jsp
+END
+homologueDisplayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/homologueDisplayer.jsp
+END
+friendlyMineLinkDisplayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/friendlyMineLinkDisplayer.jsp
+END
+publicationCountsDisplayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/publicationCountsDisplayer.jsp
+END
+genomicRegionSearchOptionsBase.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/genomicRegionSearchOptionsBase.jsp
+END
+geneMicroArrayDisplayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/geneMicroArrayDisplayer.jsp
+END
+chromosomeLocDisplayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/chromosomeLocDisplayer.jsp
+END
+jbrowseDisplayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/jbrowseDisplayer.jsp
+END
+proteinAtlasDisplayerTable.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/proteinAtlasDisplayerTable.jsp
+END
+diseaseDisplayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/diseaseDisplayer.jsp
+END
+organismShort.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/organismShort.jsp
+END
+sequenceFeatureDisplayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/sequenceFeatureDisplayer.jsp
+END
+galaxyExportOptions.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/galaxyExportOptions.jsp
+END
+pathwayLinkDisplayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/pathwayLinkDisplayer.jsp
+END
+bedExportOptions.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/bedExportOptions.jsp
+END
+geneExpressionAtlasDisplayerNonLinearSlider.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/geneExpressionAtlasDisplayerNonLinearSlider.jsp
+END
+dataSourceShort.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/dataSourceShort.jsp
+END
+geneStructureDisplayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/geneStructureDisplayer.jsp
+END
+JMOLDisplayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/JMOLDisplayer.jsp
+END
+snpToGeneDisplayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/snpToGeneDisplayer.jsp
+END
+cytoscapeNetworkDisplayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/cytoscapeNetworkDisplayer.jsp
+END
+proteinAtlasDisplayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/proteinAtlasDisplayer.jsp
+END
+uniProtCommentsDisplayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/resources/webapp/model/uniProtCommentsDisplayer.jsp
+END

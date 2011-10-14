@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/bdgp-clone/test/resources
+END
+affy.csv
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/bdgp-clone/test/resources/affy.csv
+END
+ImageClone.test
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/bdgp-clone/test/resources/ImageClone.test
+END
+ImageClone.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/bdgp-clone/test/resources/ImageClone.xml
+END
+AffyTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/bdgp-clone/test/resources/AffyTest.xml
+END
+BDGPCloneConverterTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/bdgp-clone/test/resources/BDGPCloneConverterTest.xml
+END

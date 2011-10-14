@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/uniprot/test/resources/test
+END
+UniprotSrc_duplicates.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/uniprot/test/resources/test/UniprotSrc_duplicates.xml
+END
+UniprotXmlFilterTest_tgt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/uniprot/test/resources/test/UniprotXmlFilterTest_tgt.xml
+END
+UniprotSrc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/uniprot/test/resources/test/UniprotSrc.xml
+END
+UniprotXmlFilterTest_src.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/uniprot/test/resources/test/UniprotXmlFilterTest_src.xml
+END

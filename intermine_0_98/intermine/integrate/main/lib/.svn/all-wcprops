@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/28046/branches/intermine_0_98/intermine/integrate/main/lib
+END
+json20110106.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/28046/branches/intermine_0_98/intermine/integrate/main/lib/json20110106.jar
+END
+mysql-connector-java-3.0.10-stable-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/28046/branches/intermine_0_98/intermine/integrate/main/lib/mysql-connector-java-3.0.10-stable-bin.jar
+END
+stax-api-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/28046/branches/intermine_0_98/intermine/integrate/main/lib/stax-api-1.0.jar
+END
+stax-ri-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/28046/branches/intermine_0_98/intermine/integrate/main/lib/stax-ri-1.0.jar
+END

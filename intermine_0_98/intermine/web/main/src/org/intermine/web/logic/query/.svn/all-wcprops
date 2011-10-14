@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/query
+END
+DisplayConstraintFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/query/DisplayConstraintFactory.java
+END
+PageTableQueryMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/query/PageTableQueryMonitor.java
+END
+QueryMonitorTimeout.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/query/QueryMonitorTimeout.java
+END
+MetadataNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/query/MetadataNode.java
+END
+DisplayConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/query/DisplayConstraint.java
+END
+DisplayConstraintHelpMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/query/DisplayConstraintHelpMessages.java
+END
+QueryMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/query/QueryMonitor.java
+END

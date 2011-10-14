@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/environments
+END
+development.yml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/environments/development.yml
+END
+production.yml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/environments/production.yml
+END
+neurogenes.yml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/environments/neurogenes.yml
+END
+testing.yml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/environments/testing.yml
+END
+flymineview.yml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/MineViewer/environments/flymineview.yml
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/treefam/test/resources
+END
+ortholog.txt.table
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/treefam/test/resources/ortholog.txt.table
+END
+genes.txt.table
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/treefam/test/resources/genes.txt.table
+END
+TreefamConverterTest_tgt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/treefam/test/resources/TreefamConverterTest_tgt.xml
+END

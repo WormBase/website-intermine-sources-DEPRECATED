@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/WEB-INF
+END
+webconfig-model.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/WEB-INF/webconfig-model.xml
+END
+aspects.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/WEB-INF/aspects.xml
+END
+categoryOrder.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/WEB-INF/categoryOrder.properties
+END
+example-queries.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/WEB-INF/example-queries.xml
+END
+experimentCategory.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/WEB-INF/experimentCategory.properties
+END
+featureTypeDescr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/webapp/WEB-INF/featureTypeDescr.properties
+END

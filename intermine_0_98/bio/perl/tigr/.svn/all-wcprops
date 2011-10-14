@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/28046/branches/intermine_0_98/bio/perl/tigr
+END
+Gene_obj.pm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/28046/branches/intermine_0_98/bio/perl/tigr/Gene_obj.pm
+END
+Gene_ontology.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/28046/branches/intermine_0_98/bio/perl/tigr/Gene_ontology.pm
+END
+Nuc_translator.pm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/28046/branches/intermine_0_98/bio/perl/tigr/Nuc_translator.pm
+END
+TIGR_XML_parser.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/28046/branches/intermine_0_98/bio/perl/tigr/TIGR_XML_parser.pm
+END
+Evidence.pm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/28046/branches/intermine_0_98/bio/perl/tigr/Evidence.pm
+END

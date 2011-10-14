@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/chado-db/resources
+END
+chado-db-wormbase-c_elegans_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/chado-db/resources/chado-db-wormbase-c_elegans_keys.properties
+END
+chado-db-flybase-dpse_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/chado-db/resources/chado-db-flybase-dpse_keys.properties
+END
+chado-db_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/chado-db/resources/chado-db_keys.properties
+END
+chado-db-flybase-dmel_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/chado-db/resources/chado-db-flybase-dmel_keys.properties
+END
+chado-db-flybase-others_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/chado-db/resources/chado-db-flybase-others_keys.properties
+END

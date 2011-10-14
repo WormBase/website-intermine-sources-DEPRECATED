@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/src/org/intermine/objectstore/dummy
+END
+ObjectStoreDummyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/src/org/intermine/objectstore/dummy/ObjectStoreDummyImpl.java
+END
+ObjectStoreDummyImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/src/org/intermine/objectstore/dummy/ObjectStoreDummyImplTest.java
+END
+MethodNotMockedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/src/org/intermine/objectstore/dummy/MethodNotMockedException.java
+END
+DummyResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/src/org/intermine/objectstore/dummy/DummyResults.java
+END
+ObjectStoreWriterDummyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/src/org/intermine/objectstore/dummy/ObjectStoreWriterDummyImpl.java
+END
+ObjectStoreWriterDummyImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/src/org/intermine/objectstore/dummy/ObjectStoreWriterDummyImplTest.java
+END

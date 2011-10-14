@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/test/src/org/intermine/api/query/codegen
+END
+WebserviceJavaCodeGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/test/src/org/intermine/api/query/codegen/WebserviceJavaCodeGeneratorTest.java
+END
+WebservicePythonCodeGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/test/src/org/intermine/api/query/codegen/WebservicePythonCodeGeneratorTest.java
+END
+WebservicePerlCodeGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/test/src/org/intermine/api/query/codegen/WebservicePerlCodeGeneratorTest.java
+END
+WebserviceJavaScriptCodeGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/test/src/org/intermine/api/query/codegen/WebserviceJavaScriptCodeGeneratorTest.java
+END

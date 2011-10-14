@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/biogrid
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/biogrid/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/biogrid/project.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/biogrid/.project
+END
+.checkstyle
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/biogrid/.checkstyle
+END
+biogrid_additions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/biogrid/biogrid_additions.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/biogrid/build.xml
+END

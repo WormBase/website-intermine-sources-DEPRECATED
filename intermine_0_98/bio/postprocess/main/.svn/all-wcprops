@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/28046/branches/intermine_0_98/bio/postprocess/main
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/28046/branches/intermine_0_98/bio/postprocess/main/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/28046/branches/intermine_0_98/bio/postprocess/main/project.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/28046/branches/intermine_0_98/bio/postprocess/main/.project
+END
+.checkstyle
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/28046/branches/intermine_0_98/bio/postprocess/main/.checkstyle
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/28046/branches/intermine_0_98/bio/postprocess/main/build.xml
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/querybuilder
+END
+DisplayPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/querybuilder/DisplayPath.java
+END
+SummaryConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/querybuilder/SummaryConstraint.java
+END
+ModelBrowserHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/querybuilder/ModelBrowserHelper.java
+END
+QueryBuilderSummaryHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/querybuilder/QueryBuilderSummaryHelper.java
+END
+SummaryPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/web/logic/querybuilder/SummaryPath.java
+END

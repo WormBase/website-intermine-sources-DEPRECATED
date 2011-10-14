@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/doc/org/intermine/webservice/client/util
+END
+HttpConnection.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/doc/org/intermine/webservice/client/util/HttpConnection.html
+END
+URLParser.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/doc/org/intermine/webservice/client/util/URLParser.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/doc/org/intermine/webservice/client/util/package-frame.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/doc/org/intermine/webservice/client/util/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/doc/org/intermine/webservice/client/util/package-tree.html
+END
+ErrorMessageParser.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/doc/org/intermine/webservice/client/util/ErrorMessageParser.html
+END

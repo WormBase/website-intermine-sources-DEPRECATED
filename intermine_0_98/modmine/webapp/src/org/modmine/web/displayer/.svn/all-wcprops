@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/src/org/modmine/web/displayer
+END
+SubmissionFileDownloadDisplayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/src/org/modmine/web/displayer/SubmissionFileDownloadDisplayer.java
+END
+SubmissionPropertiesDisplayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/src/org/modmine/web/displayer/SubmissionPropertiesDisplayer.java
+END
+SubmissionGeneratedFeaturesDisplayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/src/org/modmine/web/displayer/SubmissionGeneratedFeaturesDisplayer.java
+END
+ModMineWikiDisplayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/src/org/modmine/web/displayer/ModMineWikiDisplayer.java
+END
+ProjectDetailsDisplayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/src/org/modmine/web/displayer/ProjectDetailsDisplayer.java
+END
+SubmissionGBrowseTracksDisplayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/src/org/modmine/web/displayer/SubmissionGBrowseTracksDisplayer.java
+END
+SubmissionExternalLinksDisplayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/src/org/modmine/web/displayer/SubmissionExternalLinksDisplayer.java
+END
+SubmissionProtocolsDisplayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/src/org/modmine/web/displayer/SubmissionProtocolsDisplayer.java
+END
+ModMineGBrowseDisplayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/src/org/modmine/web/displayer/ModMineGBrowseDisplayer.java
+END
+SubmissionDetailsDisplayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/src/org/modmine/web/displayer/SubmissionDetailsDisplayer.java
+END

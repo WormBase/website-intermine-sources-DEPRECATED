@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/DataDownloader/lib/DataDownloader/Source
+END
+AnophelesIdentifiers.pm
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/DataDownloader/lib/DataDownloader/Source/AnophelesIdentifiers.pm
+END
+FlyBaseFasta.pm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/DataDownloader/lib/DataDownloader/Source/FlyBaseFasta.pm
+END
+PDB.pm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/DataDownloader/lib/DataDownloader/Source/PDB.pm
+END
+WormIdentifiers.pm
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/DataDownloader/lib/DataDownloader/Source/WormIdentifiers.pm
+END
+NCBIGene.pm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/DataDownloader/lib/DataDownloader/Source/NCBIGene.pm
+END
+IntactVocabulary.pm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/DataDownloader/lib/DataDownloader/Source/IntactVocabulary.pm
+END
+KeggPathway.pm
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/DataDownloader/lib/DataDownloader/Source/KeggPathway.pm
+END
+RNAiScreens.pm
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/DataDownloader/lib/DataDownloader/Source/RNAiScreens.pm
+END
+PubMed.pm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/DataDownloader/lib/DataDownloader/Source/PubMed.pm
+END
+Kegg.pm
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/DataDownloader/lib/DataDownloader/Source/Kegg.pm
+END
+FlyAnatomyOntology.pm
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/DataDownloader/lib/DataDownloader/Source/FlyAnatomyOntology.pm
+END
+BioGRID.pm
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/DataDownloader/lib/DataDownloader/Source/BioGRID.pm
+END
+FlyAtlas.pm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/DataDownloader/lib/DataDownloader/Source/FlyAtlas.pm
+END
+FlyBaseOrthologues.pm
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/DataDownloader/lib/DataDownloader/Source/FlyBaseOrthologues.pm
+END
+IntAct.pm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/DataDownloader/lib/DataDownloader/Source/IntAct.pm
+END
+FtpBase.pm
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/DataDownloader/lib/DataDownloader/Source/FtpBase.pm
+END
+FlyBaseChado.pm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/DataDownloader/lib/DataDownloader/Source/FlyBaseChado.pm
+END
+ABC.pm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/DataDownloader/lib/DataDownloader/Source/ABC.pm
+END
+RedFly.pm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/DataDownloader/lib/DataDownloader/Source/RedFly.pm
+END
+EnsemblCompara.pm
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/DataDownloader/lib/DataDownloader/Source/EnsemblCompara.pm
+END
+InterProGO.pm
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/DataDownloader/lib/DataDownloader/Source/InterProGO.pm
+END
+WormbaseRNAi.pm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/DataDownloader/lib/DataDownloader/Source/WormbaseRNAi.pm
+END
+FlyOntologies.pm
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/DataDownloader/lib/DataDownloader/Source/FlyOntologies.pm
+END
+Reactome.pm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/DataDownloader/lib/DataDownloader/Source/Reactome.pm
+END
+GOAnnotation.pm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/DataDownloader/lib/DataDownloader/Source/GOAnnotation.pm
+END
+AffyProbes.pm
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/DataDownloader/lib/DataDownloader/Source/AffyProbes.pm
+END
+UniProt.pm
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/DataDownloader/lib/DataDownloader/Source/UniProt.pm
+END
+InterPro.pm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/DataDownloader/lib/DataDownloader/Source/InterPro.pm
+END
+MGIIdentifiers.pm
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/DataDownloader/lib/DataDownloader/Source/MGIIdentifiers.pm
+END
+RGDIdentifiers.pm
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28046/branches/intermine_0_98/bio/scripts/DataDownloader/lib/DataDownloader/Source/RGDIdentifiers.pm
+END

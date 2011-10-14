@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/InterMine-Model
+END
+ignore.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/InterMine-Model/ignore.txt
+END
+MANIFEST
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/InterMine-Model/MANIFEST
+END
+Changes
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/InterMine-Model/Changes
+END
+Build.PL
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/InterMine-Model/Build.PL
+END
+MANIFEST.SKIP
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/InterMine-Model/MANIFEST.SKIP
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/InterMine-Model/README
+END

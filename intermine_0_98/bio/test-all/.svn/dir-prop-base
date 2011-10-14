@@ -1,0 +1,22 @@
+K 10
+svn:ignore
+V 314
+flybase-ids_tgt.xml
+flybase-gene-names_tgt.xml
+diseaseregion_items.xml
+Drosophila_melanogaster_chr_1.gff
+flymine.log*
+flybase_cds_tgt.xml
+build
+Drosophila_melanogaster_chr_1.fa
+bioJavaMapping.log
+logdb.log*
+intermine.log*
+velocity.log*
+affy-probes-tgt-items.xml
+flyatlas-tgt-items.xml
+OMIM_test.xml
+tmp
+query.log*
+
+END

@@ -1,0 +1,32 @@
+K 10
+svn:ignore
+V 6
+build
+
+K 13
+svn:mergeinfo
+V 1728
+/branches/aliases/bio/sources/flymine/bdgp-clone:26640-26821
+/branches/api-layer-refactor/bio/sources/flymine/bdgp-clone:19585-20338
+/branches/flymine_release_14_0_branch/bio/sources/bdgp-clone:16842-16843,16848-16849,16851-16855
+/branches/generic_css_rewrite/bio/sources/flymine/bdgp-clone:26399-26871
+/branches/keyword-search/bio/sources/flymine/bdgp-clone:21818-22331
+/branches/list-upgrade/bio/sources/flymine/bdgp-clone:24148
+/branches/list_upgrade/bio/sources/flymine/bdgp-clone:24149-26763
+/branches/metamine_remodel/bio/sources/flymine/bdgp-clone:23423-23640
+/branches/mnw21/outerjoins_in_the_webapp_16418/bio/sources/bdgp-clone:16419-17559
+/branches/mnw21/outerjoins_in_the_webapp_16583/bio/sources/bdgp-clone:16593-16623
+/branches/mnw21/pathquery_refactor/bio/sources/flymine/bdgp-clone:20597-22838
+/branches/model_update/bio/sources/flymine/bdgp-clone:21277-22538
+/branches/new_report_page/bio/sources/flymine/bdgp-clone:24499-26112
+/branches/openid/bio/sources/flymine/bdgp-clone:27167-27493
+/branches/tokens/bio/sources/flymine/bdgp-clone:26823-26904
+/model_update/bio/sources/flymine/bdgp-clone:21275-21276
+/tickets/ticket-1676/bio/sources/bdgp-clone:16929
+/tickets/ticket-1691/bio/sources/bdgp-clone:17571-17579
+/tickets/ticket-1712/bio/sources/bdgp-clone:16914-16943,17622-17662
+/tickets/ticket-1752/bio/sources/bdgp-clone:16872-16886
+/tickets/ticket-1863/bio/sources/bdgp-clone:17648,17667,17670-17671,17690,17699-17701,17703-17704,17706-17708,17710-17711,17713,17735,17761-17763,17779-17782,17804,17809,17858-17860,17862-17863,17871,17900-17901,17903-17904,17907,17917-17918,18005-18006,18019,18023,18026,18028
+/tickets/ticket-1893/bio/sources/bdgp-clone:17283
+/tickets/ticket-1925/bio/sources/bdgp-clone:17364
+END

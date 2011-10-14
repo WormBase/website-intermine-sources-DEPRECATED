@@ -1,0 +1,110 @@
+9
+
+dir
+28127
+http://subversion.flymine.org/branches/intermine_0_98/intermine
+http://subversion.flymine.org
+
+
+
+2011-10-11T08:30:05.846354Z
+28067
+alex
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+37e1b716-f2f3-0310-95ce-c813c9c44928
+
+python
+dir
+
+ruby
+dir
+
+integrate
+dir
+
+pathquery
+dir
+
+webtasks
+dir
+
+MineManager
+dir
+
+objectstore
+dir
+
+scripts
+dir
+
+webservice
+dir
+
+performancetest
+dir
+
+perl
+dir
+
+doc
+dir
+
+all
+dir
+
+default.intermine.properties
+file
+
+
+
+
+2011-10-14T13:52:22.000000Z
+32e76f3c5f125370e0b49d126b4c6ac3
+2010-10-21T15:25:50.952322Z
+23582
+dbutano
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6524
+
+api
+dir
+
+web
+dir
+
+webapp
+dir
+

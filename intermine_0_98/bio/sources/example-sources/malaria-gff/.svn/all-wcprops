@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/example-sources/malaria-gff
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/example-sources/malaria-gff/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/example-sources/malaria-gff/project.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/example-sources/malaria-gff/.project
+END
+.checkstyle
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/example-sources/malaria-gff/.checkstyle
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/example-sources/malaria-gff/build.xml
+END

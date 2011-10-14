@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/samples/modMine
+END
+antibody_by_submission_api.pl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/samples/modMine/antibody_by_submission_api.pl
+END
+genes_by_organism_and_protein_domain_api.pl
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/samples/modMine/genes_by_organism_and_protein_domain_api.pl
+END
+gene_overlapping_flanking_regions_webservice.pl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/samples/modMine/gene_overlapping_flanking_regions_webservice.pl
+END

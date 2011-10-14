@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28046/branches/intermine_0_98/bio/postprocess/main/src/org/intermine/bio/postprocess
+END
+TransferSequences.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/28046/branches/intermine_0_98/bio/postprocess/main/src/org/intermine/bio/postprocess/TransferSequences.java
+END
+CreateModMineMetaDataCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/28046/branches/intermine_0_98/bio/postprocess/main/src/org/intermine/bio/postprocess/CreateModMineMetaDataCache.java
+END
+CreateFlyBaseLinkIns.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/28046/branches/intermine_0_98/bio/postprocess/main/src/org/intermine/bio/postprocess/CreateFlyBaseLinkIns.java
+END
+SetCollectionCounts.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/28046/branches/intermine_0_98/bio/postprocess/main/src/org/intermine/bio/postprocess/SetCollectionCounts.java
+END
+CreateFlankingRegions.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/28046/branches/intermine_0_98/bio/postprocess/main/src/org/intermine/bio/postprocess/CreateFlankingRegions.java
+END
+CreateReferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/28046/branches/intermine_0_98/bio/postprocess/main/src/org/intermine/bio/postprocess/CreateReferences.java
+END
+OverlapUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/28046/branches/intermine_0_98/bio/postprocess/main/src/org/intermine/bio/postprocess/OverlapUtil.java
+END
+IntronUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28046/branches/intermine_0_98/bio/postprocess/main/src/org/intermine/bio/postprocess/IntronUtil.java
+END
+CalculateLocations.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/28046/branches/intermine_0_98/bio/postprocess/main/src/org/intermine/bio/postprocess/CalculateLocations.java
+END
+PostProcessOperationsTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/28046/branches/intermine_0_98/bio/postprocess/main/src/org/intermine/bio/postprocess/PostProcessOperationsTask.java
+END
+PostProcessUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/28046/branches/intermine_0_98/bio/postprocess/main/src/org/intermine/bio/postprocess/PostProcessUtil.java
+END
+BiosegIndexTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/28046/branches/intermine_0_98/bio/postprocess/main/src/org/intermine/bio/postprocess/BiosegIndexTask.java
+END
+OverlapViewTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/28046/branches/intermine_0_98/bio/postprocess/main/src/org/intermine/bio/postprocess/OverlapViewTask.java
+END
+antlib.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/28046/branches/intermine_0_98/bio/postprocess/main/src/org/intermine/bio/postprocess/antlib.xml
+END
+IntergenicRegionUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/28046/branches/intermine_0_98/bio/postprocess/main/src/org/intermine/bio/postprocess/IntergenicRegionUtil.java
+END

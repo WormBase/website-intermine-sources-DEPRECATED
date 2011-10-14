@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 45
+build
+dist
+logdb.log
+intermine.log
+query.log
+
+END

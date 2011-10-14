@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/experimental-sources/ensemblsnp
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/experimental-sources/ensemblsnp/project.properties
+END
+ensemblsnp_additions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/experimental-sources/ensemblsnp/ensemblsnp_additions.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/experimental-sources/ensemblsnp/build.xml
+END

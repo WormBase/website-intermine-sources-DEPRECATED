@@ -1,0 +1,17 @@
+K 13
+svn:mergeinfo
+V 1219
+/branches/aliases/experimental-mines/snpmine/default.intermine.integrate.properties:26640-26821
+/branches/api-layer-refactor/snpmine/default.intermine.integrate.properties:19585-20338
+/branches/generic_css_rewrite/experimental-mines/snpmine/default.intermine.integrate.properties:26399-26871
+/branches/keyword-search/snpmine/default.intermine.integrate.properties:21818-22331
+/branches/list-upgrade/experimental-mines/snpmine/default.intermine.integrate.properties:24148
+/branches/list_upgrade/experimental-mines/snpmine/default.intermine.integrate.properties:24149-26763
+/branches/metamine_remodel/experimental-mines/snpmine/default.intermine.integrate.properties:23423-23640
+/branches/mnw21/pathquery_refactor/snpmine/default.intermine.integrate.properties:20597-22838
+/branches/model_update/snpmine/default.intermine.integrate.properties:21277-22538
+/branches/new_report_page/experimental-mines/snpmine/default.intermine.integrate.properties:24499-26112
+/branches/openid/experimental-mines/snpmine/default.intermine.integrate.properties:27167-27493
+/branches/tokens/experimental-mines/snpmine/default.intermine.integrate.properties:26823-26904
+/model_update/snpmine/default.intermine.integrate.properties:21275-21276
+END

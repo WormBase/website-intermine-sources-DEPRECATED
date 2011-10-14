@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/template/result
+END
+TemplateResultLinkGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/template/result/TemplateResultLinkGenerator.java
+END
+TemplateResultServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/template/result/TemplateResultServlet.java
+END
+TemplateResultRequestParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/template/result/TemplateResultRequestParser.java
+END
+TemplateResultService.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/template/result/TemplateResultService.java
+END

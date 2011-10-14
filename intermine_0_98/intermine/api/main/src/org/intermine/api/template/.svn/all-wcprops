@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/template
+END
+TemplatePrecomputeHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/template/TemplatePrecomputeHelper.java
+END
+TemplatePopulatorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/template/TemplatePopulatorException.java
+END
+TemplatePopulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/template/TemplatePopulator.java
+END
+TemplateQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/template/TemplateQuery.java
+END
+TemplateComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/template/TemplateComparator.java
+END
+TemplateSummariser.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/template/TemplateSummariser.java
+END
+TemplateManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/template/TemplateManager.java
+END
+TemplateValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/template/TemplateValue.java
+END
+SwitchOffAbility.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/template/SwitchOffAbility.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/xml
+END
+InterMineBagBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/xml/InterMineBagBinding.java
+END
+TemplateQueryHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/xml/TemplateQueryHandler.java
+END
+InterMineBagHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/xml/InterMineBagHandler.java
+END
+SavedQueryBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/xml/SavedQueryBinding.java
+END
+SavedQueryHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/xml/SavedQueryHandler.java
+END
+TagBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/xml/TagBinding.java
+END
+TagHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/xml/TagHandler.java
+END
+TemplateQueryBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28046/branches/intermine_0_98/intermine/api/main/src/org/intermine/api/xml/TemplateQueryBinding.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/28046/branches/intermine_0_98/bio/tutorial/malariamine/dbmodel/resources
+END
+genomic_precompute.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/28046/branches/intermine_0_98/bio/tutorial/malariamine/dbmodel/resources/genomic_precompute.properties
+END
+objectstoresummary.config.properties
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/28046/branches/intermine_0_98/bio/tutorial/malariamine/dbmodel/resources/objectstoresummary.config.properties
+END
+keyword_search.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/28046/branches/intermine_0_98/bio/tutorial/malariamine/dbmodel/resources/keyword_search.properties
+END
+genomic_priorities.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/28046/branches/intermine_0_98/bio/tutorial/malariamine/dbmodel/resources/genomic_priorities.properties
+END
+genomic_keyDefs.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/28046/branches/intermine_0_98/bio/tutorial/malariamine/dbmodel/resources/genomic_keyDefs.properties
+END
+class_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/28046/branches/intermine_0_98/bio/tutorial/malariamine/dbmodel/resources/class_keys.properties
+END

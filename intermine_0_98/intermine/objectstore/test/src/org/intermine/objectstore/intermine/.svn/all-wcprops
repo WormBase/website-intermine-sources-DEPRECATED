@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/src/org/intermine/objectstore/intermine
+END
+WithNotXmlSqlGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/src/org/intermine/objectstore/intermine/WithNotXmlSqlGeneratorTest.java
+END
+SqlGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/src/org/intermine/objectstore/intermine/SqlGeneratorTest.java
+END
+WithNotXmlObjectStoreWriterInterMineImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/src/org/intermine/objectstore/intermine/WithNotXmlObjectStoreWriterInterMineImplTest.java
+END
+ObjectStoreWriterInterMineImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/src/org/intermine/objectstore/intermine/ObjectStoreWriterInterMineImplTest.java
+END
+WithNotXmlObjectStoreInterMineImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/src/org/intermine/objectstore/intermine/WithNotXmlObjectStoreInterMineImplTest.java
+END
+ObjectStoreInterMineImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/src/org/intermine/objectstore/intermine/ObjectStoreInterMineImplTest.java
+END
+TruncatedSqlGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/src/org/intermine/objectstore/intermine/TruncatedSqlGeneratorTest.java
+END
+NotXmlTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/src/org/intermine/objectstore/intermine/NotXmlTest.java
+END
+FlatModeSqlGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/src/org/intermine/objectstore/intermine/FlatModeSqlGeneratorTest.java
+END
+TestParallelPrecomputer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/src/org/intermine/objectstore/intermine/TestParallelPrecomputer.java
+END
+DatabaseSchemaTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/src/org/intermine/objectstore/intermine/DatabaseSchemaTest.java
+END
+ObjectStorePrecomputedTablesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/src/org/intermine/objectstore/intermine/ObjectStorePrecomputedTablesTest.java
+END
+TruncatedObjectStoreWriterInterMineImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/src/org/intermine/objectstore/intermine/TruncatedObjectStoreWriterInterMineImplTest.java
+END
+FlatModeObjectStoreWriterInterMineImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/src/org/intermine/objectstore/intermine/FlatModeObjectStoreWriterInterMineImplTest.java
+END
+TruncatedObjectStoreInterMineImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/src/org/intermine/objectstore/intermine/TruncatedObjectStoreInterMineImplTest.java
+END
+FlatModeObjectStoreInterMineImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/test/src/org/intermine/objectstore/intermine/FlatModeObjectStoreInterMineImplTest.java
+END

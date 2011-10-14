@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/webservice
+END
+GenomicRegionGFF3Servlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/webservice/GenomicRegionGFF3Servlet.java
+END
+BEDQueryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/webservice/BEDQueryService.java
+END
+GFF3ListService.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/webservice/GFF3ListService.java
+END
+FastaQueryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/webservice/FastaQueryService.java
+END
+GenomicRegionBedServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/webservice/GenomicRegionBedServlet.java
+END
+GFFQueryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/webservice/GFFQueryService.java
+END
+GenomicRegionFastaServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/webservice/GenomicRegionFastaServlet.java
+END
+GenomicRegionGFF3Service.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/webservice/GenomicRegionGFF3Service.java
+END
+GenomicRegionSearchServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/webservice/GenomicRegionSearchServlet.java
+END
+GFF3QueryServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/webservice/GFF3QueryServlet.java
+END
+GenomicRegionBedService.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/webservice/GenomicRegionBedService.java
+END
+BEDQueryServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/webservice/BEDQueryServlet.java
+END
+GenomicRegionFastaService.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/webservice/GenomicRegionFastaService.java
+END
+GFF3ListServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/webservice/GFF3ListServlet.java
+END
+GenomicRegionSearchListInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/webservice/GenomicRegionSearchListInput.java
+END
+FastaQueryServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/webservice/FastaQueryServlet.java
+END
+AbstractRegionExportService.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/webservice/AbstractRegionExportService.java
+END
+GenomicRegionSearchService.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/webservice/GenomicRegionSearchService.java
+END

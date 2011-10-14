@@ -1,0 +1,20 @@
+K 13
+svn:mergeinfo
+V 1797
+/branches/aliases/intermine/web/main/src/org/intermine/webservice/server/WebServiceInput.java:26640-26821
+/branches/api-layer-refactor/intermine/web/main/src/org/intermine/webservice/server/WebServiceInput.java:19585-20338
+/branches/generic_css_rewrite/intermine/web/main/src/org/intermine/webservice/server/WebServiceInput.java:26399-26871
+/branches/keyword-search/intermine/web/main/src/org/intermine/webservice/server/WebServiceInput.java:21818-22331
+/branches/list-upgrade/intermine/web/main/src/org/intermine/webservice/server/WebServiceInput.java:24148
+/branches/list_upgrade/intermine/web/main/src/org/intermine/webservice/server/WebServiceInput.java:24149-26763
+/branches/metamine_remodel/intermine/web/main/src/org/intermine/webservice/server/WebServiceInput.java:23423-23640
+/branches/mnw21/outerjoins_in_the_webapp_16418/intermine/web/main/src/org/intermine/webservice/server/WebServiceInput.java:16419-17559
+/branches/mnw21/pathquery_refactor/intermine/web/main/src/org/intermine/webservice/server/WebServiceInput.java:20597-22838
+/branches/model_update/intermine/web/main/src/org/intermine/webservice/server/WebServiceInput.java:21277-22538
+/branches/new_report_page/intermine/web/main/src/org/intermine/webservice/server/WebServiceInput.java:24499-26112
+/branches/openid/intermine/web/main/src/org/intermine/webservice/server/WebServiceInput.java:27167-27493
+/branches/tokens/intermine/web/main/src/org/intermine/webservice/server/WebServiceInput.java:26823-26904
+/model_update/intermine/web/main/src/org/intermine/webservice/server/WebServiceInput.java:21275-21276
+/tickets/ticket-1691/intermine/web/main/src/org/intermine/webservice/server/WebServiceInput.java:17571-17579
+/tickets/ticket-1712/intermine/web/main/src/org/intermine/webservice/server/WebServiceInput.java:17622-17662
+END

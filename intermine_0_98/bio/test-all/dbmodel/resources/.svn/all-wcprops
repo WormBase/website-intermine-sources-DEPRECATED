@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/28046/branches/intermine_0_98/bio/test-all/dbmodel/resources
+END
+objectstoresummary.config.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/28046/branches/intermine_0_98/bio/test-all/dbmodel/resources/objectstoresummary.config.properties
+END
+so_term_list.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/28046/branches/intermine_0_98/bio/test-all/dbmodel/resources/so_term_list.txt
+END
+genomic_priorities.properties
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/28046/branches/intermine_0_98/bio/test-all/dbmodel/resources/genomic_priorities.properties
+END
+genomic_keyDefs.properties
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/28046/branches/intermine_0_98/bio/test-all/dbmodel/resources/genomic_keyDefs.properties
+END

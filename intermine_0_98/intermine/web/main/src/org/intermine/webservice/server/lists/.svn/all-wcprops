@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/lists
+END
+AuthenticatedListService.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/lists/AuthenticatedListService.java
+END
+ListsServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/lists/ListsServlet.java
+END
+FlatListFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/lists/FlatListFormatter.java
+END
+ListDifferenceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/lists/ListDifferenceService.java
+END
+ListRenameServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/lists/ListRenameServlet.java
+END
+ListAppendServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/lists/ListAppendServlet.java
+END
+ListServiceUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/lists/ListServiceUtils.java
+END
+ListOperationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/lists/ListOperationService.java
+END
+AbstractListService.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/lists/AbstractListService.java
+END
+AvailableListsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/lists/AvailableListsService.java
+END
+ListCreationInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/lists/ListCreationInput.java
+END
+ListDeletionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/lists/ListDeletionService.java
+END
+ListIntersectionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/lists/ListIntersectionService.java
+END
+ListsRequestParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/lists/ListsRequestParser.java
+END
+ListDifferenceServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/lists/ListDifferenceServlet.java
+END
+CommutativeOperationInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/lists/CommutativeOperationInput.java
+END
+ListsServiceInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/lists/ListsServiceInput.java
+END
+ListFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/lists/ListFormatter.java
+END
+CommutativeOperationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/lists/CommutativeOperationService.java
+END
+ListUploadService.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/lists/ListUploadService.java
+END
+AvailableListsServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/lists/AvailableListsServlet.java
+END
+ListUnionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/lists/ListUnionService.java
+END
+ListIntersectionServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/lists/ListIntersectionServlet.java
+END
+ListSubtractionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/lists/ListSubtractionService.java
+END
+ListMakerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/lists/ListMakerService.java
+END
+AsymmetricOperationInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/lists/AsymmetricOperationInput.java
+END
+ListsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/lists/ListsService.java
+END
+ListRenameInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/lists/ListRenameInput.java
+END
+ListAppendService.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/lists/ListAppendService.java
+END
+ListRenameService.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/lists/ListRenameService.java
+END
+JSONListFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/lists/JSONListFormatter.java
+END
+ListUnionServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/lists/ListUnionServlet.java
+END
+ListInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/lists/ListInput.java
+END
+ListSubtractionServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/28046/branches/intermine_0_98/intermine/web/main/src/org/intermine/webservice/server/lists/ListSubtractionServlet.java
+END

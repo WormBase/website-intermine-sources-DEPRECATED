@@ -1,0 +1,273 @@
+2011-10-14 12:12:10 INFO   org.intermine.bio.ontology.OboParser     - default-namespace is "sequence"
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000004 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000010 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000011 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000026 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000027 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000028 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000060 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000067 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000080 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000081 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000083 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000084 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000107 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000190 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000191 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000192 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000207 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000237 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000240 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000248 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000290 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000291 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000298 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000299 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000300 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000301 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000322 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000328 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000342 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000346 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000354 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000381 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000382 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000401 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000420 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000421 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000422 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000423 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000424 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000425 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000426 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000427 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000428 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000429 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000430 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000431 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000432 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000439 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000460 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000482 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000492 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000546 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000562 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000563 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000568 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000571 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000573 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000575 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000578 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000585 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000608 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000617 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000618 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000621 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000623 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000626 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000628 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000629 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000636 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000641 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000642 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000656 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000659 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000663 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000664 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000669 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000685 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000708 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000709 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000735 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000736 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000737 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000738 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000739 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000740 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000743 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000744 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000745 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000746 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000747 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000748 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000749 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000751 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000752 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000755 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000757 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000758 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000785 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000806 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000842 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000848 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000849 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000850 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000856 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000903 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000910 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000932 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000936 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000938 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000939 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000940 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000951 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000975 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000977 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000981 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000982 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000983 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000984 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000985 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000986 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000991 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000992 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000993 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000994 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000995 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000996 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0000997 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001004 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001005 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001014 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001021 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001029 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001032 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001033 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001152 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001153 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001217 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001219 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "D" EXACT RNAMOD []
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "Y" EXACT RNAMOD []
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "I" RELATED []
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001238 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001239 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001241 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001263 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001264 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001265 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001266 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001267 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001268 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001269 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001270 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001271 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001272 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001276 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001277 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "Q" EXACT RNAMOD []
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001384 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001391 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "A" EXACT aa1 []
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001435 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "V" EXACT aa1 []
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001436 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "L" EXACT aa1 []
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001437 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "I" EXACT aa1 []
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001438 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "P" EXACT aa1 []
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001439 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "W" EXACT aa1 []
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001440 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "F" EXACT aa1 []
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001441 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "M" EXACT aa1 []
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001442 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "G" EXACT aa1 []
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001443 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "S" EXACT aa1 []
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001444 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "T" EXACT aa1 []
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001445 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "Y" EXACT aa1 []
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001446 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "C" EXACT aa1 []
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001447 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "Q" EXACT aa1 []
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001448 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "N" EXACT aa1 []
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001449 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "K" EXACT aa1 []
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001450 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "R" EXACT aa1 []
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001451 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "H" EXACT aa1 []
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001452 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "D" EXACT aa1 []
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001453 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "E" EXACT aa1 []
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001454 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "U" EXACT aa1 []
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001455 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Could not match synonym value from: "O" EXACT aa1 []
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001456 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001482 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001508 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001509 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001510 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001511 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001513 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001517 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001518 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001519 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001520 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001521 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001522 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001523 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001524 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001553 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001593 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001595 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001602 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001654 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001659 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001660 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001668 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001670 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001671 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001672 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001690 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001691 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0001692 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0005847 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0005848 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:0005849 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:1000013 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:1000020 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:1000170 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:1000175 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:1000183 def: null
+2011-10-14 12:12:11 WARN   org.intermine.bio.ontology.OboParser     - Failed to parse def of term SO:1001217 def: null
+2011-10-14 12:12:11 INFO     org.obo.dataadapter.OBOFileAdapter     - Reading [/home/tharris/projects/wormbase/intermine/intermine_0_98/bio/sources/so/data/so_2_4_4.obo]
+	 (allowDangling = true)
+	 (followImports = true)
+2011-10-14 12:12:13 INFO  org.obo.dataadapter.SimpleLinkFileAdapter     - gsr=[/home/tharris/projects/wormbase/intermine/intermine_0_98/wormmine/dbmodel/build/obo6939237969219970488.tmp]
+2011-10-14 12:12:13 INFO  org.obo.dataadapter.SimpleLinkFileAdapter     - fp=/home/tharris/projects/wormbase/intermine/intermine_0_98/wormmine/dbmodel/build/obo6939237969219970488.tmp
+2011-10-14 12:12:13 INFO  org.obo.dataadapter.SimpleLinkFileAdapter     - fpp=/home/tharris/projects/wormbase/intermine/intermine_0_98/wormmine/dbmodel/build/obo6939237969219970488.tmp
+2011-10-14 12:12:13 INFO  org.obo.dataadapter.SimpleLinkFileAdapter     - new reasoner...
+2011-10-14 12:12:16 INFO  org.obo.reasoner.impl.LinkPileReasoner     -    Total reasoner time = 3488.190903 ms
+2011-10-14 12:12:16 INFO  org.obo.reasoner.impl.LinkPileReasoner     -    Add time(true(0)) = 1133.773006 ms
+2011-10-14 12:12:16 INFO  org.obo.reasoner.impl.LinkPileReasoner     -    Add time(false(0)) = 0.0 ms
+2011-10-14 12:12:16 INFO  org.obo.reasoner.impl.LinkPileReasoner     -    Pile pull time: 79.817923 ms
+2011-10-14 12:12:16 INFO  org.obo.reasoner.impl.LinkPileReasoner     -  readdedCount = 0
+2011-10-14 12:12:16 INFO  org.obo.reasoner.impl.LinkPileReasoner     -  newaddedCount = 0
+2011-10-14 12:12:16 INFO  org.obo.reasoner.impl.LinkPileReasoner     -    time in rule (Transitivity rule (implicationTime = 374.428041, expConstTime = 243.784603, fetchTime = 172.363195)) = 1022.72792 ms
+2011-10-14 12:12:16 INFO  org.obo.reasoner.impl.LinkPileReasoner     -    time in rule (org.obo.reasoner.impl.GenusDifferentiaRule@11c10834) = 22.526865 ms
+2011-10-14 12:12:16 INFO  org.obo.reasoner.impl.LinkPileReasoner     -    time in rule (org.obo.reasoner.impl.IntersectionRule@18019707) = 839.341248 ms
+2011-10-14 12:12:16 INFO  org.obo.reasoner.impl.LinkPileReasoner     -    time in rule (org.obo.reasoner.impl.TransitiveOverRule@106258e1) = 23.678981 ms
+2011-10-14 12:12:16 INFO  org.obo.reasoner.impl.LinkPileReasoner     -    time in rule (org.obo.reasoner.impl.HoldsOverChainRule@28b9242e) = 25.367757 ms
+2011-10-14 12:12:16 INFO  org.obo.reasoner.impl.LinkPileReasoner     -    time in rule (org.obo.reasoner.impl.PropertyIntersectionRule@12f65ce5) = 32.092556 ms
+2011-10-14 12:12:17 INFO   org.intermine.bio.ontology.OboParser     - PROGRESS:Writing file...
+2011-10-14 12:12:17 INFO   org.intermine.bio.ontology.OboParser     - Unsupported type:relation
+2011-10-14 12:12:17 INFO   org.intermine.bio.ontology.OboParser     - Unsupported type:disjoint_from
+2011-10-14 12:12:17 INFO   org.intermine.bio.ontology.OboParser     - Unsupported type:disjoint_from
+2011-10-14 12:12:17 INFO   org.intermine.bio.ontology.OboParser     - Unsupported type:disjoint_from
+2011-10-14 12:12:17 INFO   org.intermine.bio.ontology.OboParser     - Unsupported type:disjoint_from
+2011-10-14 12:12:17 INFO   org.intermine.bio.ontology.OboParser     - Unsupported type:disjoint_from
+2011-10-14 12:12:17 INFO   org.intermine.bio.ontology.OboParser     - Unsupported type:disjoint_from
+2011-10-14 12:12:17 INFO   org.intermine.bio.ontology.OboParser     - Unsupported type:disjoint_from
+2011-10-14 12:12:17 INFO   org.intermine.bio.ontology.OboParser     - Unsupported type:disjoint_from
+2011-10-14 12:12:17 INFO   org.intermine.bio.ontology.OboParser     - Unsupported type:disjoint_from
+2011-10-14 12:12:17 INFO   org.intermine.bio.ontology.OboParser     - Unsupported type:disjoint_from
+2011-10-14 12:12:17 INFO   org.intermine.bio.ontology.OboParser     - Processed transitive closure of OBO file, took: 6046 ms

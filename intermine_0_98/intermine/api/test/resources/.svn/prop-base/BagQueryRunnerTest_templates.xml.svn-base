@@ -1,0 +1,26 @@
+K 13
+svn:mergeinfo
+V 2231
+/branches/aliases/intermine/api/test/resources/BagQueryRunnerTest_templates.xml:26640-26821
+/branches/api-layer-refactor/intermine/api/test/resources/BagQueryRunnerTest_templates.xml:19585-19595
+/branches/flymine_release_14_0_branch/testmodel/webapp/test/resources/BagQueryRunnerTest_templates.xml:16842-16843,16848-16849,16851-16855
+/branches/generic_css_rewrite/intermine/api/test/resources/BagQueryRunnerTest_templates.xml:26399-26871
+/branches/keyword-search/intermine/api/test/resources/BagQueryRunnerTest_templates.xml:21818-22331
+/branches/list-upgrade/intermine/api/test/resources/BagQueryRunnerTest_templates.xml:24148
+/branches/list_upgrade/intermine/api/test/resources/BagQueryRunnerTest_templates.xml:24149-26763
+/branches/metamine_remodel/intermine/api/test/resources/BagQueryRunnerTest_templates.xml:23423-23640
+/branches/mnw21/outerjoins_in_the_webapp_16418/testmodel/webapp/test/resources/BagQueryRunnerTest_templates.xml:16419-17559
+/branches/mnw21/outerjoins_in_the_webapp_16583/testmodel/webapp/test/resources/BagQueryRunnerTest_templates.xml:16593-16623
+/branches/mnw21/pathquery_refactor/intermine/api/test/resources/BagQueryRunnerTest_templates.xml:20597-22838
+/branches/model_update/intermine/api/test/resources/BagQueryRunnerTest_templates.xml:21277-22538
+/branches/new_report_page/intermine/api/test/resources/BagQueryRunnerTest_templates.xml:24499-26112
+/branches/openid/intermine/api/test/resources/BagQueryRunnerTest_templates.xml:27167-27493
+/branches/tokens/intermine/api/test/resources/BagQueryRunnerTest_templates.xml:26823-26904
+/model_update/intermine/api/test/resources/BagQueryRunnerTest_templates.xml:21275-21276
+/tickets/ticket-1676/testmodel/webapp/test/resources/BagQueryRunnerTest_templates.xml:16929
+/tickets/ticket-1691/testmodel/webapp/test/resources/BagQueryRunnerTest_templates.xml:17571-17579
+/tickets/ticket-1712/testmodel/webapp/test/resources/BagQueryRunnerTest_templates.xml:16914-16943,17622-17662
+/tickets/ticket-1752/testmodel/webapp/test/resources/BagQueryRunnerTest_templates.xml:16872-16886
+/tickets/ticket-1893/testmodel/webapp/test/resources/BagQueryRunnerTest_templates.xml:17283
+/tickets/ticket-1925/testmodel/webapp/test/resources/BagQueryRunnerTest_templates.xml:17364
+END

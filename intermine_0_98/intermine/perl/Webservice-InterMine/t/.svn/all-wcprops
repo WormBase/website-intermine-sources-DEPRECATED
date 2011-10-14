@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/t
+END
+pod.t
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/t/pod.t
+END
+manifest.t
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/t/manifest.t
+END
+moose-hygiene.t
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/t/moose-hygiene.t
+END
+pod-coverage.t
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/t/pod-coverage.t
+END
+00-load.t
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/t/00-load.t
+END

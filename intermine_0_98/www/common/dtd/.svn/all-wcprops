@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/28046/branches/intermine_0_98/www/common/dtd
+END
+xhtml-special.ent
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/28046/branches/intermine_0_98/www/common/dtd/xhtml-special.ent
+END
+xhtml-lat1.ent
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/28046/branches/intermine_0_98/www/common/dtd/xhtml-lat1.ent
+END
+xhtml-symbol.ent
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/28046/branches/intermine_0_98/www/common/dtd/xhtml-symbol.ent
+END
+sdocbook-1.0.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/28046/branches/intermine_0_98/www/common/dtd/sdocbook-1.0.dtd
+END
+xhtml1-transitional.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/28046/branches/intermine_0_98/www/common/dtd/xhtml1-transitional.dtd
+END

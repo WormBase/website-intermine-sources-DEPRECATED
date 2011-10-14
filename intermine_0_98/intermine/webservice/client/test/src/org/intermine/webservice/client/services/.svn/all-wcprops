@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/test/src/org/intermine/webservice/client/services
+END
+ModelServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/test/src/org/intermine/webservice/client/services/ModelServiceTest.java
+END
+DummyQueryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/test/src/org/intermine/webservice/client/services/DummyQueryService.java
+END
+QueryServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/test/src/org/intermine/webservice/client/services/QueryServiceTest.java
+END
+DummyTemplateService.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/test/src/org/intermine/webservice/client/services/DummyTemplateService.java
+END
+TemplateServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/test/src/org/intermine/webservice/client/services/TemplateServiceTest.java
+END
+DummyModelService.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/test/src/org/intermine/webservice/client/services/DummyModelService.java
+END

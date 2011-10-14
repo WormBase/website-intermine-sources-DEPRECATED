@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28046/branches/intermine_0_98/bio/postprocess/test/src/org/intermine/bio/postprocess
+END
+TransferSequencesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/28046/branches/intermine_0_98/bio/postprocess/test/src/org/intermine/bio/postprocess/TransferSequencesTest.java
+END
+PostProcessUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/28046/branches/intermine_0_98/bio/postprocess/test/src/org/intermine/bio/postprocess/PostProcessUtilTest.java
+END
+CreateFlankingRegionsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/28046/branches/intermine_0_98/bio/postprocess/test/src/org/intermine/bio/postprocess/CreateFlankingRegionsTest.java
+END
+CreateReferencesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/28046/branches/intermine_0_98/bio/postprocess/test/src/org/intermine/bio/postprocess/CreateReferencesTest.java
+END
+CalculateLocationsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/28046/branches/intermine_0_98/bio/postprocess/test/src/org/intermine/bio/postprocess/CalculateLocationsTest.java
+END
+IntronTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28046/branches/intermine_0_98/bio/postprocess/test/src/org/intermine/bio/postprocess/IntronTest.java
+END
+IntergenicRegionsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/28046/branches/intermine_0_98/bio/postprocess/test/src/org/intermine/bio/postprocess/IntergenicRegionsTest.java
+END

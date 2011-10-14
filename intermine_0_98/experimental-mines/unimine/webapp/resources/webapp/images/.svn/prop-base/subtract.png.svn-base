@@ -1,0 +1,31 @@
+K 13
+svn:mergeinfo
+V 2453
+/branches/aliases/experimental-mines/unimine/webapp/resources/webapp/images/subtract.png:26640-26821
+/branches/api-layer-refactor/unimine/webapp/resources/webapp/images/subtract.png:19585-20338
+/branches/flymine_release_14_0_branch/unimine/webapp/resources/webapp/images/substract.png:16842-16843,16848-16849,16851-16855
+/branches/generic_css_rewrite/experimental-mines/unimine/webapp/resources/webapp/images/subtract.png:26399-26871
+/branches/keyword-search/unimine/webapp/resources/webapp/images/subtract.png:21818-22331
+/branches/list-upgrade/experimental-mines/unimine/webapp/resources/webapp/images/subtract.png:24148
+/branches/list_upgrade/experimental-mines/unimine/webapp/resources/webapp/images/subtract.png:24149-26763
+/branches/metamine_remodel/experimental-mines/unimine/webapp/resources/webapp/images/subtract.png:23423-23640
+/branches/mnw21/outerjoins_in_the_webapp_16418/unimine/webapp/resources/webapp/images/substract.png:16419-17559
+/branches/mnw21/outerjoins_in_the_webapp_16583/unimine/webapp/resources/webapp/images/substract.png:16593-16623
+/branches/mnw21/pathquery_refactor/unimine/webapp/resources/webapp/images/subtract.png:20597-22838
+/branches/model_update/unimine/webapp/resources/webapp/images/subtract.png:21277-22538
+/branches/new_report_page/experimental-mines/unimine/webapp/resources/webapp/images/subtract.png:24499-26112
+/branches/openid/experimental-mines/unimine/webapp/resources/webapp/images/subtract.png:27167-27493
+/branches/tokens/experimental-mines/unimine/webapp/resources/webapp/images/subtract.png:26823-26904
+/model_update/unimine/webapp/resources/webapp/images/subtract.png:21275-21276
+/tickets/ticket-1676/unimine/webapp/resources/webapp/images/substract.png:16929
+/tickets/ticket-1691/unimine/webapp/resources/webapp/images/substract.png:17571-17579
+/tickets/ticket-1712/unimine/webapp/resources/webapp/images/substract.png:16914-16943,17622-17662
+/tickets/ticket-1752/unimine/webapp/resources/webapp/images/substract.png:16872-16886
+/tickets/ticket-1863/unimine/webapp/resources/webapp/images/substract.png:17648,17667,17670-17671,17690,17699-17701,17703-17704,17706-17708,17710-17711,17713,17735,17761-17763,17779-17782,17804,17809,17858-17860,17862-17863,17871,17900-17901,17903-17904,17907,17917-17918,18005-18006,18019,18023,18026,18028
+/tickets/ticket-1893/unimine/webapp/resources/webapp/images/substract.png:17283
+/tickets/ticket-1925/unimine/webapp/resources/webapp/images/substract.png:17364
+K 13
+svn:mime-type
+V 24
+application/octet-stream
+END

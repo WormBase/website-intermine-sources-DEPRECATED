@@ -1,0 +1,100 @@
+9
+
+dir
+28127
+http://subversion.flymine.org/branches/intermine_0_98/bio/sources/flymine
+http://subversion.flymine.org
+
+
+
+2011-08-08T15:42:48.779057Z
+27494
+alex
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+37e1b716-f2f3-0310-95ce-c813c9c44928
+
+flyatlas
+dir
+
+arbeitman-items-xml
+dir
+
+tiffin
+dir
+
+homophila
+dir
+
+tiling-path
+dir
+
+fly-fish
+dir
+
+anopheles-identifiers
+dir
+
+anoph-expr
+dir
+
+fly-development-ontology
+dir
+
+bdgp-insitu
+dir
+
+redfly
+dir
+
+flyreg
+dir
+
+anoest
+dir
+
+rnai
+dir
+
+drosdel-gff
+dir
+
+drosophila-homology
+dir
+
+flyrnai-screens
+dir
+
+fly-misc-cvterms
+dir
+
+long-oligo
+dir
+
+fly-anatomy-ontology
+dir
+
+bdgp-clone
+dir
+
+tiffin-expression
+dir
+
+affy-probes
+dir
+
+protein-structure
+dir
+

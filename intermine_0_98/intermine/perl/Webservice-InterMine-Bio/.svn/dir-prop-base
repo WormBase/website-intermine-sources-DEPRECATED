@@ -1,0 +1,17 @@
+K 10
+svn:ignore
+V 75
+build
+MYMETA.*
+META.*
+blib
+Build
+_build
+Makefile.PL
+*.tar.gz
+*.swp
+*.bak
+
+
+
+END

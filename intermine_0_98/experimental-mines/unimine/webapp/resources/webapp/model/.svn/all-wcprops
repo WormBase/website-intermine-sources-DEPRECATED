@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/unimine/webapp/resources/webapp/model
+END
+geneMicroArrayDisplayer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/unimine/webapp/resources/webapp/model/geneMicroArrayDisplayer.jsp
+END
+genomics.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/unimine/webapp/resources/webapp/model/genomics.jsp
+END
+inparanoid.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/unimine/webapp/resources/webapp/model/inparanoid.jsp
+END
+GO.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/unimine/webapp/resources/webapp/model/GO.jsp
+END
+model.css
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/unimine/webapp/resources/webapp/model/model.css
+END
+heading-bg.gif
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/unimine/webapp/resources/webapp/model/heading-bg.gif
+END
+pathways.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/unimine/webapp/resources/webapp/model/pathways.jsp
+END
+proteinInteraction.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/unimine/webapp/resources/webapp/model/proteinInteraction.jsp
+END
+proteinStructure.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/unimine/webapp/resources/webapp/model/proteinStructure.jsp
+END
+pride.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/unimine/webapp/resources/webapp/model/pride.jsp
+END
+proteins.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/28046/branches/intermine_0_98/experimental-mines/unimine/webapp/resources/webapp/model/proteins.jsp
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/28046/branches/intermine_0_98/bio/core/test/src/org/intermine/bio/dataconversion
+END
+GFF3RecordHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/28046/branches/intermine_0_98/bio/core/test/src/org/intermine/bio/dataconversion/GFF3RecordHandlerTest.java
+END
+GFF3RecordTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28046/branches/intermine_0_98/bio/core/test/src/org/intermine/bio/dataconversion/GFF3RecordTest.java
+END
+OboConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/28046/branches/intermine_0_98/bio/core/test/src/org/intermine/bio/dataconversion/OboConverterTest.java
+END
+GFF3ConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/core/test/src/org/intermine/bio/dataconversion/GFF3ConverterTest.java
+END
+IdResolverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28046/branches/intermine_0_98/bio/core/test/src/org/intermine/bio/dataconversion/IdResolverTest.java
+END

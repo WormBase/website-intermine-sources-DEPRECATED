@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/28046/branches/intermine_0_98/imbuild/lib
+END
+checkstyle-all-5.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/28046/branches/intermine_0_98/imbuild/lib/checkstyle-all-5.1.jar
+END
+im-ant-tasks.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/28046/branches/intermine_0_98/imbuild/lib/im-ant-tasks.jar
+END
+catalina-ant.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/28046/branches/intermine_0_98/imbuild/lib/catalina-ant.jar
+END
+bsh-2.0b4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/28046/branches/intermine_0_98/imbuild/lib/bsh-2.0b4.jar
+END
+emma.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/28046/branches/intermine_0_98/imbuild/lib/emma.jar
+END
+ant-contrib.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/28046/branches/intermine_0_98/imbuild/lib/ant-contrib.jar
+END
+emma_ant.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/28046/branches/intermine_0_98/imbuild/lib/emma_ant.jar
+END
+test_file
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/28046/branches/intermine_0_98/imbuild/lib/test_file
+END

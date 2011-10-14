@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/test/src/org/intermine/webservice/client/core
+END
+ResultRowListTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/test/src/org/intermine/webservice/client/core/ResultRowListTest.java
+END
+RowResultSetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/test/src/org/intermine/webservice/client/core/RowResultSetTest.java
+END
+ServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/test/src/org/intermine/webservice/client/core/ServiceImplTest.java
+END
+ResultRowMapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/test/src/org/intermine/webservice/client/core/ResultRowMapTest.java
+END

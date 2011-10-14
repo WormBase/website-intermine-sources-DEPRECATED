@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/28046/branches/intermine_0_98/bio/core/main/resources
+END
+organism_config.properties
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/28046/branches/intermine_0_98/bio/core/main/resources/organism_config.properties
+END
+soClassName.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/28046/branches/intermine_0_98/bio/core/main/resources/soClassName.properties
+END
+extraBag.properties
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/28046/branches/intermine_0_98/bio/core/main/resources/extraBag.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/28046/branches/intermine_0_98/bio/core/main/resources/log4j.properties
+END

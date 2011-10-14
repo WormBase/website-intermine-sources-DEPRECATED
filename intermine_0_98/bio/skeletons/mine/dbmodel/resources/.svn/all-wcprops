@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/28046/branches/intermine_0_98/bio/skeletons/mine/dbmodel/resources
+END
+genomic_precompute.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/bio/skeletons/mine/dbmodel/resources/genomic_precompute.properties
+END
+objectstoresummary.config.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/skeletons/mine/dbmodel/resources/objectstoresummary.config.properties
+END
+so_term_list.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28046/branches/intermine_0_98/bio/skeletons/mine/dbmodel/resources/so_term_list.txt
+END
+keyword_search.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/28046/branches/intermine_0_98/bio/skeletons/mine/dbmodel/resources/keyword_search.properties
+END
+genomic_priorities.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/bio/skeletons/mine/dbmodel/resources/genomic_priorities.properties
+END
+genomic_keyDefs.properties
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/28046/branches/intermine_0_98/bio/skeletons/mine/dbmodel/resources/genomic_keyDefs.properties
+END
+class_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/28046/branches/intermine_0_98/bio/skeletons/mine/dbmodel/resources/class_keys.properties
+END

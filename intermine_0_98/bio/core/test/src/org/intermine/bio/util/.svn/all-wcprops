@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/28046/branches/intermine_0_98/bio/core/test/src/org/intermine/bio/util
+END
+OrganismRepositoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/28046/branches/intermine_0_98/bio/core/test/src/org/intermine/bio/util/OrganismRepositoryTest.java
+END
+ClobAccessReverseComplementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/28046/branches/intermine_0_98/bio/core/test/src/org/intermine/bio/util/ClobAccessReverseComplementTest.java
+END

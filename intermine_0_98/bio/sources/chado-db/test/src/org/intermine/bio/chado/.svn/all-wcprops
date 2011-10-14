@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/chado-db/test/src/org/intermine/bio/chado
+END
+ChadoCVFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/chado-db/test/src/org/intermine/bio/chado/ChadoCVFactoryTest.java
+END
+ChadoCVTermTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/chado-db/test/src/org/intermine/bio/chado/ChadoCVTermTest.java
+END
+TestChadoCVFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/chado-db/test/src/org/intermine/bio/chado/TestChadoCVFactory.java
+END

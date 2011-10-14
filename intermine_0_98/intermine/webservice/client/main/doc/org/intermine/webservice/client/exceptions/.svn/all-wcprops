@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/doc/org/intermine/webservice/client/exceptions
+END
+ServiceForbiddenException.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/doc/org/intermine/webservice/client/exceptions/ServiceForbiddenException.html
+END
+ResultException.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/doc/org/intermine/webservice/client/exceptions/ResultException.html
+END
+BadRequestException.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/doc/org/intermine/webservice/client/exceptions/BadRequestException.html
+END
+ServiceException.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/doc/org/intermine/webservice/client/exceptions/ServiceException.html
+END
+NotConnectedException.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/doc/org/intermine/webservice/client/exceptions/NotConnectedException.html
+END
+NotImplementedException.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/doc/org/intermine/webservice/client/exceptions/NotImplementedException.html
+END
+ResourceNotFoundException.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/doc/org/intermine/webservice/client/exceptions/ResourceNotFoundException.html
+END
+ServiceUnavailableException.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/doc/org/intermine/webservice/client/exceptions/ServiceUnavailableException.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/doc/org/intermine/webservice/client/exceptions/package-frame.html
+END
+InternalErrorException.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/doc/org/intermine/webservice/client/exceptions/InternalErrorException.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/doc/org/intermine/webservice/client/exceptions/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/doc/org/intermine/webservice/client/exceptions/package-tree.html
+END
+TransferInterruptedException.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/!svn/ver/28046/branches/intermine_0_98/intermine/webservice/client/main/doc/org/intermine/webservice/client/exceptions/TransferInterruptedException.html
+END

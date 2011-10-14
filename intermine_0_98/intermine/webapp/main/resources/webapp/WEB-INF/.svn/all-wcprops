@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/WEB-INF
+END
+struts-logic.tld
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/WEB-INF/struts-logic.tld
+END
+struts-tiles.tld
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/WEB-INF/struts-tiles.tld
+END
+imutil.tld
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/WEB-INF/imutil.tld
+END
+struts-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/WEB-INF/struts-config.xml
+END
+global.web.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/WEB-INF/global.web.properties
+END
+string.tld
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/WEB-INF/string.tld
+END
+struts-html.tld
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/WEB-INF/struts-html.tld
+END
+validation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/WEB-INF/validation.xml
+END
+functions.tld
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/WEB-INF/functions.tld
+END
+dwr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/WEB-INF/dwr.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/WEB-INF/web.xml
+END
+tiles-defs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/28046/branches/intermine_0_98/intermine/webapp/main/resources/webapp/WEB-INF/tiles-defs.xml
+END

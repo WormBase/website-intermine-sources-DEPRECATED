@@ -1,0 +1,166 @@
+9
+
+dir
+28127
+http://subversion.flymine.org/branches/intermine_0_98/intermine/api/main/src/org/intermine/api
+http://subversion.flymine.org
+
+
+
+2011-10-07T13:37:04.826382Z
+28040
+dbutano
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+37e1b716-f2f3-0310-95ce-c813c9c44928
+
+API.java
+file
+
+
+
+
+2011-10-14T13:52:07.000000Z
+d35723ddd10fff57857059af2b38fec2
+2011-07-21T09:36:08.462034Z
+27175
+julie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2710
+
+bag
+dir
+
+LinkRedirectManager.java
+file
+
+
+
+
+2011-10-14T13:52:07.000000Z
+814961fe743fb50d18da6b49afcb0675
+2011-02-22T12:40:49.043502Z
+25159
+rns
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1076
+
+tracker
+dir
+
+xml
+dir
+
+profile
+dir
+
+results
+dir
+
+InterMineAPI.java
+file
+
+
+
+
+2011-10-14T13:52:07.000000Z
+fcac2228f5d44fad36ee038db1742426
+2011-09-20T12:48:09.305881Z
+27824
+julie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7542
+
+search
+dir
+
+query
+dir
+
+config
+dir
+
+template
+dir
+
+tag
+dir
+
+mines
+dir
+
+util
+dir
+

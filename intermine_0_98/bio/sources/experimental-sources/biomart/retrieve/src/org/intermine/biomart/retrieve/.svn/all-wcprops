@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/experimental-sources/biomart/retrieve/src/org/intermine/biomart/retrieve
+END
+BioMartField.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/experimental-sources/biomart/retrieve/src/org/intermine/biomart/retrieve/BioMartField.java
+END
+MartImportable.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/experimental-sources/biomart/retrieve/src/org/intermine/biomart/retrieve/MartImportable.java
+END
+BioMartDataSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/experimental-sources/biomart/retrieve/src/org/intermine/biomart/retrieve/BioMartDataSet.java
+END
+MartExportable.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/experimental-sources/biomart/retrieve/src/org/intermine/biomart/retrieve/MartExportable.java
+END
+BioMartLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/experimental-sources/biomart/retrieve/src/org/intermine/biomart/retrieve/BioMartLink.java
+END
+Initialiser.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/experimental-sources/biomart/retrieve/src/org/intermine/biomart/retrieve/Initialiser.java
+END
+XmlHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/experimental-sources/biomart/retrieve/src/org/intermine/biomart/retrieve/XmlHandler.java
+END

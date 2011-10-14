@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/28046/branches/intermine_0_98/imbuild/im-ant-tasks/src/org/intermine/task/project
+END
+Source.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/28046/branches/intermine_0_98/imbuild/im-ant-tasks/src/org/intermine/task/project/Source.java
+END
+ProjectXmlBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/28046/branches/intermine_0_98/imbuild/im-ant-tasks/src/org/intermine/task/project/ProjectXmlBinding.java
+END
+UserProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/28046/branches/intermine_0_98/imbuild/im-ant-tasks/src/org/intermine/task/project/UserProperty.java
+END
+PostProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/28046/branches/intermine_0_98/imbuild/im-ant-tasks/src/org/intermine/task/project/PostProcess.java
+END
+Project.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/28046/branches/intermine_0_98/imbuild/im-ant-tasks/src/org/intermine/task/project/Project.java
+END
+Action.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/28046/branches/intermine_0_98/imbuild/im-ant-tasks/src/org/intermine/task/project/Action.java
+END

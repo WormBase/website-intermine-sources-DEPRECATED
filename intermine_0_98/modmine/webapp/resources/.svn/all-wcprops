@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources
+END
+struts-config-model.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/struts-config-model.xml
+END
+struts-config-form-model.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/struts-config-form-model.xml
+END
+default-template-queries.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/default-template-queries.xml
+END
+web.properties
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/web.properties
+END
+web-model.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/web-model.xml
+END
+model.properties
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/model.properties
+END
+tiles-defs-model.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/28046/branches/intermine_0_98/modmine/webapp/resources/tiles-defs-model.xml
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/drosdel-gff/resources
+END
+drosdel-gff_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/drosdel-gff/resources/drosdel-gff_keys.properties
+END
+drosdel-gff-deletions_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/drosdel-gff/resources/drosdel-gff-deletions_keys.properties
+END
+drosdel-gff-insertions_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/flymine/drosdel-gff/resources/drosdel-gff-insertions_keys.properties
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/t/10_acceptance
+END
+02_lists_with_tokens.t
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/t/10_acceptance/02_lists_with_tokens.t
+END
+01_live_test.t
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/t/10_acceptance/01_live_test.t
+END
+02_lists.t
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/t/10_acceptance/02_lists.t
+END
+04_paths.t
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/t/10_acceptance/04_paths.t
+END
+03_service_resolution.t
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/28046/branches/intermine_0_98/intermine/perl/Webservice-InterMine/t/10_acceptance/03_service_resolution.t
+END

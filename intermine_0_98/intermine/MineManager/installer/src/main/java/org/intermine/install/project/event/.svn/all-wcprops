@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager/installer/src/main/java/org/intermine/install/project/event
+END
+ProjectAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager/installer/src/main/java/org/intermine/install/project/event/ProjectAdapter.java
+END
+ProjectEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager/installer/src/main/java/org/intermine/install/project/event/ProjectEvent.java
+END
+ProjectListenerSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager/installer/src/main/java/org/intermine/install/project/event/ProjectListenerSupport.java
+END
+ProjectListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager/installer/src/main/java/org/intermine/install/project/event/ProjectListener.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/28046/branches/intermine_0_98/intermine/MineManager/installer/src/main/java/org/intermine/install/project/event/package.html
+END

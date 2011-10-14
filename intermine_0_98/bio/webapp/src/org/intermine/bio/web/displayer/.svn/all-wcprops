@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/displayer
+END
+GeneExpressionAtlasDisplayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/displayer/GeneExpressionAtlasDisplayer.java
+END
+RegulatoryRegionsDisplayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/displayer/RegulatoryRegionsDisplayer.java
+END
+SequenceFeatureDisplayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/displayer/SequenceFeatureDisplayer.java
+END
+OverlappingFeaturesDisplayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/displayer/OverlappingFeaturesDisplayer.java
+END
+PublicationAnnotationsDisplayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/displayer/PublicationAnnotationsDisplayer.java
+END
+HomologueDisplayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/displayer/HomologueDisplayer.java
+END
+GeneStructureDisplayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/displayer/GeneStructureDisplayer.java
+END
+JMOLDisplayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/displayer/JMOLDisplayer.java
+END
+SnpToGeneDisplayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/displayer/SnpToGeneDisplayer.java
+END
+CytoscapeNetworkDisplayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/displayer/CytoscapeNetworkDisplayer.java
+END
+ProteinAtlasDisplayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/displayer/ProteinAtlasDisplayer.java
+END
+PublicationCountsDisplayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/displayer/PublicationCountsDisplayer.java
+END
+UniProtCommentsDisplayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/displayer/UniProtCommentsDisplayer.java
+END
+GBrowseDisplayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/displayer/GBrowseDisplayer.java
+END
+GeneOntologyDisplayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/displayer/GeneOntologyDisplayer.java
+END
+MinePathwaysDisplayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/displayer/MinePathwaysDisplayer.java
+END
+JBrowseDisplayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/displayer/JBrowseDisplayer.java
+END
+DiseaseDisplayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/28046/branches/intermine_0_98/bio/webapp/src/org/intermine/bio/web/displayer/DiseaseDisplayer.java
+END

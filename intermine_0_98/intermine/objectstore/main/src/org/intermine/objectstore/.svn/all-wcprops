@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/objectstore
+END
+ObjectStorePassthruImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/objectstore/ObjectStorePassthruImpl.java
+END
+ObjectStoreWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/objectstore/ObjectStoreWriter.java
+END
+ObjectStoreSummary.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/objectstore/ObjectStoreSummary.java
+END
+ObjectStoreException.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/objectstore/ObjectStoreException.java
+END
+DataChangedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/objectstore/DataChangedException.java
+END
+ObjectStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/objectstore/ObjectStore.java
+END
+ObjectStoreWriterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/objectstore/ObjectStoreWriterFactory.java
+END
+ObjectStoreAbstractImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/objectstore/ObjectStoreAbstractImpl.java
+END
+ObjectStoreFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/objectstore/ObjectStoreFactory.java
+END
+ObjectStoreLimitReachedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/objectstore/ObjectStoreLimitReachedException.java
+END
+ObjectStoreQueryDurationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/28046/branches/intermine_0_98/intermine/objectstore/main/src/org/intermine/objectstore/ObjectStoreQueryDurationException.java
+END

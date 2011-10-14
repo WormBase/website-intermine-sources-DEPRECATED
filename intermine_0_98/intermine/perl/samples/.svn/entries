@@ -1,0 +1,34 @@
+9
+
+dir
+28127
+http://subversion.flymine.org/branches/intermine_0_98/intermine/perl/samples
+http://subversion.flymine.org
+
+
+
+2010-04-28T16:09:40.575745Z
+21175
+alex
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+37e1b716-f2f3-0310-95ce-c813c9c44928
+
+FlyMine
+dir
+
+modMine
+dir
+

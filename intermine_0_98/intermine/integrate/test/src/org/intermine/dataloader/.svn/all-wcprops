@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28046/branches/intermine_0_98/intermine/integrate/test/src/org/intermine/dataloader
+END
+IntegrationWriterDataTrackingImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/28046/branches/intermine_0_98/intermine/integrate/test/src/org/intermine/dataloader/IntegrationWriterDataTrackingImplTest.java
+END
+DataLoaderHelperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/28046/branches/intermine_0_98/intermine/integrate/test/src/org/intermine/dataloader/DataLoaderHelperTest.java
+END
+XmlDataLoaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/28046/branches/intermine_0_98/intermine/integrate/test/src/org/intermine/dataloader/XmlDataLoaderTest.java
+END
+XmlDataLoaderTaskTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/28046/branches/intermine_0_98/intermine/integrate/test/src/org/intermine/dataloader/XmlDataLoaderTaskTest.java
+END
+EquivalentObjectFetcherTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/28046/branches/intermine_0_98/intermine/integrate/test/src/org/intermine/dataloader/EquivalentObjectFetcherTest.java
+END
+IntegrationWriterFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/28046/branches/intermine_0_98/intermine/integrate/test/src/org/intermine/dataloader/IntegrationWriterFactoryTest.java
+END
+DataTrackingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/28046/branches/intermine_0_98/intermine/integrate/test/src/org/intermine/dataloader/DataTrackingTest.java
+END
+IntegrationWriterDataTrackingImplNoIdsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/28046/branches/intermine_0_98/intermine/integrate/test/src/org/intermine/dataloader/IntegrationWriterDataTrackingImplNoIdsTest.java
+END
