@@ -1,190 +1,0 @@
-9
-
-dir
-28127
-http://subversion.flymine.org/branches/intermine_0_98/bio/sources
-http://subversion.flymine.org
-
-
-
-2011-09-28T08:50:39.466753Z
-27922
-rns
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-37e1b716-f2f3-0310-95ce-c813c9c44928
-
-mgi-identifiers
-dir
-
-biogrid
-dir
-
-rgd-identifiers
-dir
-
-so
-dir
-
-biopax
-dir
-
-wormbase-identifiers
-dir
-
-entrez-organism
-dir
-
-ensembl
-dir
-
-ncbi-gene
-dir
-
-orthologue
-dir
-
-tab-separated-file
-dir
-
-arrayexpress-atlas
-dir
-
-mgi-alleles
-dir
-
-reactome
-dir
-
-snp
-dir
-
-chado-db
-dir
-
-interpro
-dir
-
-ensembl-hgnc
-dir
-
-flymine
-dir
-
-interpro-go
-dir
-
-adineta-gff
-dir
-
-ensembl-compara
-dir
-
-uniprot-keywords
-dir
-
-ensembl-snp-db
-dir
-
-psi-mi-ontology
-dir
-
-miranda
-dir
-
-example-sources
-dir
-
-update-publications
-dir
-
-worm-development-ontology
-dir
-
-mammalian-phenotype-ontology
-dir
-
-go-annotation
-dir
-
-ncbi-summaries
-dir
-
-hgnc
-dir
-
-protein-atlas
-dir
-
-treefam
-dir
-
-intermine-items-xml-file
-dir
-
-kegg-orthologues
-dir
-
-modmine
-dir
-
-kegg-pathway
-dir
-
-ensembl-identifiers
-dir
-
-pubmed-gene
-dir
-
-uberon
-dir
-
-psi
-dir
-
-tf-mrna-network
-dir
-
-fasta
-dir
-
-fly-expression-score
-dir
-
-uniprot
-dir
-
-omim
-dir
-
-go
-dir
-
-pdb
-dir
-
-ensembl-gwas-db
-dir
-
-worm-network
-dir
-
-intermine-items-large-xml-file
-dir
-
-experimental-sources
-dir
-
