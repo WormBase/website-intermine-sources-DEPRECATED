@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/biopax/resources
+END
+reactome_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/biopax/resources/reactome_keys.properties
+END
+reactome-curated_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/biopax/resources/reactome-curated_keys.properties
+END
+metacyc_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/biopax/resources/metacyc_keys.properties
+END

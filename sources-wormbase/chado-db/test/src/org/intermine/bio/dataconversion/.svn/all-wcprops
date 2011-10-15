@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/chado-db/test/src/org/intermine/bio/dataconversion
+END
+FlyBaseChadoDBConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/chado-db/test/src/org/intermine/bio/dataconversion/FlyBaseChadoDBConverterTest.java
+END
+TestFlyBaseProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/chado-db/test/src/org/intermine/bio/dataconversion/TestFlyBaseProcessor.java
+END
+SequenceProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/chado-db/test/src/org/intermine/bio/dataconversion/SequenceProcessorTest.java
+END
+ChadoDBConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/chado-db/test/src/org/intermine/bio/dataconversion/ChadoDBConverterTest.java
+END
+ModEncodeMetaDataProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/chado-db/test/src/org/intermine/bio/dataconversion/ModEncodeMetaDataProcessorTest.java
+END

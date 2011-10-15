@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/experimental-sources/biojava-flatfile/resources
+END
+arabidopsis-embl_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/experimental-sources/biojava-flatfile/resources/arabidopsis-embl_keys.properties
+END
+biojava-flatfile_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/experimental-sources/biojava-flatfile/resources/biojava-flatfile_keys.properties
+END
+pombe-embl_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/experimental-sources/biojava-flatfile/resources/pombe-embl_keys.properties
+END

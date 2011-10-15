@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/chado-db/main/src/org/intermine/bio/dataconversion
+END
+WormBaseProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/chado-db/main/src/org/intermine/bio/dataconversion/WormBaseProcessor.java
+END
+StockProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/chado-db/main/src/org/intermine/bio/dataconversion/StockProcessor.java
+END
+FeatureData.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/chado-db/main/src/org/intermine/bio/dataconversion/FeatureData.java
+END
+FlyBaseProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/chado-db/main/src/org/intermine/bio/dataconversion/FlyBaseProcessor.java
+END
+GenomeDBConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/chado-db/main/src/org/intermine/bio/dataconversion/GenomeDBConverter.java
+END
+SequenceProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/chado-db/main/src/org/intermine/bio/dataconversion/SequenceProcessor.java
+END
+ModEncodeFeatureProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/chado-db/main/src/org/intermine/bio/dataconversion/ModEncodeFeatureProcessor.java
+END
+ChadoDBConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/chado-db/main/src/org/intermine/bio/dataconversion/ChadoDBConverter.java
+END
+ChadoProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/chado-db/main/src/org/intermine/bio/dataconversion/ChadoProcessor.java
+END
+ModEncodeMetaDataProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/chado-db/main/src/org/intermine/bio/dataconversion/ModEncodeMetaDataProcessor.java
+END

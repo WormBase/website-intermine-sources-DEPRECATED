@@ -1,0 +1,17 @@
+K 13
+svn:mergeinfo
+V 1158
+/branches/aliases/bio/sources/ensembl/resources/ensembl_keys.properties:26640-26821
+/branches/api-layer-refactor/bio/sources/ensembl/resources/ensembl_keys.properties:19585-20338
+/branches/generic_css_rewrite/bio/sources/ensembl/resources/ensembl_keys.properties:26399-26871
+/branches/keyword-search/bio/sources/ensembl/resources/ensembl_keys.properties:21818-22331
+/branches/list-upgrade/bio/sources/ensembl/resources/ensembl_keys.properties:24148
+/branches/list_upgrade/bio/sources/ensembl/resources/ensembl_keys.properties:24149-26763
+/branches/metamine_remodel/bio/sources/ensembl/resources/ensembl_keys.properties:23423-23640
+/branches/mnw21/pathquery_refactor/bio/sources/ensembl/resources/ensembl_keys.properties:20597-22838
+/branches/model_update/bio/sources/ensembl/resources/ensembl_keys.properties:21277-22538
+/branches/new_report_page/bio/sources/ensembl/resources/ensembl_keys.properties:24499-26112
+/branches/openid/bio/sources/ensembl/resources/ensembl_keys.properties:27167-27493
+/branches/tokens/bio/sources/ensembl/resources/ensembl_keys.properties:26823-26904
+/model_update/bio/sources/ensembl/resources/ensembl_keys.properties:21275-21276
+END

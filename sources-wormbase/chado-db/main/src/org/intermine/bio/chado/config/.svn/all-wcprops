@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/chado-db/main/src/org/intermine/bio/chado/config
+END
+MatchingFieldConfigAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/chado-db/main/src/org/intermine/bio/chado/config/MatchingFieldConfigAction.java
+END
+ConfigAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/chado-db/main/src/org/intermine/bio/chado/config/ConfigAction.java
+END
+SetFieldConfigAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/chado-db/main/src/org/intermine/bio/chado/config/SetFieldConfigAction.java
+END
+DoNothingAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/chado-db/main/src/org/intermine/bio/chado/config/DoNothingAction.java
+END
+CreateCollectionAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/chado-db/main/src/org/intermine/bio/chado/config/CreateCollectionAction.java
+END
+CreateSynonymAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/chado-db/main/src/org/intermine/bio/chado/config/CreateSynonymAction.java
+END

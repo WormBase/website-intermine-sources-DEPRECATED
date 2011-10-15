@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/ensembl-snp-db
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/ensembl-snp-db/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/ensembl-snp-db/project.properties
+END
+ensembl-snp-db_additions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/ensembl-snp-db/ensembl-snp-db_additions.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/ensembl-snp-db/.project
+END
+.checkstyle
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/ensembl-snp-db/.checkstyle
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/ensembl-snp-db/build.xml
+END

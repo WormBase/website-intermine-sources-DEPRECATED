@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/ensembl-gwas-db
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/ensembl-gwas-db/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/ensembl-gwas-db/project.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/ensembl-gwas-db/.project
+END
+ensembl-gwas-db_additions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/ensembl-gwas-db/ensembl-gwas-db_additions.xml
+END
+.checkstyle
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/ensembl-gwas-db/.checkstyle
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/ensembl-gwas-db/build.xml
+END

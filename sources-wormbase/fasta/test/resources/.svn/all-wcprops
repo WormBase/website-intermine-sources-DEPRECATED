@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/test/resources
+END
+dmel-all-three_prime_UTR.fasta
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/test/resources/dmel-all-three_prime_UTR.fasta
+END
+pombe_sid2_short.fasta
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/test/resources/pombe_sid2_short.fasta
+END
+dmel-all-five_prime_UTR.fasta
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/test/resources/dmel-all-five_prime_UTR.fasta
+END
+fasta-test_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/test/resources/fasta-test_keys.properties
+END
+ncbi_test.fasta
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/test/resources/ncbi_test.fasta
+END
+MAL1_trimed.fasta
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/test/resources/MAL1_trimed.fasta
+END
+dmel-all-CDS.fasta
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/test/resources/dmel-all-CDS.fasta
+END
+MAL2_trimed.fasta
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/test/resources/MAL2_trimed.fasta
+END
+uniprot.fasta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/test/resources/uniprot.fasta
+END

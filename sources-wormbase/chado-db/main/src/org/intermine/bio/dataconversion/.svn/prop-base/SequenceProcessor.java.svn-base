@@ -1,0 +1,18 @@
+K 13
+svn:mergeinfo
+V 1710
+/branches/aliases/bio/sources/chado-db/main/src/org/intermine/bio/dataconversion/SequenceProcessor.java:26640-26821
+/branches/api-layer-refactor/bio/sources/chado-db/main/src/org/intermine/bio/dataconversion/SequenceProcessor.java:19585-20338
+/branches/generic_css_rewrite/bio/sources/chado-db/main/src/org/intermine/bio/dataconversion/SequenceProcessor.java:26399-26871
+/branches/keyword-search/bio/sources/chado-db/main/src/org/intermine/bio/dataconversion/SequenceProcessor.java:21818-22331
+/branches/list-upgrade/bio/sources/chado-db/main/src/org/intermine/bio/dataconversion/SequenceProcessor.java:24148
+/branches/list_upgrade/bio/sources/chado-db/main/src/org/intermine/bio/dataconversion/SequenceProcessor.java:24149-26763
+/branches/metamine_remodel/bio/sources/chado-db/main/src/org/intermine/bio/dataconversion/SequenceProcessor.java:23423-23640
+/branches/mnw21/pathquery_refactor/bio/sources/chado-db/main/src/org/intermine/bio/dataconversion/SequenceProcessor.java:20597-22838
+/branches/model_update/bio/sources/chado-db/main/src/org/intermine/bio/dataconversion/SequenceProcessor.java:21277-22538
+/branches/new_report_page/bio/sources/chado-db/main/src/org/intermine/bio/dataconversion/SequenceProcessor.java:24499-26112
+/branches/openid/bio/sources/chado-db/main/src/org/intermine/bio/dataconversion/SequenceProcessor.java:27167-27493
+/branches/tokens/bio/sources/chado-db/main/src/org/intermine/bio/dataconversion/SequenceProcessor.java:26823-26904
+/model_update/bio/sources/chado-db/main/src/org/intermine/bio/dataconversion/SequenceProcessor.java:21275-21276
+/tickets/ticket-1863/bio/sources/chado-db/main/src/org/intermine/bio/dataconversion/ChadoSequenceProcessor.java:18019,18023,18026,18028
+END

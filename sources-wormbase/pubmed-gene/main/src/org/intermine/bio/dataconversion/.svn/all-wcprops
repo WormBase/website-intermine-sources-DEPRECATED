@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/pubmed-gene/main/src/org/intermine/bio/dataconversion
+END
+GenesProcessorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/pubmed-gene/main/src/org/intermine/bio/dataconversion/GenesProcessorException.java
+END
+ReferencesProcessorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/pubmed-gene/main/src/org/intermine/bio/dataconversion/ReferencesProcessorException.java
+END
+GenesFileProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/pubmed-gene/main/src/org/intermine/bio/dataconversion/GenesFileProcessor.java
+END
+ReferencesFileProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/pubmed-gene/main/src/org/intermine/bio/dataconversion/ReferencesFileProcessor.java
+END
+PubMedGeneConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/pubmed-gene/main/src/org/intermine/bio/dataconversion/PubMedGeneConverter.java
+END
+PubMedReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/pubmed-gene/main/src/org/intermine/bio/dataconversion/PubMedReference.java
+END

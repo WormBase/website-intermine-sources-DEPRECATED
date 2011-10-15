@@ -1,0 +1,413 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources
+END
+uniprot-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/uniprot-fasta_keys.properties
+END
+flybase-dmel-cds-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dmel-cds-fasta_keys.properties
+END
+flybase-dmel-5prime-utr-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dmel-5prime-utr-fasta_keys.properties
+END
+flybase-dmel-chromosome-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dmel-chromosome-fasta_keys.properties
+END
+flybase-dmoj-3prime-utr-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dmoj-3prime-utr-fasta_keys.properties
+END
+flybase-dpse-3prime-utr-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dpse-3prime-utr-fasta_keys.properties
+END
+flybase-dper-cds-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dper-cds-fasta_keys.properties
+END
+flybase-dpse-cds-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dpse-cds-fasta_keys.properties
+END
+flybase-dwil-3prime-utr-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dwil-3prime-utr-fasta_keys.properties
+END
+flybase-dmoj-gene-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dmoj-gene-fasta_keys.properties
+END
+flybase-dwil-cds-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dwil-cds-fasta_keys.properties
+END
+flybase-dpse-gene-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dpse-gene-fasta_keys.properties
+END
+flybase-dana-3prime-utr-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dana-3prime-utr-fasta_keys.properties
+END
+flybase-dana-cds-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dana-cds-fasta_keys.properties
+END
+flybase-dvir-cds-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dvir-cds-fasta_keys.properties
+END
+flybase-dwil-gene-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dwil-gene-fasta_keys.properties
+END
+flybase-dana-gene-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dana-gene-fasta_keys.properties
+END
+flybase-dpse-transcript-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dpse-transcript-fasta_keys.properties
+END
+flybase-dere-3prime-utr-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dere-3prime-utr-fasta_keys.properties
+END
+flybase-dsec-5prime-utr-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dsec-5prime-utr-fasta_keys.properties
+END
+flybase-dere-cds-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dere-cds-fasta_keys.properties
+END
+flybase-dsec-chromosome-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dsec-chromosome-fasta_keys.properties
+END
+flybase-dsec-gene-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dsec-gene-fasta_keys.properties
+END
+flybase-dere-gene-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dere-gene-fasta_keys.properties
+END
+flybase-dgri-cds-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dgri-cds-fasta_keys.properties
+END
+flybase-dgri-5prime-utr-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dgri-5prime-utr-fasta_keys.properties
+END
+flybase-dyak-3prime-utr-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dyak-3prime-utr-fasta_keys.properties
+END
+flybase-dgri-chromosome-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dgri-chromosome-fasta_keys.properties
+END
+flybase-dper-3prime-utr-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dper-3prime-utr-fasta_keys.properties
+END
+flybase-dsim-3prime-utr-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dsim-3prime-utr-fasta_keys.properties
+END
+flybase-dvir-5prime-utr-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dvir-5prime-utr-fasta_keys.properties
+END
+flybase-dvir-chromosome-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dvir-chromosome-fasta_keys.properties
+END
+flybase-dvir-gene-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dvir-gene-fasta_keys.properties
+END
+ensembl-human-chr-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/ensembl-human-chr-fasta_keys.properties
+END
+flybase-dsec-cds-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dsec-cds-fasta_keys.properties
+END
+flybase-dmel-3prime-utr-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dmel-3prime-utr-fasta_keys.properties
+END
+malaria-chromosome-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/malaria-chromosome-fasta_keys.properties
+END
+flybase-dmel-gene-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dmel-gene-fasta_keys.properties
+END
+flybase-dyak-cds-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dyak-cds-fasta_keys.properties
+END
+flybase-dmoj-cds-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dmoj-cds-fasta_keys.properties
+END
+flybase-dmoj-5prime-utr-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dmoj-5prime-utr-fasta_keys.properties
+END
+flybase-dmoj-chromosome-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dmoj-chromosome-fasta_keys.properties
+END
+ensembl-mouse-chr-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/ensembl-mouse-chr-fasta_keys.properties
+END
+flybase-dpse-5prime-utr-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dpse-5prime-utr-fasta_keys.properties
+END
+flybase-dsim-cds-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dsim-cds-fasta_keys.properties
+END
+flybase-dpse-chromosome-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dpse-chromosome-fasta_keys.properties
+END
+flybase-dwil-5prime-utr-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dwil-5prime-utr-fasta_keys.properties
+END
+flybase-dmel-transcript-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dmel-transcript-fasta_keys.properties
+END
+flybase-dwil-chromosome-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dwil-chromosome-fasta_keys.properties
+END
+flybase-dana-5prime-utr-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dana-5prime-utr-fasta_keys.properties
+END
+flybase-dana-chromosome-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dana-chromosome-fasta_keys.properties
+END
+flybase-dsec-3prime-utr-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dsec-3prime-utr-fasta_keys.properties
+END
+flybase-dere-5prime-utr-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dere-5prime-utr-fasta_keys.properties
+END
+flybase-dere-chromosome-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dere-chromosome-fasta_keys.properties
+END
+flybase-dgri-3prime-utr-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dgri-3prime-utr-fasta_keys.properties
+END
+flybase-dmel-protein-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dmel-protein-fasta_keys.properties
+END
+flybase-dyak-5prime-utr-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dyak-5prime-utr-fasta_keys.properties
+END
+flybase-dyak-chromosome-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dyak-chromosome-fasta_keys.properties
+END
+flybase-dper-5prime-utr-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dper-5prime-utr-fasta_keys.properties
+END
+flybase-dgri-gene-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dgri-gene-fasta_keys.properties
+END
+flybase-dper-chromosome-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dper-chromosome-fasta_keys.properties
+END
+flybase-dsim-5prime-utr-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dsim-5prime-utr-fasta_keys.properties
+END
+flybase-dyak-gene-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dyak-gene-fasta_keys.properties
+END
+flybase-dsim-chromosome-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dsim-chromosome-fasta_keys.properties
+END
+flybase-dper-gene-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dper-gene-fasta_keys.properties
+END
+flybase-dsim-gene-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dsim-gene-fasta_keys.properties
+END
+flybase-dvir-3prime-utr-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dvir-3prime-utr-fasta_keys.properties
+END
+flybase-dpse-protein-fasta_keys.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/28046/branches/intermine_0_98/bio/sources/fasta/resources/flybase-dpse-protein-fasta_keys.properties
+END
