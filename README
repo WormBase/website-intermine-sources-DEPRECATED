@@ -1,6 +1,14 @@
-This repository contains code in support of the WormBase
-InterMine instance.
+Repository: website-intermine-sources
+
+This repository contains the source files for the Intermine
+instance at WormBase.
+
+It should be checked out into your intermine/bio/sources
+directory into a directory named "wormmine":
+
+ > cd ~/projects/intermine/bio/sources
+ > git clone git://github.com/WormBase/website-intermine-sources.git wormmine
 
 
 Todd Harris (todd@wormbase.org)
-2011.03.21
+09 Jan 2012
