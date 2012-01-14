@@ -1,0 +1,4 @@
+<project name="wormbase-genome-fasta-tasks" default="default" basedir=".">
+  <description>build wormbase-genome-fasta tasks</description>
+  <import file="../../../../../imbuild/library.xml"/> 
+</project>

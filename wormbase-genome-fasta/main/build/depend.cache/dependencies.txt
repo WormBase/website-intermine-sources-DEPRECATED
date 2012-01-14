@@ -1,0 +1,4 @@
+||:org.intermine.bio.dataconversion.WormbaseGenomeFastaConverter
+org.intermine.bio.dataconversion.WormbaseGenomeFastaConverter
+org.intermine.bio.dataconversion.BioFileConverter
+java.lang.Exception
