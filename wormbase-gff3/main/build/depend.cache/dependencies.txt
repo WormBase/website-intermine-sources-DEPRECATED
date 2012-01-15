@@ -1,7 +1,0 @@
-||:org.intermine.bio.dataconversion.WormBaseGFF3RecordHandler
-java.lang.String
-java.util.Map
-org.intermine.xml.full.Attribute
-org.intermine.bio.dataconversion.GFF3RecordHandler
-org.intermine.xml.full.Item
-org.intermine.bio.dataconversion.WormBaseGFF3RecordHandler
