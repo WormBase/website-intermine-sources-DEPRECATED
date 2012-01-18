@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<classes>
+
+  <class name="Exon" is-interface="true">
+    <reference name="transcript" referenced-type="Transcript" />
+  </class>
+
+  <class name="CDS" is-interface="true">
+    <reference name="transcript" referenced-type="Transcript" />
+  </class>
+
+  <class name="MiRNAPrimaryTranscript" extends="Transcript" is-interface="true">
+         <attribute name="ncrna" type="java.lang.Boolean"/>
+  </class>
+
+  <class name="MiRNA" extends="Transcript" is-interface="true">
+         <attribute name="mirna" type="java.lang.Boolean"/>
+  </class>
+
+  <class name="NcPrimaryTranscript" extends="Transcript" is-interface="true">
+         <attribute name="ncrna" type="java.lang.Boolean"/>
+  </class>
+
+  <class name="NcRNA" extends="Transcript" is-interface="true">
+         <attribute name="ncrna" type="java.lang.Boolean"/>
+  </class>
+
+  <class name="PseudogenicTranscript" extends="Transcript" is-interface="true">
+         <attribute name="pseudogene" type="java.lang.Boolean"/>
+  </class>
+
+  <class name="RRNAPrimaryTranscript" extends="Transcript" is-interface="true">
+         <attribute name="rrna" type="java.lang.Boolean"/>
+  </class>
+
+  <class name="SnoRNA" extends="Transcript" is-interface="true">
+         <attribute name="snorna" type="java.lang.Boolean"/>
+  </class>
+
+  <class name="SnRNA" extends="Transcript" is-interface="true">
+         <attribute name="snrna" type="java.lang.Boolean"/>
+  </class>
+
+</classes>
+
+<!--
+<classes>
+  <class name="ChromosomalDeletion" is-interface="true">
+    <attribute name="available" type="java.lang.Boolean"/>
+    <attribute name="confirmedByPCR" type="java.lang.Boolean"/>
+    <attribute name="confirmedByGenetics" type="java.lang.Boolean"/>
+    <reference name="element1"
+               referenced-type="TransposableElementInsertionSite"/>
+    <reference name="element2"
+               referenced-type="TransposableElementInsertionSite"/>
+  </class>
+  <class name="TransposableElementInsertionSite" is-interface="true">
+    <attribute name="type" type="java.lang.String"/>
+    <attribute name="subType" type="java.lang.String"/>
+    <attribute name="available" type="java.lang.Boolean"/>
+  </class>
+</classes>
+-->
